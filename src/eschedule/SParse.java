@@ -2,13 +2,7 @@ package eschedule;
 
 import java.text.*;
 import java.io.*;
-import java.lang.*;
-import java.net.MalformedURLException;
-import java.nio.*;
-import java.nio.file.*;
-import java.nio.charset.*;
 import java.util.*;
-import java.util.regex.*;
 
 
 /**
@@ -21,14 +15,14 @@ public class SParse {
 	private Map<String, Team> dict = Tools.teamDict();
 	private ArrayList<String> tokens;
 	private Schedule sch;
-	private final static Charset ENCODING = StandardCharsets.UTF_8;
 	
 	
-	public SParse(ArrayList<String> tokens, Schedule s) throws IOException, ParseException {
-	this.tokens = tokens;
-	sch = s;
-	System.out.println("Parse created");
-	parseLines();
+	public SParse(Schedule s, ArrayList<String>... tokenlists) throws IOException, ParseException {
+		sch = s;
+		for (ArrayList<String> tokens : tokenlists)	{
+			this.tokens = tokens;
+			parseLines();
+		}
 	}
 	
 	public void parseLines() throws IOException, ParseException {
@@ -60,7 +54,6 @@ public class SParse {
 	 */
 	void parseLine(String line)  throws ParseException {
 		Match match = new Match();
-		Date time;
 		String hour = null;
 		String date = null;
 		String zone = null;
@@ -98,6 +91,10 @@ public class SParse {
 			else if (scanner.hasNext(".*shownname.*")) {
 				String token = scanner.next();
 				match.setLeague((getValue(token, "post")));
+			}
+			else if (scanner.hasNext(".*VOD1.*")) {
+				String token = scanner.next();
+				match.setVOD((getValue(token, "post")));
 			}
 			else 
 				scanner.next();

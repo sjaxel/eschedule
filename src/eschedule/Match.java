@@ -1,11 +1,14 @@
 package eschedule;
 import java.util.*;
-import java.text.*;
+import java.net.*;
 
 public class Match implements Comparable<Match> {
 	private static int id = 1;
-
+    static enum Status {
+        HIDDEN, VISIBLE, SPOILERS;
+    }
 	
+    Status state;
 	private int uid;
 	private Calendar time;
 	private Team t1;
@@ -14,32 +17,55 @@ public class Match implements Comparable<Match> {
 	private int t2score;
 	private Team winner;
 	private String league;
+	private URL vod;
 	
-	
-	public Match(Team t1, Team t2, String date) throws ParseException  {
-		time = Tools.getCal();
-		time.setTime(Tools.getSDF().parse(date));
-		uid = id; id++;
-		this.t1 = t1;
-		this.t2 = t2;
-	}
-	
-	
+	/**
+	 * Constructor for the Match-class. Creates an empty match with current time as
+	 * and Status.SPOILERS as default.
+	 */
 	public Match() {
+		state = Status.SPOILERS;
 		time = Tools.getCal();
 		uid = id; id++;
 	}
 	
+	/**
+	 * Get the time for the match.
+	 * @return A {@link Calendar} objects with the time of the match set.
+	 */
 	public Calendar getCal() {
 		return time;
 	}
 	
+	/**
+	 * Get the time for the match.
+	 * @return Returns a {@link Date} value with match time in milleseconds
+	 * since the current epoch.
+	 */
 	public Date getTime() {
 		return time.getTime();
 	}
 	
 	public void setDate(Date date){
 		time.setTime(date);
+	}
+	
+	public void setVOD(String url) {
+		if (url != null) {
+		try {
+			vod = new URL(url);
+		} catch (MalformedURLException e) {
+		}
+		}
+	}
+	
+	public URL getVOD() {
+		if (vod != null) {
+			return vod;
+		}
+		else {
+			return null;
+		}
 	}
 	
 	public void setWinner(int t) {
@@ -54,6 +80,22 @@ public class Match implements Comparable<Match> {
 	
 	public Team getWinner() {
 		return winner;
+	}
+	
+	public Status getStatus() {
+		return state;
+	}
+	
+	public void setSpoiler() {
+		state = Status.SPOILERS;
+	}
+	
+	public void setHidden() {
+		state = Status.HIDDEN;
+	}
+	
+	public void setVisible() {
+		state = Status.VISIBLE;
 	}
 	
 	public void setLeague(String league) {
@@ -98,6 +140,14 @@ public class Match implements Comparable<Match> {
 	}
 	
 	public String toString() {
-		return league + " - " + Tools.getSDF().format(getTime()) + " - " + t1 + " vs. " + t2;
+		if (state == Status.VISIBLE) {
+			return Tools.getSDF().format(getTime()) + " - " + t1 + " vs. " + t2;
+		}
+		else if (state == Status.SPOILERS) {
+			return Tools.getSDF().format(getTime()) + " - " + t1 + " vs. " + t2;
+		}
+		else {
+			return "";
+		}
 	}
 }

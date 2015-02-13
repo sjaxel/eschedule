@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>gson2.3.1</name>
-			<type>2</type>
-			<location>C:/Users/sjaxel/code/gson2.3.1</location>
-		</link>
-	</linkedResources>
 </projectDescription>

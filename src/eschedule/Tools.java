@@ -40,10 +40,11 @@ public class Tools {
 		return getSDF("UTC");
 	}
 	
-	public static ArrayList<String> getAPI(String ur) {
+	public static ArrayList<String> getLeaguepedia(String page) {
 		ArrayList<String> tokens = new ArrayList<String>();
+		String apiAdress = "http://lol.gamepedia.com/api.php?action=query&prop=revisions&rvprop=content&format=xmlfm&titles=";
 		try {
-		    URL url = new URL(ur);
+		    URL url = new URL(apiAdress + page);
 		    HttpURLConnection httpcon = (HttpURLConnection) url.openConnection(); 
 		    httpcon.addRequestProperty("User-Agent", "League Schedule Parser - Contact: sjaxel@github");
 		    BufferedReader reader = new BufferedReader(new InputStreamReader(httpcon.getInputStream()));
@@ -76,6 +77,16 @@ public class Tools {
 		dict.put("liquid", new Team("LIQ", "Team Liquid"));
 		dict.put("tsm", new Team("TSM", "Team Solo Mid"));
 		dict.put("wfx", new Team("WFX", "Winterfox"));
+		dict.put("cw", new Team("CW", "Copenhagen Wolves"));
+		dict.put("elements", new Team("EL", "Elements"));
+		dict.put("fnatic", new Team("FNC", "Fnatic"));
+		dict.put("gg", new Team("GMB", "Gambit Gaming"));
+		dict.put("giants!", new Team("GIA", "GIANTS! Gaming"));
+		dict.put("h2k", new Team("H2K", "H2K-Gaming"));
+		dict.put("mym", new Team("MYM", "MeetYourMakers"));
+		dict.put("sk", new Team("SK", "SK Gaming"));
+		dict.put("roccat", new Team("ROC", "Team ROCCAT"));
+		dict.put("uol", new Team("UOL", "Unicorns of Love"));
 		return dict;
 	}
 }
