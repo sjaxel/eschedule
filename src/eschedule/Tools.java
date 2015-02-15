@@ -10,6 +10,7 @@ import java.io.File;
 public class Tools {
 	/**
 	 * Tool for getting a UTC Gregorian calendar. (1)
+	 * 
 	 * @return GregorianCalendar-object with UTC time zone.
 	 */
 	public static Calendar getCal() {
@@ -17,14 +18,16 @@ public class Tools {
 		ECalendar cal = new ECalendar(zone);
 		return cal;
 	}
-	
+
 	/**
-	*Returns a formatted SimpleDateFormat.	(1)
-	*<p>
-	*@see java.text.SimpleDateFormat
-	*@return A SimpleDateFormat with the formating "yyyy-MM-dd HH:mm". (3)
-	*@param zone A string containing the timezone of the SDF ex. "GMT+2".
-	*/
+	 * Returns a formatted SimpleDateFormat. (1)
+	 * <p>
+	 *
+	 * @see java.text.SimpleDateFormat
+	 * @return A SimpleDateFormat with the formating "yyyy-MM-dd HH:mm". (3)
+	 * @param zone
+	 *            A string containing the timezone of the SDF ex. "GMT+2".
+	 */
 	public static SimpleDateFormat getSDF(String zone) {
 		SimpleDateFormat sdf;
 		sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm");
@@ -33,62 +36,64 @@ public class Tools {
 		return sdf;
 	}
 
-	
 	/**
 	 * Parameterless getSDF with formating "yyyy-MM-dd HH:mm".
+	 * 
 	 * @return A SimpleDateFormat with the formating "yyyy-MM-dd HH:mm". (3)
 	 */
 	public static SimpleDateFormat getSDF() {
 		return getSDF("UTC");
 	}
-	
+
 	public static ArrayList<String> getCacheFile(String file) {
 		ArrayList<String> tokens = new ArrayList<String>();
 		String line;
 		try {
-		FileReader freader = new FileReader(new File(file));
-	    BufferedReader reader = new BufferedReader(freader);
-	    while ((line = reader.readLine()) != null) {
-	    	tokens.add(line);
-	    }
-	    reader.close();
+			FileReader freader = new FileReader(new File(file));
+			BufferedReader reader = new BufferedReader(freader);
+			while ((line = reader.readLine()) != null) {
+				tokens.add(line);
+			}
+			reader.close();
 		} catch (FileNotFoundException f) {
 			//
 		} catch (IOException i) {
 			//
 		}
-		return tokens;	
+		return tokens;
 	}
-	
+
 	public static ArrayList<String> getLeaguepedia(String page) {
 		ArrayList<String> tokens = new ArrayList<String>();
 		String apiAdress = "http://lol.gamepedia.com/api.php?action=query&prop=revisions&rvprop=content&format=xml&redirects&titles=";
 		try {
-		    URL url = new URL(apiAdress + page);
-		    HttpURLConnection httpcon = (HttpURLConnection) url.openConnection(); 
-		    httpcon.addRequestProperty("User-Agent", "Bot: League Schedule Parser - Contact: sjaxel@github");
-		    BufferedReader reader = new BufferedReader(new InputStreamReader(httpcon.getInputStream()));
-		    String line;
-		    System.out.println("Writing file...");
-		    FileWriter fwriter = new FileWriter(new File("output.txt"));
-		    BufferedWriter writer = new BufferedWriter(fwriter);
+			URL url = new URL(apiAdress + page);
+			HttpURLConnection httpcon = (HttpURLConnection) url
+					.openConnection();
+			httpcon.addRequestProperty("User-Agent",
+					"Bot: League Schedule Parser - Contact: sjaxel@github");
+			BufferedReader reader = new BufferedReader(new InputStreamReader(
+					httpcon.getInputStream()));
+			String line;
+			System.out.println("Writing file...");
+			FileWriter fwriter = new FileWriter(new File("output.txt"));
+			BufferedWriter writer = new BufferedWriter(fwriter);
 
-		    while (((line = reader.readLine()) != null)) {
-		    		tokens.add(line);
-		    		writer.write(line + "\n");
-		    }
-		    reader.close();
-		    writer.close();
+			while (((line = reader.readLine()) != null)) {
+				tokens.add(line);
+				writer.write(line + "\n");
+			}
+			reader.close();
+			writer.close();
 
 		} catch (MalformedURLException e) {
-		    System.out.println("Problems with URL");
+			System.out.println("Problems with URL");
 		} catch (IOException e) {
 			System.out.println("IOException: " + e);
 		}
 		return tokens;
 	}
-	
-	
+
 	public static Map<String, Team> teamDict() {
 		TeamKeys dict = new TeamKeys();
 		TParse parse = new TParse(Tools.getCacheFile("teamdict.txt"), dict);
