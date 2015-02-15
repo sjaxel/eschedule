@@ -27,9 +27,24 @@ public class Schedule {
 		return getMatches;
 	}
 	
+	public int getSize() {
+		return matches.size();
+	}
+	
 	public void unSpoil() {
 		for (Match m : matches) {
 			m.setVisible();
+		}
+	}
+	
+	public void showWeeks(int... weeks) {
+		hideAll();
+		for (Match m : matches) {
+			for (int w : weeks) {
+				if (m.getWeek() == w) {
+					m.setVisible();
+				}
+			}
 		}
 	}
 	
@@ -38,10 +53,16 @@ public class Schedule {
 	}
 
 	public void hidePast() {
-		Calendar now = new GregorianCalendar();
+		Calendar now = new ECalendar();
 		for (Match m : matches) {
 			if (m.getCal().compareTo(now) < 0)
 				m.setHidden();
+		}
+	}
+	
+	public void hideAll() {
+		for (Match m : matches) {
+			m.setHidden();
 		}
 	}
 		

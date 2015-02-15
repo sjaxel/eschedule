@@ -1,18 +1,20 @@
 package eschedule;
 
 import java.util.*;
+import java.util.Arrays;
 import java.io.*;
 import java.text.*;
 import java.net.*;
+import java.io.File;
 
 public class Tools {
 	/**
-	 * Tool for getting a UTC gregorian calendar. (1)
+	 * Tool for getting a UTC Gregorian calendar. (1)
 	 * @return GregorianCalendar-object with UTC time zone.
 	 */
 	public static Calendar getCal() {
 		TimeZone zone = TimeZone.getTimeZone("UTC");
-		Calendar cal = new GregorianCalendar(zone);
+		ECalendar cal = new ECalendar(zone);
 		return cal;
 	}
 	
@@ -40,22 +42,43 @@ public class Tools {
 		return getSDF("UTC");
 	}
 	
+	public static ArrayList<String> getCacheFile(String file) {
+		ArrayList<String> tokens = new ArrayList<String>();
+		String line;
+		try {
+		FileReader freader = new FileReader(new File(file));
+	    BufferedReader reader = new BufferedReader(freader);
+	    while ((line = reader.readLine()) != null) {
+	    	tokens.add(line);
+	    }
+	    reader.close();
+		} catch (FileNotFoundException f) {
+			//
+		} catch (IOException i) {
+			//
+		}
+		return tokens;	
+	}
+	
 	public static ArrayList<String> getLeaguepedia(String page) {
 		ArrayList<String> tokens = new ArrayList<String>();
-		String apiAdress = "http://lol.gamepedia.com/api.php?action=query&prop=revisions&rvprop=content&format=xmlfm&titles=";
+		String apiAdress = "http://lol.gamepedia.com/api.php?action=query&prop=revisions&rvprop=content&format=xml&redirects&titles=";
 		try {
 		    URL url = new URL(apiAdress + page);
 		    HttpURLConnection httpcon = (HttpURLConnection) url.openConnection(); 
-		    httpcon.addRequestProperty("User-Agent", "League Schedule Parser - Contact: sjaxel@github");
+		    httpcon.addRequestProperty("User-Agent", "Bot: League Schedule Parser - Contact: sjaxel@github");
 		    BufferedReader reader = new BufferedReader(new InputStreamReader(httpcon.getInputStream()));
 		    String line;
-		    
-		    while ((line = reader.readLine()) != null) {
-		        if (line.indexOf("GameSchedule") > 0) {
-		        	tokens.add(line);
-		        }
+		    System.out.println("Writing file...");
+		    FileWriter fwriter = new FileWriter(new File("output.txt"));
+		    BufferedWriter writer = new BufferedWriter(fwriter);
+
+		    while (((line = reader.readLine()) != null)) {
+		    		tokens.add(line);
+		    		writer.write(line + "\n");
 		    }
 		    reader.close();
+		    writer.close();
 
 		} catch (MalformedURLException e) {
 		    System.out.println("Problems with URL");
@@ -65,28 +88,10 @@ public class Tools {
 		return tokens;
 	}
 	
+	
 	public static Map<String, Team> teamDict() {
-		Map<String, Team> dict = new HashMap<String, Team>();
-		dict.put("c9", new Team("C9", "Cloud9"));
-		dict.put("clg", new Team("CLG", "Counter Logic Gaming"));
-		dict.put("gravity", new Team("GG", "Gravity Gaming"));
-		dict.put("t8", new Team("T8", "Team 8"));
-		dict.put("c", new Team("CST", "Team Coast"));
-		dict.put("d", new Team("DIG", "Team Dignitas"));
-		dict.put("tip", new Team("TIP", "Team Impulse"));
-		dict.put("liquid", new Team("LIQ", "Team Liquid"));
-		dict.put("tsm", new Team("TSM", "Team Solo Mid"));
-		dict.put("wfx", new Team("WFX", "Winterfox"));
-		dict.put("cw", new Team("CW", "Copenhagen Wolves"));
-		dict.put("elements", new Team("EL", "Elements"));
-		dict.put("fnatic", new Team("FNC", "Fnatic"));
-		dict.put("gg", new Team("GMB", "Gambit Gaming"));
-		dict.put("giants!", new Team("GIA", "GIANTS! Gaming"));
-		dict.put("h2k", new Team("H2K", "H2K-Gaming"));
-		dict.put("mym", new Team("MYM", "MeetYourMakers"));
-		dict.put("sk", new Team("SK", "SK Gaming"));
-		dict.put("roccat", new Team("ROC", "Team ROCCAT"));
-		dict.put("uol", new Team("UOL", "Unicorns of Love"));
+		TeamKeys dict = new TeamKeys();
+		TParse parse = new TParse(Tools.getCacheFile("teamdict.txt"), dict);
 		return dict;
 	}
 }

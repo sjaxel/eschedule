@@ -1,0 +1,1188 @@
+<?xml version="1.0"?><api><query><normalized><n from="2015_LCK_Spring/Round_Robin" to="2015 LCK Spring/Round Robin" /></normalized><pages><page pageid="396946" ns="0" title="2015 LCK Spring/Round Robin"><revisions><rev contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{ChampionsTabs|2015Spring=1|Spring=1}}
+&lt;br&gt;
+{{Infobox League
+|name=SBENU Champions Spring 2015
+|image= OGN The Champions.png
+|organizer=OnGameNet
+|organizer2=
+|sponsor= [http://www.sbenu.co.kr/ SBENU]
+|server=KR
+|type=Offline
+|country= South Korea
+|prizepool=
+|format=
+|sdate= 2015-01-07
+|edate= 2015-02-14
+|web=
+}}
+
+==Overview==
+=== Format ===
+* Participants:
+** Seeded Teams: [[Samsung Galaxy|Samsung]], [[Jin Air Green Wings]], [[NaJin e-mFire]], [[SK Telecom T1]], [[CJ Entus]] and [[KT Rolster]].
+** Qualified Teams: [[GE Tigers]] and [[Incredible Miracle]].
+* Regular Season:
+** 2 x 6 weeks
+*** First half - Jan 7th to Feb 14th
+*** Second half - Feb 25th to Apr 11th
+** Double Round Robin
+** All games are Bo3
+** Substitutions can done in between games
+** Top 4 teams will qualify for the [[2015 LCK Spring/Playoffs|Playoffs]].
+&lt;!--
+* All bracket stage games are Best of Five, including the Grand Finals
+** The final game is Blind Pick while other games are Draft Pick
+** Teams losing in the Quarterfinals continue to play in [[NLB Summer 2014#Diamond League|ITENJOY NLB Summer 2014 (DiamondLeague)]] --&gt;
+* Special Awards are given to selected players after the season:
+** A Season MVP award will be given to one player.
+*** After each match, the press will decide the MVP and award points
+**** Season: 100 points
+**** Playoffs: 300 points
+**** Finals: 500 points
+** A KDA award will be given to one player of each role.
+*** The player of each role (Top, Jungle, Mid, AD Carry, and Support) who has the highest Kill-Death-Assist rate will win.
+
+=== Participants ===
+==== Seeded Teams ====
+{{box|start}}
+{|class=&quot;prettytable collapsible collapsed&quot;
+|+'''[[CJ Entus]]'''
+!height=&quot;150&quot; width=&quot;150&quot; align=&quot;center&quot; valign=&quot;top&quot;|
+{{TeamImage|CJ Entus}}
+|-
+|'''{{player|Shy|flag=kr}}'''
+|-
+|'''{{player|Ambition|flag=kr}}'''
+|-
+|'''{{player|Trick|flag=kr}}'''
+|-
+|'''{{player|Coco|flag=kr}}'''
+|-
+|'''{{player|Space|flag=kr}}'''
+|-
+|'''{{player|Roar (Korean){{!}}Roar|flag=kr}}'''
+|-
+|'''{{player|MadLife|flag=kr}}'''
+|-
+|'''{{player|Max|flag=kr}}'''
+|}
+
+{{box|break}}
+
+{|class=&quot;prettytable collapsible collapsed&quot;
+|+'''[[Jin Air Green Wings]]'''
+!height=&quot;150&quot; width=&quot;150&quot; align=&quot;center&quot; valign=&quot;top&quot;|
+{{TeamImage|Jin Air Green Wings}}
+|-
+|'''{{player|TrAce|flag=kr}}'''
+|-
+|'''{{player|Chaser|flag=kr}}'''
+|-
+|'''{{player|GBM|flag=kr}}'''
+|-
+|'''{{player|Cpt Jack|flag=kr}}'''
+|-
+|'''{{player|Pilot|flag=kr}}'''
+|-
+|'''{{player|Chei|flag=kr}}'''
+|-
+|'''{{player|XD|flag=kr}}'''
+|}
+
+{{box|break}}
+
+{|class=&quot;prettytable collapsible collapsed&quot;
+|+'''[[KT Rolster]]'''
+!height=&quot;150&quot; width=&quot;150&quot; align=&quot;center&quot; valign=&quot;top&quot;|
+{{TeamImage|KT Rolster}}
+|-
+|'''{{player|Ssumday|flag=kr}}'''
+|-
+|'''{{player|Score|flag=kr}}'''
+|-
+|'''{{player|Nagne|flag=kr}}'''
+|-
+|'''{{player|Arrow|flag=kr}}'''
+|-
+|'''{{player|Hachani|flag=kr}}'''
+|}
+{{Box|break}}
+
+{|class=&quot;prettytable collapsible collapsed&quot;
+|+'''[[NaJin e-mFire]]'''
+!height=&quot;150&quot; width=&quot;150&quot; align=&quot;center&quot; valign=&quot;top&quot;|
+{{TeamImage|NaJin e-mFire}}
+|-
+|'''{{player|Duke|flag=kr}}'''
+|-
+|'''{{player|Watch|flag=kr}}''' 
+|-
+|'''{{player|Ggoong|flag=kr}}'''
+|-
+|'''{{player|Zefa|flag=kr}}'''
+|-
+|'''{{player|Ohq|flag=kr}}'''
+|-
+|'''{{player|Cain|flag=kr}}'''
+|-
+|'''{{player|Pure|flag=kr}}'''
+|}
+
+{{box|break}}
+
+{|class=&quot;prettytable collapsible collapsed&quot;
+|+'''[[Samsung Galaxy|Samsung]]'''
+!height=&quot;150&quot; width=&quot;150&quot; align=&quot;center&quot; valign=&quot;top&quot;|
+{{TeamImage|Samsung Galaxy}}
+|-
+|'''{{player|Cuvee|flag=kr}}'''
+|-
+|'''{{player|Eve|flag=kr}}'''
+|-
+|'''{{player|BliSS|flag=kr}}'''
+|-
+|'''{{player|Fury|flag=kr}}'''
+|-
+|'''{{player|Wraith (Player){{!}}Wraith|flag=kr}}'''
+|}
+
+{{box|break}}
+
+{|class=&quot;prettytable collapsible collapsed&quot;
+|+'''[[SK Telecom T1]]'''
+!height=&quot;150&quot; width=&quot;150&quot; align=&quot;center&quot; valign=&quot;top&quot;|
+{{TeamImage|SK Telecom T1}}
+|-
+|'''{{player|MaRin|flag=kr}}'''
+|-
+|'''{{player|Bengi|flag=kr}}'''
+|-
+|'''{{player|Faker|flag=kr}}'''
+|-
+|'''{{player|Easyhoon|flag=kr}}'''
+|-
+|'''{{player|Bang|flag=kr}}'''
+|-
+|'''{{player|Wolf (Korean){{!}}Wolf|flag=kr}}'''
+|-
+|'''{{player|Piccaboo|flag=kr}}'''
+|}
+
+{{box|end}}
+
+==== Qualified Teams ====
+{{Box|start}}
+{|class=&quot;prettytable collapsible collapsed&quot;
+|+'''[[GE Tigers]]'''
+!height=&quot;150&quot; width=&quot;150&quot; align=&quot;center&quot; valign=&quot;top&quot;|
+{{TeamImage|GE Tigers}}
+|-
+|'''{{player|Smeb|flag=kr}}'''
+|-
+|'''{{player|Lee|flag=kr}}'''
+|-
+|'''{{player|kurO|flag=kr}}'''
+|-
+|'''{{player|PraY|flag=kr}}'''
+|-
+|'''{{player|GorillA|flag=kr}}'''
+|}
+
+{{box|break}}
+
+{|class=&quot;prettytable collapsible collapsed&quot;
+|+'''[[Incredible Miracle]]'''
+!height=&quot;150&quot; width=&quot;150&quot; align=&quot;center&quot; valign=&quot;top&quot;|
+{{TeamImage|Incredible Miracle}}
+|-
+|'''{{player|Lilac|flag=kr}}'''
+|-
+|'''{{player|Wisdom|flag=kr}}'''
+|-
+|'''{{player|Frozen||flag=kr}}'''
+|-
+|'''{{player|SONSTAR|flag=kr}}'''
+|-
+|'''{{player|TuSin|flag=kr}}''' 
+|}
+
+{{Box|end}}
+
+==Results==
+=== Round Robin ===
+{{Box2|start|padding=1em}}
+{{GroupTableStart| Season Rankings |width=350px}}
+{{GroupTableSlot|{{Team|GE Tigers}}     |place=1|win_m=7|lose_m=0|win_g=14|lose_g=2|bg=|pbg=up}}
+{{GroupTableSlot|{{Team|CJ}}            |place=2|win_m=5|lose_m=2|win_g=10|lose_g=7|bg=|pbg=up}}
+{{GroupTableSlot|{{Team|SKT}}           |place=3|win_m=4|lose_m=3|win_g=9|lose_g=7|bg=|pbg=up}}
+{{GroupTableSlot|{{Team|jinair}}        |place=3|win_m=4|lose_m=3|win_g=11|lose_g=7|bg=|pbg=up}}
+{{GroupTableSlot|{{Team|IM}}            |place=5|win_m=3|lose_m=4|win_g=7|lose_g=9|bg=|pbg=up}}
+{{GroupTableSlot|{{Team|Najin}}         |place=5|win_m=3|lose_m=4|win_g=8|lose_g=9|bg=|pbg=up}}
+{{GroupTableSlot|{{Team|KT}}            |place=7|win_m=2|lose_m=5|win_g=5|lose_g=11|bg=|pbg=up}}
+{{GroupTableSlot|{{Team|SSG}}           |place=8|win_m=0|lose_m=7|win_g=2|lose_g=14|bg=|pbg=up}}
+{{GroupTableEnd}}
+{{Box|break|padding=1em}}
+{{Crossbox8
+|team1=cj entus
+   |t1t2score=0 - 2 |t1t2winner=2&lt;!--ge tigers--&gt;
+   |t1t3score=2 - 1 |t1t3winner=1&lt;!--incredible miracle--&gt;
+   |t1t4score=0 - 2 |t1t4winner=2&lt;!--jin air green wings--&gt;
+   |t1t5score=2 - 1 |t1t5winner=1&lt;!--kt rolster--&gt;
+   |t1t6score=2 - 1 |t1t6winner=1&lt;!--najin e-mfire--&gt;
+   |t1t7score=2 - 0 |t1t7winner=1&lt;!--samsung galaxy--&gt;
+   |t1t8score=2 - 0 |t1t8winner=1&lt;!--sk telecom t1--&gt;
+   
+|team2=ge tigers
+   |t2t1score=2 - 0 |t2t1winner=1&lt;!--cj entus--&gt;
+   |t2t3score=2 - 0 |t2t3winner=1&lt;!--incredible miracle--&gt;
+   |t2t4score=2 - 1 |t2t4winner=1&lt;!--jin air green wings--&gt;
+   |t2t5score=2 - 0 |t2t5winner=1&lt;!--kt rolster--&gt;
+   |t2t6score=2 - 0 |t2t6winner=1&lt;!--najin e-mfire--&gt;
+   |t2t7score=2 - 0 |t2t7winner=1&lt;!--samsung galaxy--&gt;
+   |t2t8score=2 - 1 |t2t8winner=1&lt;!--sk telecom t1--&gt;
+   
+|team3=incredible miracle
+   |t3t1score=1 - 2 |t3t1winner=2&lt;!--cj entus--&gt;
+   |t3t2score=0 - 2 |t3t2winner=2&lt;!--ge tigers--&gt;
+   |t3t4score=2 - 1 |t3t4winner=1&lt;!--jin air green wings--&gt;
+   |t3t5score=2 - 0 |t3t5winner=1&lt;!--kt rolster--&gt;
+   |t3t6score=0 - 2 |t3t6winner=2&lt;!--najin e-mfire--&gt;
+   |t3t7score=2 - 0 |t3t7winner=1&lt;!--samsung galaxy--&gt;
+   |t3t8score=0 - 2 |t3t8winner=2&lt;!--sk telecom t1--&gt;
+
+|team4=jin air green wings
+   |t4t1score=2 - 0 |t4t1winner=1&lt;!--cj entus--&gt;
+   |t4t2score=1 - 2 |t4t2winner=2&lt;!--ge tigers--&gt;
+   |t4t3score=1 - 2 |t4t3winner=2&lt;!--incredible miracle--&gt;
+   |t4t5score=1 - 2 |t4t5winner=2&lt;!--kt rolster--&gt;
+   |t4t6score=2 - 0 |t4t6winner=1&lt;!--najin e-mfire--&gt;
+   |t4t7score=2 - 1 |t4t7winner=1 &lt;!--samsung galaxy--&gt;
+   |t4t8score=2 - 0 |t4t8winner=1&lt;!--sk telecom t1--&gt;
+   
+|team5=kt rolster
+   |t5t1score=1 - 2 |t5t1winner=2&lt;!--cj entus--&gt;
+   |t5t2score=0 - 2 |t5t2winner=2&lt;!--ge tigers--&gt;
+   |t5t3score=0 - 2 |t5t3winner=2&lt;!--incredible miracle--&gt;
+   |t5t4score=2 - 1 |t5t4winner=1&lt;!--jin air green wings--&gt;
+   |t5t6score=0 - 2 |t5t6winner=2&lt;!--najin e-mfire--&gt;
+   |t5t7score=2 - 0 |t5t7winner=1&lt;!--samsung galaxy--&gt;
+   |t5t8score=0 - 2 |t5t8winner=2&lt;!--sk telecom t1--&gt;
+   
+|team6=najin e-mfire
+   |t6t1score=1 - 2 |t6t1winner=2&lt;!--cj entus--&gt;
+   |t6t2score=0 - 2 |t6t2winner=2&lt;!--ge tigers--&gt;
+   |t6t3score=2 - 0 |t6t3winner=1&lt;!--incredible miracle--&gt;
+   |t6t4score=0 - 2 |t6t4winner=2&lt;!--jin air green wings--&gt;
+   |t6t5score=2 - 0 |t6t5winner=1&lt;!--kt rolster--&gt;
+   |t6t7score=2 - 1 |t6t7winner=1&lt;!--samsung galaxy--&gt;
+   |t6t8score=1 - 2 |t6t8winner=2 &lt;!--sk telecom t1--&gt;
+
+|team7=samsung galaxy
+   |t7t1score=0 - 2 |t7t1winner=2&lt;!--cj entus--&gt;
+   |t7t2score=0 - 2 |t7t2winner=2&lt;!--ge tigers--&gt;
+   |t7t3score=0 - 2 |t7t3winner=2&lt;!--incredible miracle--&gt;
+   |t7t4score=1 - 2 |t7t4winner=2 &lt;!--jin air green wings--&gt;
+   |t7t5score=0 - 2 |t7t5winner=2&lt;!--kt rolster--&gt;
+   |t7t6score=1 - 2 |t7t6winner=2&lt;!--najin e-mfire--&gt;
+   |t7t8score=0 - 2 |t7t8winner=2&lt;!--sk telecom t1--&gt;
+   
+|team8=sk telecom t1
+   |t8t1score=0 - 2 |t8t1winner=2&lt;!--cj entus--&gt;
+   |t8t2score=1 - 2 |t8t2winner=2&lt;!--ge tigers--&gt;
+   |t8t3score=2 - 0 |t8t3winner=1&lt;!--incredible miracle--&gt;
+   |t8t4score=0 - 2 |t8t4winner=2&lt;!--jin air green wings--&gt;
+   |t8t5score=2 - 0 |t8t5winner=1&lt;!--kt rolster--&gt;
+   |t8t6score=2 - 1 |t8t6winner=1 &lt;!--najin e-mfire--&gt;
+   |t8t7score=2 - 0 |t8t7winner=1&lt;!--samsung galaxy--&gt;
+}}
+{{Box2|end}}
+:''For detailed picks &amp; bans [[2015 LCK Spring/Scoreboards/Round Robin|Click Here]]''
+:''For champion statistics [[2015 LCK Spring/Scoreboards/Round Robin/Overview|Click Here]]''
+
+===Matches===
+&lt;tabber&gt;
+First Half=
+{{box|start|padding=2em}}
+'''''Week 1'''''
+{{MatchList|title=Match Results |width=250px
+|hide=false
+|match1={{MatchMaps
+|team1=najin
+|team2=skt
+|winner=2 |map1win=1 |map2win=2 |map3win=2
+}}
+
+|match2={{MatchMaps
+|team1=get
+|team2=im
+|winner=1 |map1win=1 |map2win=1
+}}
+
+|match3={{MatchMaps
+|team1=ssg
+|team2=jinair
+|winner=2 |map1win=2 |map2win=1 |map3win=2
+}}
+
+|match4={{MatchMaps
+|team1=najin
+|team2=kt
+|winner=1 |map1win=1 |map2win=1
+}}
+
+|match5={{MatchMaps
+|team1=skt
+|team2=cj
+|winner=2 |map1win=2 |map2win=2
+}}
+}}
+{{box|break|padding=2em}}
+
+'''''Week 2'''''
+{{MatchList|title=Match Results |width=260px
+|hide=false
+|match1={{MatchMaps
+|team1=get
+|team2=ssg
+|winner=1 |map1win=1 |map2win=1
+}}
+
+|match2={{MatchMaps
+|team1=kt
+|team2=skt
+|winner=2 |map1win=2 |map2win=2
+}}
+
+|match3={{MatchMaps
+|team1=cj
+|team2=najin
+|winner=1 |map1win=1 |map2win=2 |map3win=1
+}}
+
+|match4={{MatchMaps
+|team1=ssg
+|team2=im
+|winner=2 |map1win=2 |map2win=2
+}}
+
+|match5={{MatchMaps
+|team1=get
+|team2=jinair
+|winner=1 |map1win=2 |map2win=1 |map3win=1
+}}
+}}
+{{box|break|padding=2em}}
+
+'''''Week 3'''''
+{{MatchList|title=Match Results |width=250px
+|hide=false
+|match1={{MatchMaps
+|team1=kt
+|team2=cj
+|winner=2 |map1win=1 |map2win=2 |map3win=2
+}}
+
+|match2={{MatchMaps
+|team1=im
+|team2=skt
+|winner=2 |map1win=2 |map2win=2
+}}
+
+|match3={{MatchMaps
+|team1=jinair
+|team2=najin
+|winner=1 |map1win=1 |map2win=1
+}}
+
+|match4={{MatchMaps
+|team1=cj
+|team2=get
+|winner=2 |map1win=2 |map2win=2
+}}
+
+|match5={{MatchMaps
+|team1=ssg
+|team2=kt
+|winner=2 |map1win=2 |map2win=2
+}}
+}}
+
+{{box|end}}
+
+{{box|start|padding=2em}}
+'''''Week 4'''''
+{{MatchList|title=Match Results |width=250px
+|hide=false
+|match1={{MatchMaps
+|team1=im
+|team2=jinair
+|winner=1 |map1win=1 |map2win=2 |map3win=1
+}}
+
+|match2={{MatchMaps
+|team1=cj
+|team2=ssg
+|winner=1 |map1win=1 |map2win=1
+}}
+
+|match3={{MatchMaps
+|team1=get
+|team2=kt
+|winner=1 |map1win=1 |map2win=1
+}}
+
+|match4={{MatchMaps
+|team1=jinair
+|team2=skt
+|winner=1 |map1win=1 |map2win=1
+}}
+
+|match5={{MatchMaps
+|team1=im
+|team2=najin
+|winner=2 |map1win=2 |map2win=2
+}}
+}}
+
+{{box|break|padding=2em}}
+
+'''''Week 5'''''
+{{MatchList|title=Match Results |width=250px
+|hide=false
+|match1={{MatchMaps
+|team1=skt
+|team2=ssg
+|winner=1 |map1win=1 |map2win=1
+}}
+
+|match2={{MatchMaps
+|team1=najin
+|team2=get
+|winner=2 |map1win=2 |map2win=2
+}}
+|match3={{MatchMaps
+|team1=jinair
+|team2=cj
+|winner=1 |map1win=1 |map2win=1
+}}
+|match4={{MatchMaps
+|team1=kt
+|team2=im
+|winner=2 |map1win=2 |map2win=2
+}}
+}}
+{{box|break|padding=2em}}
+
+'''''Week 6'''''
+{{MatchList|title=Match Results |width=250px
+|hide=false
+|match1={{MatchMaps
+|team1=im
+|team2=cj
+|winner=2 |map1win=1 |map2win=2 |map3win=2
+}}
+
+|match2={{MatchMaps
+|team1=kt
+|team2=jinair
+|winner=1 |map1win=1 |map2win=2 |map3win=1
+}}
+
+|match3={{MatchMaps
+|team1=najin
+|team2=ssg
+|winner=1 |map1win=1 |map2win=2 |map3win=1
+}}
+
+|match4={{MatchMaps
+|team1=skt
+|team2=get
+|winner=2 |map1win=2 |map2win=1 |map3win=2
+}}
+}}
+
+{{box|end}}
+&lt;/tabber&gt;
+
+=== Season MVP &amp; KDA Leaders Standings ===
+&lt;tabber&gt;
+Season MVP Standings=
+&lt;!-- when tied, players are organized in alphabetic order --&gt;
+{| class=&quot;prettytable&quot;
+! align=&quot;center&quot; width=&quot;50px&quot; | Place
+! align=&quot;center&quot; width=&quot;50px&quot; | Points
+! align=&quot;center&quot; width=&quot;150px&quot; | Player
+|-
+| align=&quot;center&quot; | '''1st'''
+| align=&quot;center&quot; | 700
+| {{Team|Najin|notext=1}} [[Duke]]
+|-
+| align=&quot;center&quot; | '''2nd'''
+| align=&quot;center&quot; | 400
+| {{Team|get|notext=1}} [[Lee]]
+|-
+| align=&quot;center&quot; | '''2nd'''
+| align=&quot;center&quot; | 400
+| {{Team|jinair|notext=1}} [[GBM]]
+|-
+| align=&quot;center&quot; | '''2nd'''
+| align=&quot;center&quot; | 400
+| {{Team|cj|notext=1}} [[CoCo]]
+|-
+| align=&quot;center&quot; | '''2nd'''
+| align=&quot;center&quot; | 400
+| {{Team|skt|notext=1}} [[Faker]]
+|}
+{| class=&quot;prettytable collapsible collapsed&quot; width=&quot;272px&quot; style=&quot;margin-top:-14px;&quot;
+! colspan=&quot;3&quot; | Click for Full Standings
+|- align=&quot;center&quot;
+! width=&quot;50px&quot; | Place
+! width=&quot;50px&quot; | Points
+! width=&quot;150px&quot; | Player
+|-
+| align=&quot;center&quot; | '''2nd'''
+| align=&quot;center&quot; | 400
+| {{Team|get|notext=1}} [[PraY]]
+|-
+| align=&quot;center&quot; | '''7th'''
+| align=&quot;center&quot; | 300
+| {{Team|cj|notext=1}} [[Ambition]]
+|-
+| align=&quot;center&quot; | '''7th'''
+| align=&quot;center&quot; | 300
+| {{Team|get|notext=1}} [[Smeb]]
+|-
+| align=&quot;center&quot; | '''9th'''
+| align=&quot;center&quot; | 200
+| {{Team|jinair|notext=1}} [[Chaser]]
+|-
+| align=&quot;center&quot; | '''9th'''
+| align=&quot;center&quot; | 200
+| {{Team|skt|notext=1}} [[Easyhoon]]
+|-
+| align=&quot;center&quot; | '''9th'''
+| align=&quot;center&quot; | 200
+| {{Team|cj|notext=1}} [[Shy]]
+|-
+| align=&quot;center&quot; | '''9th'''
+| align=&quot;center&quot; | 200
+| {{Team|get|notext=1}} [[kurO]]
+|-
+| align=&quot;center&quot; | '''9th'''
+| align=&quot;center&quot; | 200
+| {{Team|im|notext=1}} [[TuSin]]
+|-
+| align=&quot;center&quot; | '''9th'''
+| align=&quot;center&quot; | 200
+| {{Team|im|notext=1}} [[Frozen]]
+|-
+| align=&quot;center&quot; | '''9th'''
+| align=&quot;center&quot; | 200
+| {{Team|im|notext=1}} [[Lilac]]
+|-
+| align=&quot;center&quot; | '''9th'''
+| align=&quot;center&quot; | 200
+| {{Team|kt|notext=1}} [[Score]]
+|-
+| align=&quot;center&quot; | '''9th'''
+| align=&quot;center&quot; | 200
+| {{Team|jinair|notext=1}} [[TrAce]]
+|-
+
+| align=&quot;center&quot; | '''18th'''
+| align=&quot;center&quot; | 100
+| {{Team|skt|notext=1}} [[Wolf]]
+|-
+| align=&quot;center&quot; | '''18th'''
+| align=&quot;center&quot; | 100
+| {{Team|ssg|notext=1}} [[Wraith]]
+|-
+| align=&quot;center&quot; | '''18th'''
+| align=&quot;center&quot; | 100
+| {{Team|najin|notext=1}} [[Ohq]]
+|-
+| align=&quot;center&quot; | '''18th'''
+| align=&quot;center&quot; | 100
+| {{Team|skt|notext=1}} [[Bang]]
+|-
+| align=&quot;center&quot; | '''18th'''
+| align=&quot;center&quot; | 100
+| {{Team|cj|notext=1}} [[Space]]
+|-
+| align=&quot;center&quot; | '''18th'''
+| align=&quot;center&quot; | 100
+| {{Team|jinair|notext=1}} [[Chei]]
+|-
+| align=&quot;center&quot; | '''18th'''
+| align=&quot;center&quot; | 100
+| {{Team|kt|notext=1}} [[ssumday]]
+|-
+| align=&quot;center&quot; | '''18th'''
+| align=&quot;center&quot; | 100
+| {{Team|jinair|notext=1}} [[Cpt Jack]]
+|-
+| align=&quot;center&quot; | '''18th'''
+| align=&quot;center&quot; | 100
+| {{Team|kt|notext=1}} [[Hachani]]
+|-
+| align=&quot;center&quot; | '''18th'''
+| align=&quot;center&quot; | 100
+| {{Team|im|notext=1}} [[Wisdom]]
+|-
+| align=&quot;center&quot; | '''18th'''
+| align=&quot;center&quot; | 100
+| {{Team|jinair|notext=1}} [[Pilot]]
+|-
+| align=&quot;center&quot; | '''18th'''
+| align=&quot;center&quot; | 100
+| {{Team|skt|notext=1}} [[MaRin]]
+|-
+| align=&quot;center&quot; | '''18th'''
+| align=&quot;center&quot; | 100
+| {{Team|najin|notext=1}} [[GorillA]]
+|-
+| align=&quot;center&quot; | '''18th'''
+| align=&quot;center&quot; | 100
+| {{Team|kt|notext=1}} [[Nagne]]
+|-
+| align=&quot;center&quot; | '''18th'''
+| align=&quot;center&quot; | 100
+| {{Team|ssg|notext=1}} [[Fury]]
+|-
+|}
+|-|
+Top=&lt;!--TOP--&gt;
+{| class=&quot;prettytable&quot;
+| align=&quot;center&quot; colspan=&quot;8&quot;|'''TOP'''
+|-
+!width=40px|'''Place'''
+!width=25px|'''Team'''
+!width=70;|'''Player'''
+!width=auto;|'''Champions Used'''
+!width=50px|'''Kills'''
+!width=50px|'''Deaths'''
+!width=50px|'''Assists'''
+!width=50px|'''KDA'''
+|-
+|align=&quot;center&quot;| '''1st'''
+|align=&quot;center&quot;| {{team|get|notext=1}}
+|align=&quot;center&quot;| [[Smeb]]
+|align=&quot;center&quot;| {{ci|Gnar|notext=1}} {{ci|Rumble|notext=1}} {{ci|Lissandra|notext=1}} {{ci|Lulu|notext=1}} {{ci|Maokai|notext=1}} {{ci|Kassadin|notext=1}}
+|align=&quot;center&quot;|'''57'''
+|align=&quot;center&quot;|'''24'''
+|align=&quot;center&quot;|'''129'''
+|align=&quot;center&quot;| '''7.8'''
+|-
+|align=&quot;center&quot;| '''2nd'''
+|align=&quot;center&quot;| {{team|jinair|notext=1}}
+|align=&quot;center&quot;| [[TrAce]]
+|align=&quot;center&quot;| {{ci|Kassadin|notext=1}} {{ci|Morgana|notext=1}} {{ci|Renekton|notext=1}} {{ci|Gnar|notext=1}} {{ci|Maokai|notext=1}} {{ci|Lulu|notext=1}} {{ci|Mundo|notext=1}} {{ci|Rumble|notext=1}} 
+|align=&quot;center&quot;|'''37'''
+|align=&quot;center&quot;|'''35'''
+|align=&quot;center&quot;|'''118'''
+|align=&quot;center&quot;| '''4.4'''
+|-
+|align=&quot;center&quot;| '''3rd'''
+|align=&quot;center&quot;| {{team|najin|notext=1}}
+|align=&quot;center&quot;| [[Duke]]
+|align=&quot;center&quot;| {{ci|Mundo|notext=1}} {{ci|Rumble|notext=1}} {{ci|Sion|notext=1}} {{ci|Lissandra|notext=1}} {{ci|Gnar|notext=1}}
+|align=&quot;center&quot;|'''34'''
+|align=&quot;center&quot;|'''35'''
+|align=&quot;center&quot;|'''86'''
+|align=&quot;center&quot;| '''3.4'''
+|-
+|align=&quot;center&quot;| '''4th'''
+|align=&quot;center&quot;| {{team|skt|notext=1}}
+|align=&quot;center&quot;| [[MaRin]]
+|align=&quot;center&quot;| {{ci|Maokai|notext=1}} {{ci|Gnar|notext=1}} {{ci|Mundo|notext=1}} {{ci|Rumble|notext=1}} {{ci|Renekton|notext=1}} 
+|align=&quot;center&quot;|'''24'''
+|align=&quot;center&quot;|'''28'''
+|align=&quot;center&quot;|'''70'''
+|align=&quot;center&quot;| '''3.4'''
+|-
+|align=&quot;center&quot;| '''5th'''
+|align=&quot;center&quot;| {{team|cj|notext=1}}
+|align=&quot;center&quot;| [[Shy]]
+|align=&quot;center&quot;| {{ci|Mundo|notext=1}} {{ci|Lulu|notext=1}} {{ci|Maokai|notext=1}} {{ci|Rumble|notext=1}}
+|align=&quot;center&quot;|'''39'''
+|align=&quot;center&quot;|'''44'''
+|align=&quot;center&quot;|'''102'''
+|align=&quot;center&quot;| '''3.2'''
+|}
+&lt;!--|align=&quot;center&quot;| '''6th'''
+|align=&quot;center&quot;| {{team|kt|notext=1}}
+|align=&quot;center&quot;| [[ssumday]]
+|align=&quot;center&quot;| {{ci|Rumble|notext=1}} {{ci|Gnar|notext=1}} {{ci|Kassadin|notext=1}} {{ci|Lissandra|notext=1}} {{ci|Maokai|notext=1}}
+|align=&quot;center&quot;|'''6'''
+|align=&quot;center&quot;|'''9'''
+|align=&quot;center&quot;|'''22'''
+|align=&quot;center&quot;| '''3.11'''
+|-
+|align=&quot;center&quot;| '''7th'''
+|align=&quot;center&quot;| {{team|im|notext=1}}
+|align=&quot;center&quot;| [[Lilac]]
+|align=&quot;center&quot;| {{ci|Jayce|notext=1}} {{ci|Rumble|notext=1}} {{ci|Maokai|notext=1}} {{ci|Kassadin|notext=1}}
+|align=&quot;center&quot;|'''12'''
+|align=&quot;center&quot;|'''15'''
+|align=&quot;center&quot;|'''20'''
+|align=&quot;center&quot;| '''2.13'''
+|-
+|align=&quot;center&quot;| '''8th'''
+|align=&quot;center&quot;| {{team|samsung|notext=1}}
+|align=&quot;center&quot;| [[CuVee]]
+|align=&quot;center&quot;| {{ci|Rumble|notext=1}} {{ci|Kassadin|notext=1}} {{ci|Lulu|notext=1}} {{ci|Lissandra|notext=1}}
+|align=&quot;center&quot;|'''21'''
+|align=&quot;center&quot;|'''31'''
+|align=&quot;center&quot;|'''36'''
+|align=&quot;center&quot;| '''1.83'''--&gt;
+|-|
+Jungle=&lt;!--JUNGLE--&gt;
+{| class=&quot;prettytable&quot;
+| align=&quot;center&quot; colspan=&quot;8&quot;|'''JUNGLE'''
+|-
+!width=40px|'''Place'''
+!width=25px|'''Team'''
+!width=70;|'''Player'''
+!width=auto;|'''Champions Used'''
+!width=50px|'''Kills'''
+!width=50px|'''Deaths'''
+!width=50px|'''Assists'''
+!width=50px|'''KDA'''
+|-
+|align=&quot;center&quot;| '''1st'''
+|align=&quot;center&quot;| {{team|get|notext=1}}
+|align=&quot;center&quot;| [[Lee]]
+|align=&quot;center&quot;| {{ci|Pantheon|notext=1}} {{ci|Lee Sin|notext=1}} {{ci|Jarvan|notext=1}} {{ci|Rek'Sai|notext=1}} 
+|align=&quot;center&quot;|'''33'''
+|align=&quot;center&quot;|'''25'''
+|align=&quot;center&quot;|'''145'''
+|align=&quot;center&quot;| '''7.1'''
+|-
+|align=&quot;center&quot;| '''2nd'''
+|align=&quot;center&quot;| {{team|jinair|notext=1}}
+|align=&quot;center&quot;| [[Chaser]]
+|align=&quot;center&quot;| {{ci|Rengar|notext=1}} {{ci|Jarvan|notext=1}} {{ci|Lee Sin|notext=1}} 
+|align=&quot;center&quot;|'''34'''
+|align=&quot;center&quot;|'''36'''
+|align=&quot;center&quot;|'''144'''
+|align=&quot;center&quot;| '''4.9'''
+|-
+|align=&quot;center&quot;| '''3rd'''
+|align=&quot;center&quot;| {{team|cj|notext=1}}
+|align=&quot;center&quot;| [[Ambition]]
+|align=&quot;center&quot;| {{ci|Jarvan|notext=1}} {{ci|Rengar|notext=1}} {{ci|Lee Sin|notext=1}} {{ci|Rek'Sai|notext=1}} 
+|align=&quot;center&quot;|'''41'''
+|align=&quot;center&quot;|'''53'''
+|align=&quot;center&quot;|'''139'''
+|align=&quot;center&quot;| '''3.4'''
+|-
+|align=&quot;center&quot;| '''4th'''
+|align=&quot;center&quot;| {{team|najin|notext=1}}
+|align=&quot;center&quot;| [[watch]]
+|align=&quot;center&quot;| {{ci|Jarvan|notext=1}} {{ci|Kha'Zix|notext=1}} {{ci|Lee Sin|notext=1}} 
+|align=&quot;center&quot;|'''29'''
+|align=&quot;center&quot;|'''49'''
+|align=&quot;center&quot;|'''112'''
+|align=&quot;center&quot;| '''2.9'''
+|-
+|align=&quot;center&quot;| '''5th'''
+|align=&quot;center&quot;| {{team|im|notext=1}}
+|align=&quot;center&quot;| [[Wisdom]]
+|align=&quot;center&quot;| {{ci|Elise|notext=1}} {{ci|Lee Sin|notext=1}} {{ci|Jarvan|notext=1}} 
+|align=&quot;center&quot;|'''30'''
+|align=&quot;center&quot;|'''55'''
+|align=&quot;center&quot;|'''103'''
+|align=&quot;center&quot;| '''2.4'''
+|}
+&lt;!--
+|align=&quot;center&quot;| '''6th'''
+|align=&quot;center&quot;| {{team|skt|notext=1}}
+|align=&quot;center&quot;| [[bengi]]
+|align=&quot;center&quot;| {{ci|Lee Sin|notext=1}} {{ci|Jarvan|notext=1}}
+|align=&quot;center&quot;|'''19'''
+|align=&quot;center&quot;|'''45'''
+|align=&quot;center&quot;|'''89'''
+|align=&quot;center&quot;| '''2.40'''
+|-
+|align=&quot;center&quot;| '''7th'''
+|align=&quot;center&quot;| {{team|kt|notext=1}}
+|align=&quot;center&quot;| [[Score]]
+|align=&quot;center&quot;| {{ci|Lee Sin|notext=1}} {{ci|Rengar|notext=1}} {{ci|Rek'Sai|notext=1}} {{ci|Jarvan|notext=1}}
+|align=&quot;center&quot;|'''16'''
+|align=&quot;center&quot;|'''26'''
+|align=&quot;center&quot;|'''57'''
+|align=&quot;center&quot;| '''2.81'''
+|-
+|align=&quot;center&quot;| '''8th'''
+|align=&quot;center&quot;| {{team|samsung|notext=1}}
+|align=&quot;center&quot;| [[Eve]]
+|align=&quot;center&quot;| {{ci|Jarvan|notext=1}} {{ci|Lee Sin|notext=1}} {{ci|Rek'Sai|notext=1}}
+|align=&quot;center&quot;|'''18'''
+|align=&quot;center&quot;|'''27'''
+|align=&quot;center&quot;|'''36'''
+|align=&quot;center&quot;| '''2'''--&gt;
+|-|
+Mid=&lt;!--MID--&gt;
+{| class=&quot;prettytable&quot;
+| align=&quot;center&quot; colspan=&quot;8&quot;|'''MID'''
+|-
+!width=40px|'''Place'''
+!width=25px|'''Team'''
+!width=70;|'''Player'''
+!width=auto;|'''Champions Used'''
+!width=50px|'''Kills'''
+!width=50px|'''Deaths'''
+!width=50px|'''Assists'''
+!width=50px|'''KDA'''
+|-
+|align=&quot;center&quot;| '''1st'''
+|align=&quot;center&quot;| {{team|skt|notext=1}}
+|align=&quot;center&quot;| [[Easyhoon]]
+|align=&quot;center&quot;| {{ci|Xerath|notext=1}} {{ci|Lulu|notext=1}} {{ci|Cassiopeia|notext=1}} {{ci|Kassadin|notext=1}} {{ci|Jayce|notext=1}} 
+|align=&quot;center&quot;|'''25'''
+|align=&quot;center&quot;|'''7'''
+|align=&quot;center&quot;|'''34'''
+|align=&quot;center&quot;| '''8.4'''
+|-
+|align=&quot;center&quot;| '''2nd'''
+|align=&quot;center&quot;| {{team|get|notext=1}}
+|align=&quot;center&quot;| [[kurO]]
+|align=&quot;center&quot;| {{ci|Kassadin|notext=1}} {{ci|Lissandra|notext=1}} {{ci|LeBlanc|notext=1}} {{ci|Xerath|notext=1}} {{ci|Azir|notext=1}} {{ci|Ezreal|notext=1}} 
+|align=&quot;center&quot;|'''59'''
+|align=&quot;center&quot;|'''24'''
+|align=&quot;center&quot;|'''18'''
+|align=&quot;center&quot;| '''6.5'''
+|-
+|align=&quot;center&quot;| '''3rd'''
+|align=&quot;center&quot;| {{team|jinair|notext=1}}
+|align=&quot;center&quot;| [[GBM]]
+|align=&quot;center&quot;| {{ci|Lulu|notext=1}} {{ci|Orianna|notext=1}} {{ci|Ahri|notext=1}} {{ci|Xerath|notext=1}} {{ci|Jayce|notext=1}} {{ci|Lissandra|notext=1}} 
+|align=&quot;center&quot;|'''61'''
+|align=&quot;center&quot;|'''29'''
+|align=&quot;center&quot;|'''124'''
+|align=&quot;center&quot;| '''6.4'''
+|-
+|align=&quot;center&quot;| '''4th'''
+|align=&quot;center&quot;| {{team|im|notext=1}}
+|align=&quot;center&quot;| [[Frozen]]
+|align=&quot;center&quot;| {{ci|Xerath|notext=1}} {{ci|Syndra|notext=1}} {{ci|Lulu|notext=1}} {{ci|Ahri|notext=1}} {{ci|Lux|notext=1}} {{ci|Ezreal|notext=1}}
+|align=&quot;center&quot;|'''40'''
+|align=&quot;center&quot;|'''24'''
+|align=&quot;center&quot;|'''75'''
+|align=&quot;center&quot;| '''4.8'''
+|-
+|align=&quot;center&quot;| '''5th'''
+|align=&quot;center&quot;| {{team|cj|notext=1}}
+|align=&quot;center&quot;| [[CoCo]]
+|align=&quot;center&quot;| {{ci|Ezreal|notext=1}} {{ci|Jayce|notext=1}} {{ci|Orianna|notext=1}} {{ci|LeBlanc|notext=1}} {{ci|Kassadin|notext=1}} {{ci|Azir|notext=1}} 
+|align=&quot;center&quot;|'''67'''
+|align=&quot;center&quot;|'''36'''
+|align=&quot;center&quot;|'''93'''
+|align=&quot;center&quot;| '''4.4'''
+|}
+&lt;!--|align=&quot;center&quot;| '''6th'''
+|align=&quot;center&quot;| {{team|skt|notext=1}}
+|align=&quot;center&quot;| [[Faker]]
+|align=&quot;center&quot;| {{ci|Ahri|notext=1}} {{ci|LeBlanc|notext=1}} {{ci|Xerath|notext=1}} {{ci|Syndra|notext=1}} {{ci|Ezreal|notext=1}}
+|align=&quot;center&quot;|'''39'''
+|align=&quot;center&quot;|'''19'''
+|align=&quot;center&quot;|'''28'''
+|align=&quot;center&quot;| '''3.53'''
+|-
+|align=&quot;center&quot;| '''7th'''
+|align=&quot;center&quot;| {{team|najin|notext=1}}
+|align=&quot;center&quot;| [[Ggoong]]
+|align=&quot;center&quot;| {{ci|Zed|notext=1}} {{ci|Jayce|notext=1}} {{ci|Ahri|notext=1}} {{ci|Kassadin|notext=1}} {{ci|LeBlanc|notext=1}} {{ci|Xerath|notext=1}}
+|align=&quot;center&quot;|'''48'''
+|align=&quot;center&quot;|'''33'''
+|align=&quot;center&quot;|'''67'''
+|align=&quot;center&quot;| '''3.48'''
+|-
+|align=&quot;center&quot;| '''8th'''
+|align=&quot;center&quot;| {{team|kt|notext=1}}
+|align=&quot;center&quot;| [[Nagne]]
+|align=&quot;center&quot;| {{ci|Yasuo|notext=1}} {{ci|Jayce|notext=1}} {{ci|LeBlanc|notext=1}}
+|align=&quot;center&quot;|'''12'''
+|align=&quot;center&quot;|'''17'''
+|align=&quot;center&quot;|'''16'''
+|align=&quot;center&quot;| '''1.64'''
+|-
+|align=&quot;center&quot;| '''9th'''
+|align=&quot;center&quot;| {{team|samsung|notext=1}}
+|align=&quot;center&quot;| [[BlisS]]
+|align=&quot;center&quot;| {{ci|Jayce|notext=1}} {{ci|Fizz|notext=1}} {{ci|Syndra|notext=1}} {{ci|Azir|notext=1}} {{ci|Kassadin|notext=1}} {{ci|Lissandra|notext=1}}
+|align=&quot;center&quot;|'''12'''
+|align=&quot;center&quot;|'''36'''
+|align=&quot;center&quot;|'''31'''
+|align=&quot;center&quot;| '''1.19'''--&gt;
+|-|
+AD=&lt;!--AD--&gt;
+{| class=&quot;prettytable&quot;
+| align=&quot;center&quot; colspan=&quot;8&quot;|'''AD'''
+|-
+!width=40px|'''Place'''
+!width=25px|'''Team'''
+!width=70;|'''Player'''
+!width=auto;|'''Champions Used'''
+!width=50px|'''Kills'''
+!width=50px|'''Deaths'''
+!width=50px|'''Assists'''
+!width=50px|'''KDA'''
+|-
+|align=&quot;center&quot;| '''1st'''
+|align=&quot;center&quot;| {{team|get|notext=1}}
+|align=&quot;center&quot;| [[PraY]]
+|align=&quot;center&quot;| {{ci|Corki|notext=1}} {{ci|Kog'Maw|notext=1}} {{ci|Sivir|notext=1}} {{ci|Ezreal|notext=1}} {{ci|Kalista|notext=1}} 
+|align=&quot;center&quot;|'''92'''
+|align=&quot;center&quot;|'''15'''
+|align=&quot;center&quot;|'''94'''
+|align=&quot;center&quot;| '''12.4'''
+|-
+|align=&quot;center&quot;| '''2nd'''
+|align=&quot;center&quot;| {{team|skt|notext=1}}
+|align=&quot;center&quot;| [[Bang]]
+|align=&quot;center&quot;| {{ci|Tristana|notext=1}} {{ci|Corki|notext=1}} {{ci|Sivir|notext=1}} {{ci|Caitlyn|notext=1}}
+|align=&quot;center&quot;|'''60'''
+|align=&quot;center&quot;|'''17'''
+|align=&quot;center&quot;|'''62'''
+|align=&quot;center&quot;| '''7.2'''
+|-
+|align=&quot;center&quot;| '''3rd'''
+|align=&quot;center&quot;| {{team|najin|notext=1}}
+|align=&quot;center&quot;| [[Ohq]]
+|align=&quot;center&quot;| {{ci|Kalista|notext=1}} {{ci|Sivir|notext=1}} {{ci|Tristana|notext=1}} 
+|align=&quot;center&quot;|'''39'''
+|align=&quot;center&quot;|'''15'''
+|align=&quot;center&quot;|'''45'''
+|align=&quot;center&quot;| '''5.6'''
+|-
+|align=&quot;center&quot;| '''4th'''
+|align=&quot;center&quot;| {{team|jinair|notext=1}}
+|align=&quot;center&quot;| [[Pilot]]
+|align=&quot;center&quot;| {{ci|Corki|notext=1}} {{ci|Tristana|notext=1}} {{ci|Sivir|notext=1}}
+|align=&quot;center&quot;|'''67'''
+|align=&quot;center&quot;|'''28'''
+|align=&quot;center&quot;|'''71'''
+|align=&quot;center&quot;| '''4.9'''
+|-
+|align=&quot;center&quot;| '''5th'''
+|align=&quot;center&quot;| {{team|jinair|notext=1}}
+|align=&quot;center&quot;| [[Cpt Jack]]
+|align=&quot;center&quot;| {{ci|Sivir|notext=1}} {{ci|Corki|notext=1}} {{ci|Kalista|notext=1}}
+|align=&quot;center&quot;|'''16'''
+|align=&quot;center&quot;|'''10'''
+|align=&quot;center&quot;|'''32'''
+|align=&quot;center&quot;| '''4.8'''
+|}
+&lt;!--|align=&quot;center&quot;| '''6th'''
+|align=&quot;center&quot;| {{team|cj|notext=1}}
+|align=&quot;center&quot;| [[Space]]
+|align=&quot;center&quot;| {{ci|Corki|notext=1}} {{ci|Sivir|notext=1}} {{ci|Kalista|notext=1}} {{ci|Tristana|notext=1}} 
+|align=&quot;center&quot;|'''60'''
+|align=&quot;center&quot;|'''26'''
+|align=&quot;center&quot;|'''74'''
+|align=&quot;center&quot;| '''5.15'''
+|align=&quot;center&quot;| {{team|najin|notext=1}}
+|align=&quot;center&quot;| [[Zefa]]
+|align=&quot;center&quot;| {{ci|Corki|notext=1}} {{ci|Tristana|notext=1}} {{ci|Sivir|notext=1}}
+|align=&quot;center&quot;|'''19'''
+|align=&quot;center&quot;|'''7'''
+|align=&quot;center&quot;|'''30'''
+|align=&quot;center&quot;| '''7'''
+|-
+|align=&quot;center&quot;| '''7th'''
+|align=&quot;center&quot;| {{team|im|notext=1}}
+|align=&quot;center&quot;| [[SONSTAR]]
+|align=&quot;center&quot;| {{ci|Sivir|notext=1}} {{ci|Corki|notext=1}} 
+|align=&quot;center&quot;|'''19'''
+|align=&quot;center&quot;|'''9'''
+|align=&quot;center&quot;|'''12'''
+|align=&quot;center&quot;| '''3.44'''
+|-
+|align=&quot;center&quot;| '''8th'''
+|align=&quot;center&quot;| {{team|samsung|notext=1}}
+|align=&quot;center&quot;| [[Fury]]
+|align=&quot;center&quot;| {{ci|Lucian|notext=1}} {{ci|Sivir|notext=1}} {{ci|Caitlyn|notext=1}} 
+|align=&quot;center&quot;|'''19'''
+|align=&quot;center&quot;|'''17'''
+|align=&quot;center&quot;|'''37'''
+|align=&quot;center&quot;| '''3.29'''
+|-
+|align=&quot;center&quot;| '''9th'''
+|align=&quot;center&quot;| {{team|kt|notext=1}}
+|align=&quot;center&quot;| [[Arrow]]
+|align=&quot;center&quot;| {{ci|Kog'Maw|notext=1}} {{ci|Twitch|notext=1}} {{ci|Corki|notext=1}} {{ci|Sivir|notext=1}} 
+|align=&quot;center&quot;|'''13'''
+|align=&quot;center&quot;|'''12'''
+|align=&quot;center&quot;|'''19'''
+|align=&quot;center&quot;| '''2.66'''--&gt;
+|-|
+Support=&lt;!--SUPPORT--&gt;
+{| class=&quot;prettytable&quot;
+| align=&quot;center&quot; colspan=&quot;8&quot;|'''SUPPORT'''
+|-
+!width=40px|'''Place'''
+!width=25px|'''Team'''
+!width=70;|'''Player'''
+!width=auto;|'''Champions Used'''
+!width=50px|'''Kills'''
+!width=50px|'''Deaths'''
+!width=50px|'''Assists'''
+!width=50px|'''KDA'''
+|-
+|align=&quot;center&quot;| '''1st'''
+|align=&quot;center&quot;| {{team|get|notext=1}}
+|align=&quot;center&quot;| [[GorillA]]
+|align=&quot;center&quot;| {{ci|Thresh|notext=1}} {{ci|Nami|notext=1}} {{ci|Morgana|notext=1}} {{ci|Janna|notext=1}} {{ci|Leona|notext=1}} 
+|align=&quot;center&quot;|'''12'''
+|align=&quot;center&quot;|'''28'''
+|align=&quot;center&quot;|'''167'''
+|align=&quot;center&quot;| '''6.4'''
+|-
+|align=&quot;center&quot;| '''2nd'''
+|align=&quot;center&quot;| {{team|skt|notext=1}}
+|align=&quot;center&quot;| [[Piccaboo]]
+|align=&quot;center&quot;| {{ci|Thresh|notext=1}} {{ci|Nami|notext=1}} {{ci|Braum|notext=1}} {{ci|Janna|notext=1}} 
+|align=&quot;center&quot;|'''5'''
+|align=&quot;center&quot;|'''11'''
+|align=&quot;center&quot;|'''52'''
+|align=&quot;center&quot;| '''5.2'''
+|-
+|align=&quot;center&quot;| '''3rd'''
+|align=&quot;center&quot;| {{team|cj|notext=1}}
+|align=&quot;center&quot;| [[MadLife]]
+|align=&quot;center&quot;| {{ci|Braum|notext=1}} {{ci|Thresh|notext=1}} {{ci|Janna|notext=1}} {{ci|Morgana|notext=1}} {{ci|Nami|notext=1}} {{ci|Leona|notext=1}} 
+|align=&quot;center&quot;|'''12'''
+|align=&quot;center&quot;|'''46'''
+|align=&quot;center&quot;|'''161'''
+|align=&quot;center&quot;| '''3.8'''
+|-
+|align=&quot;center&quot;| '''4th'''
+|align=&quot;center&quot;| {{team|jinair|notext=1}}
+|align=&quot;center&quot;| [[Chei]]
+|align=&quot;center&quot;| {{ci|Morgana|notext=1}} {{ci|Janna|notext=1}} {{ci|Thresh|notext=1}} {{ci|Annie|notext=1}} 
+|align=&quot;center&quot;|'''13'''
+|align=&quot;center&quot;|'''51'''
+|align=&quot;center&quot;|'''174'''
+|align=&quot;center&quot;| '''3.67'''
+|-
+|align=&quot;center&quot;| '''5th'''
+|align=&quot;center&quot;| {{team|im|notext=1}}
+|align=&quot;center&quot;| [[TuSin]]
+|align=&quot;center&quot;| {{ci|Leona|notext=1}} {{ci|Thresh|notext=1}} {{ci|Janna|notext=1}} {{ci|Veigar|notext=1}} {{ci|Nami|notext=1}} 
+|align=&quot;center&quot;|'''8'''
+|align=&quot;center&quot;|'''38'''
+|align=&quot;center&quot;|'''128'''
+|align=&quot;center&quot;| '''3.6'''
+|}
+&lt;!--|align=&quot;center&quot;| '''6th'''
+|align=&quot;center&quot;| {{team|najin|notext=1}}
+|align=&quot;center&quot;| [[Pure]]
+|align=&quot;center&quot;| {{ci|Braum|notext=1}} {{ci|Annie|notext=1}} {{ci|Thresh|notext=1}} {{ci|Karma|notext=1}} 
+|align=&quot;center&quot;|'''6'''
+|align=&quot;center&quot;|'''13'''
+|align=&quot;center&quot;|'''43'''
+|align=&quot;center&quot;| '''3.77'''
+|-
+|align=&quot;center&quot;| '''7th'''
+|align=&quot;center&quot;| {{team|najin|notext=1}}
+|align=&quot;center&quot;| [[Cain]]
+|align=&quot;center&quot;| {{ci|Annie|notext=1}} {{ci|Braum|notext=1}} {{ci|Janna|notext=1}} {{ci|Nami|notext=1}}
+|align=&quot;center&quot;|'''5'''
+|align=&quot;center&quot;|'''21'''
+|align=&quot;center&quot;|'''60'''
+|align=&quot;center&quot;| '''3.10'''
+|-
+|align=&quot;center&quot;| '''8th'''
+|align=&quot;center&quot;| {{team|skt|notext=1}}
+|align=&quot;center&quot;| [[Wolf]]
+|align=&quot;center&quot;| {{ci|Thresh|notext=1}} {{ci|Janna|notext=1}} {{ci|Annie|notext=1}} 
+|align=&quot;center&quot;|'''3'''
+|align=&quot;center&quot;|'''19'''
+|align=&quot;center&quot;|'''53'''
+|align=&quot;center&quot;| '''2.95'''
+|-
+|align=&quot;center&quot;| '''9th'''
+|align=&quot;center&quot;| {{team|samsung|notext=1}}
+|align=&quot;center&quot;| [[Wraith]]
+|align=&quot;center&quot;| {{ci|Thresh|notext=1}} {{ci|Syndra|notext=1}} {{ci|Lulu|notext=1}} {{ci|Sejuani|notext=1}} {{ci|Braum|notext=1}} {{ci|Nami|notext=1}} 
+|align=&quot;center&quot;|'''6'''
+|align=&quot;center&quot;|'''25'''
+|align=&quot;center&quot;|'''49'''
+|align=&quot;center&quot;| '''2.20'''
+|-
+|align=&quot;center&quot;| '''10th'''
+|align=&quot;center&quot;| {{team|kt|notext=1}}
+|align=&quot;center&quot;| [[Hachani]]
+|align=&quot;center&quot;| {{ci|Thresh|notext=1}} {{ci|Morgana|notext=1}} {{ci|Braum|notext=1}} {{ci|Lulu|notext=1}}
+|align=&quot;center&quot;|'''3'''
+|align=&quot;center&quot;|'''21'''
+|align=&quot;center&quot;|'''30'''
+|align=&quot;center&quot;| '''1.57'''--&gt;
+&lt;/tabber&gt;
+
+== View Games ==
+===Streams===
+*[http://www.twitch.tv/riotgames Twitch]
+*[http://www.youtube.com/user/LoLChampSeries YouTube]
+
+===Schedule &amp; VODs===
+&lt;tabber&gt;
+First Half=
+{{#tag:tabber
+|Week 6=
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1|team1=im|team2=cj|t1score=1 |t2score=2 |winner=2 |date=2015-02-11|KST=17:00|dst=no|shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=Ue2bJKq1AwA | vod2=http://www.youtube.com/watch?v=Du9Sihyi6zU | vod3=http://www.youtube.com/watch?v=XKdnnK95q7s |start=1|title=Week 6  |customwidth=290 |hide=false}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=kt|team2=jinair |t1score=2 |t2score=1 |winner=1 |date=2015-02-13|KST=17:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=4jaTuRECEQo | vod2=http://www.youtube.com/watch?v=sB7o2hq3yH4 | vod3=http://www.youtube.com/watch?v=r8PkwIINDSI}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=najin|team2=ssg |t1score=2 |t2score=1 |winner=1 |date=2015-02-14|KST=17:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=OPF-7dd6Jhk | vod2=http://www.youtube.com/watch?v=srJaBsNrSw8 | vod3=http://www.youtube.com/watch?v=7f_tOcJsKXk}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=skt|team2=get |t1score= |t2score= |winner= |date=2015-02-14|KST=18:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=k5K0XLcQcuM | vod2=http://www.youtube.com/watch?v=4MQzSkwSY0c | vod3=http://www.youtube.com/watch?v=XBHGD-mztSI |end=1}}
+{{!}}-{{!}}
+Week 1=
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=najin |team2=skt |t1score=1 |t2score=2 |winner=2 |date=2015-01-07 |KST=18:00 |dst=no|shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=FnkjbE6XlmU |vod2=http://www.youtube.com/watch?v=CduIP4g8aNM |vod3=http://www.youtube.com/watch?v=HQpSds3FGh4 |start=1|title=Week 1  |customwidth=290 |hide=false}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=get |team2=im |t1score=2 |t2score=0 |winner=1 |date=2015-01-09 |KST=17:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.twitch.tv/riotgames/b/608871440?t=40m55s |vod2=http://www.twitch.tv/riotgames/b/608871440?t=1h42m08s|vod3=http://www.twitch.tv/riotgames/b/608871440?t=1h42m08s }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=ssg |team2=jinair |t1score=1 |t2score=2 |winner=2 |date=2015-01-09 |KST=18:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.twitch.tv/riotgames/b/608871440?t=3h20m17s |vod2=http://www.twitch.tv/riotgames/b/608871440?t=4h29m29s |vod3=http://www.twitch.tv/riotgames/b/608871440?t=5h35m59s }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=najin |team2=kt |t1score=2 |t2score=0 |winner=1 |date=2015-01-10 |KST=17:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.twitch.tv/riotgames/b/609281018?t=43m20s |vod2=http://www.twitch.tv/riotgames/b/609281018?t=1h47m30s |vod3=http://www.twitch.tv/riotgames/b/609281018?t=2h52m }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=skt |team2=cj |t1score=0 |t2score=2 |winner=2 |date=2015-01-10 |KST=18:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.twitch.tv/riotgames/b/609281018?t=3h10m |vod2=http://www.twitch.tv/riotgames/b/609281018?t=4h25m30s |vod3=http://www.twitch.tv/riotgames/b/609281018?t=5h2m40s |end=1}}
+{{!}}-{{!}}
+Week 2=
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1|team1=get |team2=ssg |t1score=2 |t2score=0 |winner=1 |date=2015-01-14 |KST=18:00 |dst=no|shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=BysALIGCBPg#t=38m38s |vod2=http://www.youtube.com/watch?v=BysALIGCBPg#t=1h30m10s |vod3=http://www.twitch.tv/riotgames/b/608871440?t=1h42m08s |start=1|title=Week 2  |customwidth=290 |hide=false}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=kt |team2=skt |t1score=0 |t2score=2 |winner=2 |date=2015-01-16 |KST=17:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=o6K622J1CjU?t=25m22s |vod2=http://www.youtube.com/watch?v=o6K622J1CjU?t=1h26m9s |vod3=http://www.twitch.tv/riotgames/b/608871440?t=1h42m08s }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=cj|team2=najin |t1score=2 |t2score=1 |winner=1 |date=2015-01-16|KST=18:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=o6K622J1CjU?t=2h43m38s |vod2=http://www.youtube.com/watch?v=o6K622J1CjU?t=3h42m28s |vod3=http://www.youtube.com/watch?v=o6K622J1CjU?t=4h44m40s }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=ssg|team2=im |t1score=0 |t2score=2 |winner=2 |date=2015-01-17|KST=17:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1= }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=get |team2=jinair |t1score=2 |t2score=1 |winner=1 |date=2015-01-17|KST=18:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1= |end=1}}
+{{!}}-{{!}}
+Week 3=
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1|team1=kt|team2=cj|t1score=1 |t2score=2 |winner=2 |date=2015-01-21 |KST=18:00|dst=no|shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=vahRaiq-Mns?t=46m49s |vod2=http://www.youtube.com/watch?v=vahRaiq-Mns?t=1h57m1s |vod3=http://www.youtube.com/watch?v=vahRaiq-Mns?t=2h48m11s |start=1|title=Week 3  |customwidth=290 |hide=false}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=im|team2=skt |t1score=0 |t2score=2 |winner=2 |date=2015-01-23 |KST=17:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=ucdoHXg0vow?t=32m46s |vod2=http://www.youtube.com/watch?v=ucdoHXg0vow?t=1h37m2s |vod3=http://google.com }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=jinair|team2=najin |t1score=2 |t2score=0 |winner=1 |date=2015-01-23|KST=18:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=ucdoHXg0vow?t=2h40m34s |vod2=http://www.youtube.com/watch?v=ucdoHXg0vow?t=4h10m19s |vod3=http://google.com }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=cj|team2=get |t1score=0 |t2score=2 |winner=2 |date=2015-01-24|KST=17:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=04pLIijTeq4?t=35m31s |vod2=http://www.youtube.com/watch?v=04pLIijTeq4?t=1h38m30s |vod3=http://www.youtube.com/watch?v=04pLIijTeq4?t=2h31m40s }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=ssg|team2=kt |t1score=0 |t2score=2 |winner=2 |date=2015-01-24|KST=18:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=04pLIijTeq4?t=2h51m17s |vod2=http://www.youtube.com/watch?v=04pLIijTeq4?t=3h52m1s |vod3=http://www.youtube.com/watch?v=04pLIijTeq4?t=4h28m44s |end=1}}
+{{!}}-{{!}}
+Week 4=
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1|team1=im|team2=jinair|t1score=2 |t2score=1 |winner=1 |date=2015-01-28|KST=18:00|dst=no|shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=4XPILwEmOi?t=45m5s |vod2=http://www.youtube.com/watch?v=4XPILwEmOi?t=1h44m35s |vod3=http://www.youtube.com/watch?v=4XPILwEmOi8?t=2h54m19s |start=1|title=Week 4  |customwidth=290 |hide=false}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=cj|team2=ssg |t1score= |t2score= |winner= |date=2015-01-30|KST=17:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=SqbiyN94ZjI?t=37m59s |vod2=http://www.youtube.com/watch?v=SqbiyN94ZjI?t=1h30m57s |vod3=http://www.youtube.com/watch?v=SqbiyN94ZjI?t=2h33m21s}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=get|team2=kt |t1score= |t2score= |winner= |date=2015-01-30|KST=18:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=SqbiyN94ZjI?t=2h53m23s |vod2=http://www.youtube.com/watch?v=SqbiyN94ZjI?t=3h51m55s |vod3=http://www.youtube.com/watch?v=SqbiyN94ZjI?t=4h34m6s}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=jinair|team2=skt |t1score=2 |t2score=0 |winner=1 |date=2015-01-31|KST=17:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=ySkilYbKLJg?t=32m21s |vod2=http://www.youtube.com/watch?v=ySkilYbKLJg?t=1h48m5s |vod3=http://www.youtube.com/watch?v=ySkilYbKLJg?t=2h57m2s}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=im|team2=najin |t1score=0 |t2score=2 |winner=2 |date=2015-01-31|KST=18:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=ySkilYbKLJg?t=3h23m1s |vod2=http://www.youtube.com/watch?v=ySkilYbKLJg?t=4h30m45s |vod3=http://www.youtube.com/watch?v=ySkilYbKLJg?t=5h35m48s |end=1}}
+{{!}}-{{!}}
+Week 5=
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1|team1=skt |team2=ssg|t1score=2 |t2score=0 |winner=1 |date=2015-02-04|KST=18:00|dst=no|shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=0zBkc9Hqaew | vod2=http://www.youtube.com/watch?v=D_OgrpVRrZE | vod3=http://www.youtube.com/watch?v=0zBkc9Hqaew|start=1|title=Week 5  |customwidth=290 |hide=false}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=najin|team2=get |t1score=0 |t2score=2 |winner=2 |date=2015-02-06|KST=17:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=Jj_4pTJQmhY | vod2=http://www.youtube.com/watch?v=8cc5wEJgwLg | vod3=http://www.youtube.com/watch?v=Jj_4pTJQmhY}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=jinair|team2=cj |t1score=2 |t2score=0 |winner=1 |date=2015-02-07|KST=17:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=FNZVf25FW7A | vod2=http://www.youtube.com/watch?v=osyUA4WjfoE | vod3=http://www.youtube.com/watch?v=FNZVf25FW7A}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR1 |team1=kt|team2=im |t1score= |t2score= |winner= |date=2015-02-07|KST=18:00 |dst=no |shownname=Champions Spring 2015 |stream= |vod1=http://www.youtube.com/watch?v=H2RtDLLdqyo | vod2=http://www.youtube.com/watch?v=kgBxF-snFT8 | vod3=http://www.youtube.com/watch?v=H2RtDLLdqyo|end=1}}
+}}
+&lt;/tabber&gt;
+
+== Additional Content ==
+&lt;tabber&gt;
+Other Coverage=
+* January 10th - [http://www.sk-gaming.com/content/1812315-LCK_Spring_Week_1_Recap LCK Spring Week 1 Recap] ''sk-gaming.com''
+
+&lt;/tabber&gt;
+
+== See Also ==
+*[[Portal:Tournaments|Tournaments Portal]]
+
+== External Links ==
+
+== References ==
+&lt;references /&gt;</rev></revisions></page></pages></query></api>

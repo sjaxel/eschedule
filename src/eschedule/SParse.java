@@ -15,6 +15,10 @@ public class SParse {
 	private Map<String, Team> dict = Tools.teamDict();
 	private ArrayList<String> tokens;
 	private Schedule sch;
+	private int week = 0;
+	static enum parseTarget {
+		MATCH, TEAM;
+	}
 	
 	
 	public SParse(Schedule s, ArrayList<String>... tokenlists) throws IOException, ParseException {
@@ -25,7 +29,7 @@ public class SParse {
 		}
 	}
 	
-	public void parseLines() throws IOException, ParseException {
+	void parseLines() throws IOException, ParseException {
 		for (String s : tokens) {
 			parseLine(s);
 		}
@@ -36,7 +40,7 @@ public class SParse {
 	 * @param pos Takes a string "pre" or "post" on which value to return.
 	 * @return A string with the value before or after the "=" in the token.
 	 */
-	String getValue(String token, String pos) {
+	public static String getValue(String token, String pos) {
 		if (pos == "post")
 			return token.substring((token.indexOf('='))+1).trim();
 		else if (pos == "pre")
@@ -44,6 +48,7 @@ public class SParse {
 		else
 			return null;
 	}
+
 	
 	/**
 	 * Main line-parser method. Takes a line with match details, creates a match, adds parsed 
@@ -57,6 +62,8 @@ public class SParse {
 		String hour = null;
 		String date = null;
 		String zone = null;
+			
+
 		
 		Scanner scanner  = new Scanner(line);
 		scanner.useDelimiter("\\|");
@@ -77,6 +84,15 @@ public class SParse {
 				String token = scanner.next();
 				hour = getValue(token, "post");
 				zone = getValue(token, "pre");
+			}
+			else if (scanner.hasNext(".*title.*")) {
+				String token = scanner.next();
+				String wstring = getValue(token, "post");
+				try {
+				week = Integer.parseInt(wstring.replaceAll("\\D+",""));
+				} catch (NumberFormatException n) {
+					// Parser is wrong.
+				}
 			}
 			else if (scanner.hasNext(".*winner.*")) {
 				String token = scanner.next();
@@ -101,8 +117,18 @@ public class SParse {
 		}
 		scanner.close();
 		
-		match.setDate(Tools.getSDF(zone).parse(date + " " + hour));
-		sch.addMatch(match);
+		
+		try {
+			match.initDate(Tools.getSDF(zone).parse(date + " " + hour));
+			match.setWeek(week);
+		} catch (ParseException p) {
+			//Should log shit
+		} catch (NullPointerException e) {
+			//Should log some more shit
+		}
+		if (match.isValid()) {
+			sch.addMatch(match);
+		}
 	}
 	
 	/**

@@ -10,7 +10,7 @@ public class Match implements Comparable<Match> {
 	
     Status state;
 	private int uid;
-	private Calendar time;
+	private ECalendar time;
 	private Team t1;
 	private Team t2;
 	private int t1score;
@@ -25,8 +25,14 @@ public class Match implements Comparable<Match> {
 	 */
 	public Match() {
 		state = Status.SPOILERS;
-		time = Tools.getCal();
 		uid = id; id++;
+	}
+
+	public boolean isValid() {
+		if ((t1 != null) && (t2 != null) && (time != null))
+			return true;
+		else
+			return false;		
 	}
 	
 	/**
@@ -45,9 +51,22 @@ public class Match implements Comparable<Match> {
 	public Date getTime() {
 		return time.getTime();
 	}
-	
+
+	public void initDate(Date date){
+		time = (ECalendar) Tools.getCal();
+		time.setTime(date);
+	}
+
 	public void setDate(Date date){
 		time.setTime(date);
+	}
+	
+	public void setWeek(int w) {
+		time.setWeek(w);
+	}
+	
+	public int getWeek() {
+		return time.getWeek();
 	}
 	
 	public void setVOD(String url) {
@@ -141,10 +160,14 @@ public class Match implements Comparable<Match> {
 	
 	public String toString() {
 		if (state == Status.VISIBLE) {
-			return Tools.getSDF().format(getTime()) + " - " + t1 + " vs. " + t2;
+			return "Week: " + Integer.toString(getWeek())
+					+ " " + Tools.getSDF().format(getTime()) 
+					+ " - " + t1 + " vs. " + t2;
 		}
 		else if (state == Status.SPOILERS) {
-			return Tools.getSDF().format(getTime()) + " - " + t1 + " vs. " + t2;
+			return "Week: " + Integer.toString(getWeek())
+					+ " " + Tools.getSDF().format(getTime()) 
+					+ " - " + t1 + " vs. " + t2;
 		}
 		else {
 			return "";

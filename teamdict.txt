@@ -1,0 +1,3116 @@
+<?xml version="1.0"?><api><query><pages><page pageid="387197" ns="828" title="Module:Teamnames"><revisions><rev contentformat="text/plain" contentmodel="Scribunto" xml:space="preserve">return {
+	-- NUMBERS
+	['1tp'] = '1 trick ponies',
+	['1 trick ponies'] = { pos = 2, long = '1 Trick Ponies', short = '1TP' },
+	
+	['2k'] = '2kill gaming',
+	['2kill'] = '2kill gaming',
+	['2kill gaming'] = { pos = 3, long = '2Kill Gaming', short = '2K' },
+	
+	['34u'] = '34united e-sports club',
+	['34united'] = '34united e-sports club',
+	['34united e-sports club'] = { pos = 4, long = '34united e-Sports Club', short = '34U' },
+	
+	['3dmax'] = { pos = 5, long = '3DMAX', short = '3DMAX' },
+	
+	['4k'] = '4kings',
+	['four kings'] = '4kings',
+	['4kings'] = { pos = 6, long = '4Kings', short = '4K' },
+	
+	['4mod'] = { pos = 7, long = '4moD', short = '4moD' },
+	
+	['team4not'] = '4nothing',
+	['4not'] = '4nothing',
+	['4nothing'] = { pos = 8, long = '4Nothing', short = '4Not' },
+	
+	['4not fire'] = '4not.fire',
+	['4notfire'] = '4not.fire',
+	['4not.fire'] = { pos = 8, long = '4Not.Fire', short = '4Not.Fire' },
+	
+	['76767'] = { pos = 9, long = '76767', short = '76767' },
+	
+	
+	-- A
+	['al'] = 'absolute legends',
+	['absolute legends'] = { pos = 10, long = 'Absolute Legends', short = 'aL' },
+	
+	['al.alpha'] = 'absolute legends.alpha',
+	['al alpha'] = 'absolute legends.alpha',
+	['absolute legends alpha'] = 'absolute legends.alpha',
+	['absolutelegends.alpha'] = 'absolute legends.alpha',
+	['absolute legends.alpha'] = { pos = 10, long = 'Absolute Legends.Alpha', short = 'aL.Alpha' },
+	
+	['al.omega'] = 'absolute legends.omega',
+	['al omega'] = 'absolute legends.omega',
+	['absolute legends omega'] = 'absolute legends.omega',
+	['absolute legends.omega'] = { pos = 10, long = 'Absolute Legends.Omega', short = 'aL.Omega' },
+	
+	['alna'] = 'absolute legends na',
+	['al na'] = 'absolute legends na',
+	['absolute legends na'] = { pos = 10, long = 'Absolute Legends North America', short = 'aL NA' },
+	
+	['al sg'] = 'absolute legends singapore',
+	['al eventpotion'] = 'absolute legends singapore',
+	['absolute legends eventpotion'] = 'absolute legends singapore',
+	['absolute legends sg'] = 'absolute legends singapore',
+	['absolute legends singapore'] = { pos = 10, long = 'Absolute Legends Singapore', short = 'aL SG' },
+	
+        ['ahes'] = 'aces high esports club',
+	['aces high esports club'] = { pos = 763, long = 'Aces High eSports Club', short = 'AHES' },
+
+        ['aces'] = 'nvidia aces',
+	['nvidia aces'] = { pos = 739, long = 'NVIDIA Aces', short = 'Aces' },
+
+	['az'] = 'acezone e-sports',
+	['acezone'] = 'acezone e-sports',
+	['acezone e-sports'] = { pos = 11, long = 'AceZone e-Sports', short = 'aZ' },
+	
+	['acfun'] = 'acfun e-sports club',
+	['acfun e-sports club'] = { pos = 12, long = 'AcFun e-Sports Club', short = 'AcFun' },
+	
+	['ate'] = 'action team esports',
+	['action team esports'] = { pos = 13, long = 'Action Team eSports', short = 'ATE' },
+	
+	['adversa'] = 'adversa esports',
+	['adversa esports'] = { pos = 14, long = 'Adversa eSports', short = 'Adversa' },
+	
+	['aeon'] = { pos = 15, long = 'AEON', short = 'AEON' },
+	
+	['aeg'] = 'aeon gaming',
+	['aeon gaming'] = { pos = 16, long = 'Aeon Gaming', short = 'AEG' },
+	
+	['aesthetic'] = 'aesthetic gaming',
+	['aesthetic gaming'] = { pos = 17, long = 'Aesthetic Gaming', short = 'Aesthetic' },
+	
+	['aaa'] = 'against all authority',
+	['against all authority'] = { pos = 18, long = 'against All authority', short = 'aAa' },
+	
+	['agfox'] = { pos = 19, long = 'AgFox', short = 'AgFox' },
+	
+	['agresiv'] = { pos = 20, long = 'Agresiv', short = 'Agresiv' },
+	
+	['ahq'] = 'ahq e-sports club',
+	['ahq e-sports club'] = { pos = 21, long = 'ahq e-Sports Club', short = 'ahq' },
+	
+	['ahqkr'] = 'ahq e-sports club korea',
+	['ahq e-sports club korea'] = { pos = 21, long = 'ahq e-Sports Club Korea', short = 'ahq.KR' },
+	
+	['ahq f'] = 'ahq fighter',
+	['ahq fighter'] = { pos = 21, long = 'ahq Fighter', short = 'ahq F' },
+	
+
+        ['ahq s'] = 'ahq snipers',
+	['ahq snipers'] = { pos = 724, long = 'ahq Snipers', short = 'ahq S' },
+
+	['alienware a'] = 'alienware andromeda',
+	['alienware andromeda'] = { pos = 22, long = 'Alienware Andromeda', short = 'Alienware A' },
+	
+	['aw arena'] = 'alienware arena',
+	['alienware arena'] = { pos = 23, long = 'Alienware Arena', short = 'AW Arena' },
+	
+	['alienware r'] = 'alienware rangers',
+	['alienware rangers'] = { pos = 22, long = 'Alienware Rangers', short = 'Alienware R' },
+	
+	['alienware t'] = 'alienware top',
+	['aw top'] = 'alienware top',
+	['alienware top'] = { pos = 24, long = 'Alienware TOP', short = 'AW TOP' },
+	
+	['ag'] = 'all gamers',
+	['all gamers'] = { pos = 25, long = 'All Gamers', short = 'AG' },
+	
+	['a'] = 'alliance',
+	['alliance'] = { pos = 26, long = 'Alliance', short = 'A' },
+	
+	['alsen'] = 'alsen team',
+	['alsen team'] = { pos = 27, long = 'ALSEN Team', short = 'ALSEN' },
+	
+	['at'] = 'alt-tab.gaming',
+	['alt-tab.gaming'] = { pos = 28, long = 'Alt-Tab.Gaming', short = 'AT' },
+	
+	['awh'] = 'always with honor',
+	['always with honor'] = { pos = 29, long = 'Always With Honor', short = 'AWH' },
+	
+        ['apu'] = 'an phat ultimate',
+	['an phat ultimate'] = { pos = 730, long = 'An Phat Ultimate', short = 'APU' },
+
+	['asd'] = 'and stay down',
+	['and stay down'] = { pos = 30, long = 'And Stay Down', short = 'aSd' },
+	
+	['anexis'] = 'anexis esports',
+	['anexis esports'] = { pos = 31, long = 'Anexis eSports', short = 'Anexis' },
+	
+	['animate'] = 'animate esports',
+	['animateesports'] = 'animate esports',
+	['animate esports'] = { pos = 32, long = 'Animate eSports', short = 'aN' },
+	
+	['amz'] = 'anonymouz e-sports',
+	['anonymouz e-sports'] = { pos = 33, long = 'AnonyMOUZ e-Sports', short = 'aMz' },
+	
+	['ant'] = 'ant gaming',
+	['ant gaming'] = { pos = 34, long = 'ANT Gaming', short = 'ANT' },
+	
+	['acps'] = 'anti conceded players',
+	['anti conceded players'] = { pos = 35, long = 'Anti Conceded Players', short = 'ACPs' },
+	
+	['goose'] = 'apictureofagoose',
+	['apictureofagoose'] = { pos = 36, long = 'APictureOfAGoose', short = 'Goose' },
+	
+	['ang'] = 'arenales net games',
+	['arenales net games'] = { pos = 37, long = 'Arenales Net Games', short = 'ANG' },
+	
+	['ares'] = 'ares e.sport',
+	['ares e.sport'] = { pos = 38, long = 'Ares e.Sport', short = 'Ares' },
+	
+	['arm'] = 'armageddon',
+	['armageddon'] = { pos = 39, long = 'Armageddon', short = 'Arm' },
+	
+	['ases'] = 'ases e-sports club',
+	['ases e-sports club'] = { pos = 40, long = 'ASES e-Sports Club', short = 'ASES' },
+	
+	['asperagamers'] = 'aspera gamers',
+	['aspera gamers'] = { pos = 41, long = 'aSpera Gamers', short = 'aSpera' },
+	
+	['ad'] = 'astana dragons',
+	['astana dragons'] = { pos = 42, long = 'Astana Dragons', short = 'AD' },
+	
+        ['fate'] = 'asus fate',
+        ['asus fate'] = { pos = 732, long = 'ASUS Fate', short = 'Fate' },
+
+	['atgaming'] = 'at gaming',
+	['at-gaming'] = 'at gaming',
+	['at gaming'] = { pos = 43, long = 'AT Gaming', short = 'AT Gaming' },
+	
+	['atlas'] = 'atlas esports team',
+	['atlas esports team'] = { pos = 44, long = 'ATLAS eSports Team', short = 'Atlas' },
+	
+	['atrox'] = 'atrox gaming',
+	['atrox gaming'] = { pos = 45, long = 'Atrox Gaming', short = 'Atrox' },
+	
+	['ava'] = 'avalanche esports',
+	['avalanche esports'] = { pos = 46, long = 'Avalanche eSports', short = 'AVA' },
+	
+	['ava osp'] = 'avalanche esports osp',
+	['avalanche osp'] = 'avalanche esports osp',
+	['avalanche esports osp'] = { pos = 46, long = 'Avalanche eSports OSP', short = 'AVA OSP' },
+	
+	['ava prime'] = 'avalanche esports prime',
+	['avalanche prime'] = 'avalanche esports prime',
+	['avalanche esports prime'] = { pos = 46, long = 'Avalanche eSports Prime', short = 'AVA Prime' },
+	
+	['ava russian rangers'] = 'avalanche esports russian rangers',
+	['avalanche russian rangers'] = 'avalanche esports russian rangers',
+	['avalanche esports russian rangers'] = { pos = 46, long = 'Avalanche Russian Rangers', short = 'AVA Russian Rangers' },
+	
+	['ava supreme'] = 'avalanche esports supreme',
+	['avalanche supreme'] = 'avalanche esports supreme',
+	['avalanche esports supreme'] = { pos = 46, long = 'Avalanche eSports Supreme', short = 'AVA Supreme' },
+	
+	['ava uk'] = 'avalanche esports uk',
+	['avalanche uk'] = 'avalanche esports uk',
+	['avalanche esports uk'] = { pos = 46, long = 'Avalanche eSports UK', short = 'AVA UK' },
+	
+	['ava ultimate'] = 'avalanche esports ultimate',
+	['avalanche ultimate'] = 'avalanche esports ultimate',
+	['avalanche esports ultimate'] = { pos = 46, long = 'Avalanche eSports Ultimate', short = 'AVA Ultimate' },
+	
+	['av'] = 'avant garde',
+	['avant garde'] = { pos = 47, long = 'Avant Garde', short = 'AV' },
+	
+	['av ascension'] = 'avant garde ascension',
+	['avant garde ascension'] = { pos = 47, long = 'Avant Garde Ascension', short = 'Av Ascension' },
+	
+	['awg'] = 'aware gaming',
+	['aware gaming'] = { pos = 48, long = 'Aware Gaming', short = 'AwG' },
+	
+	['awp'] = 'team awp',
+	['team awp'] = { pos = 712, long = 'Team awp', short = 'awp' },
+	
+	['aws'] = 'awsomniac',
+	['awsomniac'] = { pos = 49, long = 'Awsomniac', short = 'AwS' },
+	
+	['aztek'] = 'aztek gaming',
+	['aztek gaming'] = { pos = 50, long = 'Aztek Gaming', short = 'Aztek' },
+	
+	['azb'] = 'azubu blaze',
+	['azubublaze'] = 'azubu blaze',
+	['azubu blaze'] = { pos = 51, long = 'Azubu Blaze', short = 'AZB' },
+	
+	['azf'] = 'azubu frost',
+	['azubufrost'] = 'azubu frost',
+	['azubu frost'] = { pos = 52, long = 'Azubu Frost', short = 'AZF' },
+	
+	['azure cats'] = { pos = 53, long = 'Azure Cats', short = 'AC' },
+	
+	['azure'] = 'azure gaming',
+	['azure gaming'] = { pos = 54, long = 'Azure Gaming', short = 'Azure' },
+	
+	
+	-- B
+	['b rabbit'] = 'b rabbit gaming',
+	['b rabbit gaming'] = { pos = 55, long = 'B Rabbit Gaming', short = 'B Rabbit' },
+	
+	['bbh'] = 'baby build house',
+	['baby build house'] = { pos = 56, long = 'Baby Build House', short = 'BBH' },
+	
+	['bkt'] = 'bangkok titans',
+	['bangkok titans'] = { pos = 57, long = 'Bangkok Titans', short = 'BKT' },
+	
+	['bf.nut'] = 'battle field.no use talking',
+	['battle field.no use talking'] = { pos = 58, long = 'Battle Field.No Use Talking', short = 'Bf.Nut' },
+	
+	['inside'] = 'be.inside',
+	['be.inside'] = { pos = 59, long = 'be.inSide', short = 'inSide' },
+	
+	['beasts'] = 'beasts multigaming',
+	['beasts multigaming'] = { pos = 60, long = 'Beasts Multigaming', short = 'Beasts' },
+	
+	['blg'] = 'beautiful life gaming',
+	['beautiful life gaming'] = { pos = 61, long = 'Beautiful Life Gaming', short = 'BLG' },
+	
+	['belgium'] = { pos = 62, long = 'Belgium', short = 'Belgium' },
+        
+        ['beşiktaş'] = 'Beşiktaş e-Sports Club',
+        ['BJK'] = 'Beşiktaş e-Sports Club',
+        ['besiktas'] = { pos = 788, long = 'Beşiktaş e-Sports Club', short = 'BJK' },
+	
+	['beta'] = 'beta-gaming',
+	['beta-gaming'] = { pos = 63, long = 'Beta-Gaming', short = 'Beta' },
+	
+	['bfn'] = 'bf.nub',
+	['bf.nub'] = { pos = 58, long = 'Bf.Nub', short = 'BFN' },
+	
+	['bg'] = 'bida gaming',
+	['bida gaming'] = { pos = 64, long = 'Bida Gaming', short = 'BG' },
+	
+	['bpi'] = 'big plays incorporated',
+	['big plays incorporated'] = { pos = 65, long = 'Big Plays Incorporated', short = 'BPI' },
+	
+	['b.amor'] = 'bigfile amor',
+	['bigfile amor'] = { pos = 66, long = 'Bigfile Amor', short = 'B.Amor' },
+	
+	['b.miracle'] = 'bigfile miracle',
+	['bigfile miracle'] = { pos = 67, long = 'Bigfile Miracle', short = 'B.Miracle' },
+	
+	['bev'] = 'binary evasion',
+	['binary evasion'] = { pos = 68, long = 'Binary Evasion', short = 'BEV' },
+	
+	['bb'] = 'blackbean',
+	['blackbean'] = { pos = 69, long = 'Blackbean', short = 'BB' },
+	
+	['blast'] = { pos = 70, long = 'BLAST', short = 'BLAST' },
+	
+	['bh'] = 'blazing heart',
+	['blazing heart'] = { pos = 71, long = 'Blazing Heart', short = 'BH' },
+	
+	['bleiz'] = 'bleiz esports',
+	['bleizesports'] = 'bleiz esports',
+	['bleiz esports'] = { pos = 72, long = 'bleiz eSPORTS', short = 'bleiz' },
+	
+	['bib'] = 'blood is blood',
+	['blood is blood'] = { pos = 73, long = 'Blood is blooD', short = 'BiB' },
+	
+	['bi'] = 'boba illuminati',
+	['bobailluminati'] = 'boba illuminati',
+	['boba illuminati'] = { pos = 74, long = 'Boba Illuminati', short = 'BI' },
+	
+        ['bma'] = 'boba marines',
+	['boba marines'] = { pos = 736, long = 'Boba Marines', short = 'BMA' },
+
+	['bm'] = 'boba minions',
+	['boba minions'] = { pos = 75, long = 'Boba Minions', short = 'BM' },
+	
+	['beh'] = 'born elite humans',
+	['born elite humans'] = { pos = 76, long = 'Born Elite Humans', short = 'BeH' },
+	
+        ['be'] = 'boreal eSports',
+	['boreal eSports'] = { pos = 722, long = 'Boreal eSports', short = 'BE' },
+
+	['bt'] = 'borrowed time',
+	['borrowed time'] = { pos = 77, long = 'Borrowed Time', short = 'BT' },
+	
+	['brawl'] = { pos = 78, long = 'BrawL', short = 'BrawL' },
+	
+	['bronx'] = 'bronx gaming',
+	['bronx gaming'] = { pos = 79, long = 'Bronx Gaming', short = 'Bronx' },
+	
+	['broski'] = { pos = 80, long = 'Broski', short = 'Broski' },
+	
+	
+	-- C
+	['cic.my'] = 'california internet cafe.my',
+	['california internet cafe.my'] = { pos = 81, long = 'California Internet Cafe.MY', short = 'CIC.MY' },
+	
+        ['call'] = 'call gaming',
+	['call gaming'] = { pos = 748, long = 'Call Gaming', short = 'CALL' },
+
+	['clc'] = 'canis lupus campestris',
+	['canis lupus campestris'] = { pos = 82, long = 'Canis Lupus Campestris', short = 'CLC' },
+	
+	['cc'] = 'cc club',
+	['cc club'] = { pos = 83, long = 'CC Club', short = 'CC' },
+	
+	['ccm'] = { pos = 84, long = 'CCM', short = 'CCM' },
+	
+	['cday'] = 'cday gaming',
+	['cday gaming'] = { pos = 85, long = 'CDAY Gaming', short = 'CDAY' },
+
+	['celerius'] = 'celerius e-sports',
+	['celerius e-sports'] = { pos = 86, long = 'Celerius e-Sports', short = 'Celerius' },
+	
+	['cbs'] = 'cerberus e-sports club',
+	['cerberus'] = 'cerberus e-sports club',
+	['cerberus e-sports club'] = { pos = 87, long = 'Cerberus e-Sports Club', short = 'cBs' },
+	
+	['chs'] = 'chaos gaming',
+	['chaos gaming by ecrz'] = 'chaos gaming',
+	['ecrz'] = 'chaos gaming',
+	['ecrz chaos'] = 'chaos gaming',
+	['chaos gaming'] = { pos = 88, long = 'Chaos Gaming', short = 'Chs' },
+	
+	['cht'] = 'cheetahs',
+	['cheetahs'] = { pos = 89, long = 'Cheetahs', short = 'CHT' },
+	
+	['cde'] = 'chicks dig elo',
+	['chicks dig elo'] = { pos = 90, long = 'Chicks Dig Elo', short = 'CDE' },
+	
+	['chienkuo'] = 'chienkuo technology university',
+	['chienkuo technology university'] = { pos = 91, long = 'Chienkuo Technology University', short = 'Chienkuo' },
+	
+	['clit'] = 'chihlee institute of technology',
+	['chihlee institute of technology'] = { pos = 92, long = 'Chihlee Institute of Technology', short = 'CLIT' },
+	
+	['cl5.h'] = 'chileanfive hopes',
+	['cl5 hopes'] = 'chileanfive hopes',
+	['chileanfive hopes'] = { pos = 93, long = 'ChiLeanFivE Hopes', short = 'CL5.H' },
+	
+	['cl5.l'] = 'chileanfive the legacy',
+	['cl5 the legacy'] = 'chileanfive the legacy',
+	['chileanfive the legacy'] = { pos = 93, long = 'ChiLeanFivE The Legacy', short = 'CL5.L' },
+	
+	['choppa'] = 'choppa in da car',
+	['choppa in da car'] = { pos = 94, long = 'Choppa In Da Car', short = 'Choppa' },
+	
+	['ccu'] = 'chung chou university of ST',
+	['chung chou university of ST'] = { long = 'Chung Chou University of ST', short = 'CCU' },
+	
+	['cycu'] = 'chung yuan christian university',
+	['chung yuan christian university'] = { pos = 95, long = 'Chung Yuan Christian University', short = 'CYCU' },
+	
+	['ctu'] = 'chunnam techno university',
+	['chunnam techno university'] = { pos = 96, long = 'Chunnam Techno University', short = 'CTU' },
+	
+	['cj'] = 'cj entus',
+	['cj entus'] = { pos = 97, long = 'CJ Entus', short = 'CJ' },
+	
+	['cjb'] = 'cj entus blaze',
+	['cj blaze'] = 'cj entus blaze',
+	['cj entus blaze'] = { pos = 97, long = 'CJ Entus Blaze', short = 'CJ Blaze' },
+	
+	['cj cm'] = 'cj entus club masters',
+	['cj entus club masters'] = { pos = 97, long = 'CJ Entus (Club Masters)', short = 'CJ' },
+	
+	['cjf'] = 'cj entus frost',
+	['cj frost'] = 'cj entus frost',
+	['cj entus frost'] = { pos = 97, long = 'CJ Entus Frost', short = 'CJ Frost' },
+	
+	['cpl'] = 'clan poland',
+	['clan poland'] = { pos = 98, long = 'Clan Poland', short = 'CPL' },
+	
+	['c9'] = 'cloud 9',
+	['cloud9'] = 'cloud 9',
+	['cloud 9'] = { pos = 99, long = 'Cloud 9', short = 'C9' },
+	
+        ['c9.g2a'] = 'cloud9 g2a',
+	['cloud9 g2a'] = { pos = 99, long = 'Cloud9 G2A', short = 'C9.G2A' },
+
+	['c9e'] = 'cloud 9 eclipse',
+	['c9 eclipse'] = 'cloud 9 eclipse',
+	['cloud 9 eclipse'] = { pos = 99, long = 'Cloud 9 Eclipse', short = 'C9E' },
+	
+	['c9 eu'] = 'cloud 9 europe',
+	['c9 europe'] = 'cloud 9 europe',
+	['cloud 9 eu'] = 'cloud 9 europe',
+	['cloud 9 europe'] = { pos = 99, long = 'Cloud 9 Europe', short = 'C9 EU' },
+	
+	['c9t'] = 'cloud 9 tempest',
+	['c9 tempest'] = 'cloud 9 tempest',
+	['cloud 9 tempest'] = { pos = 99, long = 'Cloud 9 Tempest', short = 'C9T' },
+	
+	['act'] = 'club activist',
+	['club_act'] = 'club activist',
+	['club activist'] = { pos = 100, long = 'CLUB Activist', short = 'ACT' },
+	
+	['5ive'] = 'club5ive',
+	['club5ive'] = { pos = 101, long = 'Club5ive', short = '5ive' },
+	
+	['cmstorm'] = 'cmstorm gaming',
+	['cmstorm gaming'] = { pos = 102, long = 'CMStorm Gaming', short = 'CMStorm' },
+	
+	['cn lpl'] = 'china lpl',
+	['china lpl'] = { pos = 103, long = 'China LPL', short = 'CN LPL' },
+	
+	['cnb'] = 'cnb e-sports club',
+	['cnb e-sports club'] = { pos = 104, long = 'CNB e-Sports Club', short = 'CNB' },
+	
+	['crg'] = 'codered gaming',
+	['codered gaming'] = { pos = 105, long = 'CodeRed Gaming', short = 'CRG' },
+	
+	['cog'] = 'cognitive gaming',
+	['cognitive gaming'] = { pos = 106, long = 'COGnitive Gaming', short = 'COG' },
+	
+	['cog forge'] = 'cognitive gaming forge',
+	['cognitive gaming forge'] = { pos = 107, long = 'COGnitive Gaming Forge', short = 'COG Forge' },
+
+        ['cdr'] = 'coliseo dragons',
+        ['coliseo dragons'] = { pos = 1, long = 'Coliseo Dragons', short = 'CdR' },
+	
+	['cf'] = 'cold fusion',
+	['cold fusion'] = { pos = 108, long = 'Cold Fusion', short = 'CF' },
+	
+	['csense'] = 'coldsense esports',
+	['coldsense esports'] = { pos = 109, long = 'Coldesense eSports', short = 'CSENSE' },
+	
+	['ce'] = 'comando elite e-sports',
+	['comando elite e-sports'] = { pos = 110, long = 'Comando Elite e-Sports', short = 'CE' },
+	
+	['competo'] = 'competo sports',
+	['competo sports'] = { pos = 111, long = 'Competo Sports', short = 'Competo' },
+	
+	['col.ca'] = 'complexity academy',
+	['complexity academy'] = { pos = 112, long = 'compLexity Academy', short = 'coL Acad' },
+	
+	['col.black'] = 'complexity black',
+	['complexity.black'] = 'complexity black',
+	['complexity black'] = { pos = 112, long = 'compLexity.Black', short = 'coL.Black' },
+	
+	['col'] = 'complexity gaming',
+	['complexity'] = 'complexity gaming',
+	['complexity gaming'] = { pos = 112, long = 'compLexity Gaming', short = 'coL' },
+	
+	['col.red'] = 'complexity red',
+	['complexity.red'] = 'complexity red',
+	['complexity red'] = { pos = 112, long = 'compLexity.Red', short = 'coL.Red' },
+
+        ['col.white'] = 'complexity white',
+	['complexity.white'] = 'complexity white',
+	['complexity white'] = { pos = 112, long = 'compLexity.White', short = 'coL.White' },
+	
+	['cw'] = 'copenhagen wolves',
+	['chw'] = 'copenhagen wolves',
+	['wolves'] = 'copenhagen wolves',
+	['copenhagen wolves'] = { pos = 113, long = 'Copenhagen Wolves', short = 'CW' },
+	
+	['cplay'] = 'coreplay',
+	['coreplay'] = { pos = 114, long = 'COREPLAY', short = 'CPLAY' },
+	
+	['corsair'] = { pos = 115, long = 'Corsair', short = 'Corsair' },
+	
+	['cms'] = 'cosmos esport',
+	['cosmos esport'] = { pos = 116, long = 'Cosmos Esport', short = 'CMS' },
+	
+	['ccc'] = 'counter counter clockwise',
+	['counter counter clockwise'] = { pos = 117, long = 'Counter Counter Clockwise', short = 'CCC' },
+	
+	['clg'] = 'counter logic gaming',
+	['counter logic gaming'] = { pos = 118, long = 'Counter Logic Gaming', short = 'CLG' },
+	
+	['clgblack'] = 'counter logic gaming black',
+	['clg black'] = 'counter logic gaming black',
+	['counter logic gaming black'] = { pos = 118, long = 'CLG Black', short = 'CLG Black' },
+	
+	['clgeu'] = 'counter logic gaming europe',
+	['clg eu'] = 'counter logic gaming europe',
+	['clg europe'] = 'counter logic gaming europe',
+	['counter logic gaming eu'] = 'counter logic gaming europe',
+	['counter logic gaming europe'] = { pos = 119, long = 'CLG Europe', short = 'CLG EU' },
+	
+	['clg prime'] = 'counter logic gaming prime',
+	['counter logic gaming prime'] = { pos = 118, long = 'CLG Prime', short = 'CLG Prime' },
+	
+	['cg'] = 'crossgaming',
+	['crossgaming'] = { pos = 120, long = 'CrossGaming', short = 'CG' },
+	
+	['xo'] = 'crossover esports',
+	['crossover esports'] = { pos = 121, long = 'Crossover eSports', short = 'XO' },
+	
+	['ctu revolt'] = { pos = 122, long = 'CTU Revolt', short = 'CTU Revolt' },
+	
+	['crs academy'] = 'curse academy',
+	['crs acad'] = 'curse academy',
+	['curse academy'] = { pos = 123, long = 'Curse Academy', short = 'Crs Acad' },
+	
+	['cge'] = 'cyber gamer e-sports',
+	['cyber gamer e-sports'] = { pos = 124, long = 'Cyber Gamer e-Sports', short = 'CGE' },
+	
+	['cga ls'] = 'cyber games arena legends',
+	['cga legends'] = 'cyber games arena legends',
+	['cyber games arena legends'] = { pos = 125, long = 'CGA LEGENDs', short = 'CGA Ls' },
+	
+	['cyzone'] = { pos = 126, long = 'Cyzone', short = 'Cyzone' },
+	
+	
+	-- D
+        ['dne'] = 'danang elements',
+	['danang elements'] = { pos = 735, long = 'Danang Elements', short = 'DNE' },
+
+
+	['dp'] = 'dark passage',
+	['dark passage'] = { pos = 127, long = 'Dark Passage', short = 'DP' },
+
+        ['dly'] = 'darlingyou',
+	['darlingyou'] = { pos = 773, long = 'DarlingYou', short = 'DLY' },
+	
+	['dash9'] = 'dash9 gaming',
+	['dash9 gaming'] = { pos = 128, long = 'Dash9 Gaming', short = 'Dash9' },
+	
+	['dyu'] = 'dayeh university',
+	['dayeh university'] = { pos = 129, long = 'Dayeh University', short = 'DYU' },
+	
+	['dct'] = 'dctrue',
+	['dctrue'] = { pos = 130, long = 'DCTrue', short = 'DCT' },
+	
+	['decipher'] = { pos = 131, long = 'Decipher', short = 'Decipher' },
+	
+	['dfd'] = 'defenders',
+	['defenders'] = { pos = 132, long = 'Defenders', short = 'DFD' },
+	
+	['delta'] = 'deltaesports',
+	['deltaesports'] = { pos = 133, long = 'DELTAeSPORTS', short = 'DELTA' },
+	
+	['dementes'] = 'dementes gaming',
+	['dementes gaming'] = { pos = 134, long = 'deMentes Gaming', short = 'deMentes' },
+	
+	['denial'] = 'denial esports',
+	['denial esports'] = { pos = 135, long = 'Denial eSports', short = 'Denial' },
+	
+	['denial.east'] = 'denial esports.east',
+	['denial esports.east'] = { pos = 136, long = 'Denial eSports.East', short = 'Denial.East' },
+	
+	['denial.eu'] = 'denial esports.eu',
+	['denial esports.eu'] = { pos = 137, long = 'Denial eSports.EU', short = 'Denial.EU' },
+	
+	['denial.west'] = 'denial esports.west',
+	['denial esports.west'] = { pos = 137, long = 'Denial eSports.West', short = 'Denial.West' },
+	
+	['denmark'] = { pos = 138, long = 'Denmark', short = 'Denmark' },
+	
+	['departed'] = { pos = 139, long = 'Departed', short = 'Departed' },
+	
+	['dg'] = 'destroy gaming',
+	['destroy gaming'] = { pos = 140, long = 'Destroy Gaming', short = 'DG' },
+	
+	['dtg'] = 'determined gaming',
+	['determined gaming'] = { pos = 141, long = 'Determined Gaming', short = 'DTG' },
+	
+	['det fm'] = 'detonation focusme',
+	['detonation fm'] = 'detonation focusme',
+	['detonation focusme'] = { pos = 142, long = 'DetonatioN FocusMe', short = 'Det FM' },
+	
+	['det frx'] = 'detonation frenzyx',
+	['detonation frx'] = 'detonation frenzyx',
+	['detonation frenzyx'] = { long = 'DetonatioN FrenzyX', short = 'Det FRX' },
+	
+	['dvs'] = 'devious gaming',
+	['devious gaming'] = { pos = 143, long = 'Devious Gaming', short = 'DVS' },
+	
+        ['dementes'] = 'dementes gaming',
+	['dementes gaming'] = { pos = 134, long = 'deMentes Gaming', short = 'deMentes' },
+
+        ['diamond'] = 'diamond team',
+	['diamond team'] = { pos = 731, long = 'Diamond Team', short = 'Diamond' },
+
+        ['dxt'] = 'dexterity team',
+	['dexterity team'] = { pos = 786, long = 'Dexterity Team', short = 'DXT' },
+
+        ['dd'] = 'different dimension',
+	['different dimension'] = { pos = 795, long = 'Different Dimension', short = 'DD' },
+	
+        ['dimegio'] = 'dimegio club',
+	['dimegioclub'] = 'dimegio club',
+	['dimegio club'] = { pos = 144, long = 'Dimegio Club', short = 'Dimegio' },
+	
+	['dng'] = 'dirt nap gaming',
+	['dirtnap gaming'] = 'dirt nap gaming',
+	['dirt nap gaming'] = { pos = 145, long = 'Dirt Nap Gaming', short = 'DnG' },
+	
+	['dng.panda'] = 'dirt nap gaming.panda',
+	['dirt nap gaming.panda'] = { pos = 145, long = 'DnG.Panda', short = 'DnG.Panda' },
+	
+	['dkh'] = 'dkh multigaming',
+	['dkh multigaming'] = { pos = 146, long = 'DkH Multigaming', short = 'DkH' },
+
+        ['dolphins'] = 'dolphins of wall street',
+	['dolphins of wall street'] = { pos = 762, long = 'Dolphins of Wall Street', short = 'Dolphins' },
+	
+	['doran'] = 'doran e-sports club',
+	['doran e-sports club'] = { pos = 147, long = 'Doran e-Sports Club', short = 'Doran' },
+	
+	['dotpixels'] = { pos = 148, long = 'dotpiXels', short = 'dotpiXels' },
+	
+	['dbb'] = 'doublebuff',
+	['doublebuff'] = { pos = 149, long = 'DoubleBuff', short = 'DBB' },
+	
+	['dbs'] = 'doublebuffs',
+	['doublebuffs'] = { pos = 150, long = 'Doublebuffs', short = 'DBS' },
+	
+	['db'] = 'dragonborns',
+	['dragonborns'] = { pos = 151, long = 'DragonBorns', short = 'DB' },
+	
+	['dc'] = 'dream catcher',
+	['dream catcher'] = { pos = 152, long = 'Dream Catcher', short = 'DC' },
+	
+	['dor'] = 'dream or reality',
+	['dream or reality'] = { pos = 790, long = 'Dream or Reality', short = 'DoR' },
+	
+        ['dragons'] = 'dragons',
+	['dragons'] = { pos = 718, long = 'Dragons', short = 'Dragons' },
+
+	['druidz'] = 'druidz e-sport',
+	['druidz e-sport'] = { pos = 154, long = 'Druidz E-Sport', short = 'Druidz' },
+	
+	['druidzeu'] = 'druidz e-sport europe',
+	['druidz eu'] = 'druidz e-sport europe',
+	['druidz e-sport eu'] = 'druidz e-sport europe',
+	['druidz e-sport europe'] = { pos = 154, long = 'Druidz E-Sport Europe', short = 'Druidz EU' },
+	
+	['duoduo'] = 'duoduo club',
+	['duoduo club'] = { pos = 155, long = 'DuoDuo Club', short = 'DuoDuo' },
+	
+	
+	-- E
+	['ebd ls'] = 'ebd legends',
+	['ebd legends'] = { pos = 125, long = 'EBD Legends', short = 'EBD Ls' },
+
+
+	['ec'] = 'eclypsia',
+	['eclypsia'] = { pos = 156, long = 'Eclypsia', short = 'EC' },
+	
+	['ec.luna'] = 'eclypsia.luna',
+	['eclypsia.luna'] = { pos = 156, long = 'Eclypsia.Luna', short = 'EC' },
+	
+	['ec.solaris'] = 'eclypsia.solaris',
+	['eclypsiasolaris'] = 'eclypsia.solaris',
+	['eclypsia.solaris'] = { pos = 156, long = 'Eclypsia.Solaris', short = 'EC' },
+	
+	['egc'] = 'ectik gaming clan',
+	['ectik'] = 'ectik gaming clan',
+	['ectik gaming clan'] = { pos = 157, long = 'EctiK Gaming Clan', short = 'EGC' },
+	
+	['ecv'] = 'ecvisualize',
+	['ecvisualize'] = { pos = 158, long = 'ECVisualize', short = 'ECV' },
+	
+	['e-sports dragons pro'] = 'edp',
+	['edp'] = { pos = 159, long = 'e-Sports Dragons Pro', short = 'EDP' },
+	
+	['edg'] = 'edward gaming',
+	['edward gaming'] = { pos = 775, long = 'Edward Gaming', short = 'EDG' },
+	
+	['ehome'] = { pos = 161, long = 'EHOME', short = 'EHOME' },
+	
+        ['el'] = 'elements',
+        ['elements'] = { pos = 771, long = 'Elements', short = 'EL' },
+
+	['elohell'] = { pos = 162, long = 'EloHell', short = 'EloHell' },
+	
+	['ely'] = 'elysium',
+	['elysium'] = { pos = 163, long = 'Elysium', short = 'ELY' },
+	
+	['emd poher'] = 'emd_poher',
+	['emd_poher'] = { pos = 164, long = 'eMD Poher', short = 'eMD Poher' },
+
+        ['nme'] = 'enemy esports',
+        ['enemy esports'] ={pos = 744, long= 'Enemy eSports', short = 'NME' },
+	
+	['e5'] = 'energie5 e-sports',
+	['energie5 e-sports'] = { pos = 166, long = 'EnergiE5 e-Sports', short = 'E5' },
+	
+        ['ep.c'] = 'energy pacemaker.carries',
+	['ep.carries'] = 'energy pacemaker.carries',
+	['energy pacemaker.c'] = 'energy pacemaker.carries',
+	['energy pacemaker.carries'] = { pos = 716, long = 'Energy Pacemaker.Carries', short = 'EP.C' },
+
+	['ep.e'] = 'energy pacemaker.eternal',
+	['ep.eternal'] = 'energy pacemaker.eternal',
+	['energy pacemaker.e'] = 'energy pacemaker.eternal',
+	['energy pacemaker.eternal'] = { pos = 166, long = 'Energy Pacemaker.Eternal', short = 'EP.E' },
+	
+	['ep.fl'] = 'energy pacemaker.fearless',
+	['ep.fearless'] = 'energy pacemaker.fearless',
+	['energy pacemaker.fearless'] = { pos = 166, long = 'Energy Pacemaker.Fearless', short = 'EP.FL' },
+	
+	['ep'] = 'energy pacemaker',
+	['energypacemaker'] = 'energy pacemaker',
+	['energy pacemaker'] = 'energy pacemaker',
+	['energy pacemaker'] = { pos = 166, long = 'Energy Pacemaker', short = 'EP' },
+	
+	['ep.o'] = 'energy pacemaker.the one',
+	['energy pacemaker.o'] = 'energy pacemaker.the one',
+	['energy pacemaker.the one'] = { pos = 166, long = 'Energy Pacemaker.The One', short = 'EP.O' },
+	
+	['ep.y'] = 'energy pacemaker.ycsm',
+	['ep.ycsm'] = 'energy pacemaker.ycsm',
+	['energy pacemaker.ycsm'] = { pos = 166, long = 'Energy Pacemaker.YCSM', short = 'EP.Y' },
+	
+	['epic'] = 'epic esports',
+	['epic esports'] = { pos = 167, long = 'Epic Esports', short = 'Epic' },
+	
+	['epik'] = 'epik gamer',
+	['epik gamer'] = { pos = 168, long = 'Epik Gamer', short = 'Epik' },
+	
+	['epsilon'] = 'epsilon esports',
+	['epsilon esports'] = { pos = 169, long = 'Epsilon eSports', short = 'Epsilon' },
+	
+	['esc'] = 'esc gaming',
+	['esc gaming'] = { pos = 170, long = 'ESC Gaming', short = 'ESC' },
+	
+	['esc eu'] = 'esc gaming europe',
+	['esc europe'] = 'esc gaming europe',
+	['esc gaming eu'] = 'esc gaming europe',
+	['esc gaming europe'] = { pos = 170, long = 'ESC Gaming Europe', short = 'ESC EU' },
+	
+	['patriots'] = 'esport patriots',
+	['esport patriots'] = { pos = 171, long = 'eSport Patriots', short = 'Patriots' },
+	
+	['esuba'] = { pos = 172, long = 'eSuba', short = 'eSuba' },
+	
+	['eternity'] = 'eternity gaming',
+	['eternity gaming'] = { pos = 173, long = 'Eternity Gaming', short = 'Eternity' },
+	
+	['europe lcs'] = 'eu lcs',
+	['eu lcs'] = { pos = 174, long = 'Europe LCS', short = 'EU LCS' },
+	
+	['e2g'] = 'event 2 give',
+	['event2give'] = 'event 2 give',
+	['event 2 give'] = { pos = 175, long = 'Event 2 Give', short = 'E2G' },
+	
+	['eg'] = 'evil geniuses',
+	['evil geniuses'] = { pos = 176, long = 'Evil Geniuses', short = 'EG' },
+	
+	['evs'] = 'evil sharks',
+	['evil sharks'] = { pos = 177, long = 'Evil Sharks', short = 'SHARKS' },
+	
+	['ev'] = 'eviscerate',
+	['eviscerate'] = { pos = 178, long = 'Eviscerate', short = 'EV' },
+	
+	['evoplay'] = { pos = 179, long = 'EVOPLAY', short = 'EVOPLAY' },
+	
+	['exeat'] = 'exeat e-sports club',
+	['exeat e-sports club'] = { pos = 180, long = 'eXeAt E-Sports Club', short = 'eXeAt' },
+	
+	['exertus bleiz'] = 'exertus esports bleiz',
+	['xts bleiz'] = 'exertus esports bleiz',
+	['exertus esports bleiz'] = { pos = 181, long = 'Exertus eSports Bleiz', short = 'XTS Bleiz' },
+	
+	['exertus vigor'] = 'exertus esports vigor',
+	['xts vigor'] = 'exertus esports vigor',
+	['exertus esports vigor'] = { pos = 181, long = 'Exertus eSports Vigor', short = 'XTS Vigor' },
+	
+	['exertus zeal'] = 'exertus esports zeal',
+	['xts zeal'] = 'exertus esports zeal',
+	['exertus esports zeal'] = { pos = 181, long = 'Exertus eSports Zeal', short = 'XTS Zeal' },
+	
+	['exhcl'] = 'exhcl gaming',
+	['exhcl gaming'] = { pos = 182, long = 'exHCL Gaming', short = 'exHCL' },
+	
+	['exile'] = { pos = 183, long = 'Exile', short = 'Exile' },
+	
+	['extatus'] = { pos = 184, long = 'eXtatus', short = 'eXtatus' },
+	
+	['emd'] = 'extreme divide e-sport team',
+	['extreme divide e-sport team'] = { pos = 164, long = 'eXtreme Divide e-Sport Team', short = 'eMD' },
+	
+	['emd_executioner'] = 'extreme divide executioner',
+	['emd executioner'] = 'extreme divide executioner',
+	['extreme divide executioner'] = { pos = 164, long = 'eXtreme Divide ExeCuTioNeR', short = 'eMD ExeCuTioNeR' },
+	
+	['emd ozone'] = 'extreme divide ozone',
+	['extreme divide ozone'] = { pos = 164, long = 'eXtreme Divide Ozone', short = 'eMD Ozone' },
+	
+	['eyes'] = 'eyes on u',
+	['eyes on u'] = { pos = 186, long = 'EYES ON U', short = 'EYES' },
+	
+	['eyes eu'] = 'eyes on u europe',
+	['eyes on u europe'] = { pos = 186, long = 'EYES ON U Europe', short = 'EYES EU' },
+	
+	
+	-- F
+	['flfg'] = 'falafel gaming',
+	['falafel gaming'] = { pos = 187, long = 'Falafel Gaming', short = 'FLFG' },
+	
+	['feels'] = 'feelswrong',
+	['feelswrong'] = { pos = 188, long = 'FeelsWrong', short = 'Feels' },
+	
+	['fenomengod'] = 'fenogod',
+	['fenogod'] = { pos = 189, long = 'FenomenGod', short = 'FenoGod' },
+	
+	['ferox'] = 'ferox esport',
+	['ferox esport'] = { pos = 190, long = 'Ferox Esport', short = 'Ferox' },
+	
+	['few'] = 'few-gamers',
+	['few-gamers'] = { pos = 191, long = 'FeW-GamerS', short = 'FeW' },
+	
+	['fidelis'] = { pos = 192, long = 'Fidelis', short = 'Fidelis' },
+	
+        ['f5'] = 'final five',
+	['final five'] = { pos = 746, long = 'Final Five', short = 'F5' },
+
+	['finland'] = { pos = 193, long = 'Finland', short = 'Finland' },
+	
+	['fp'] = 'fireproof tibbers',
+	['fireproof tibbers'] = { pos = 194, long = 'Fireproof Tibbers', short = 'FP' },
+	
+	['fbg b'] = 'first blood gaming blue',
+	['first blood gaming blue'] = { pos = 195, long = 'First Blood Gaming Blue', short = 'FBG B' },
+	
+	['first'] = 'first e-sports',
+	['first e-sports'] = { pos = 196, long = 'First e-Sports', short = 'First' },
+	
+	['firstlove'] = { pos = 197, long = 'FirstLove', short = 'FirstLove' },
+
+        ['fis'] = 'fission esports',
+	['fission esports'] = { pos = 749, long = 'Fission eSports', short = 'FIS' },
+	
+	['flash'] = 'flash esports',
+	['flash esports'] = { pos = 198, long = 'Flash eSports', short = 'Flash' },
+	
+	['fb'] = 'flashback',
+	['flashback'] = { pos = 199, long = 'Flashback', short = 'FB' },
+	
+	['fd'] = 'flashdive',
+	['flashdive'] = { pos = 200, long = 'Flashdive', short = 'FD' },
+	
+	['fluffy'] = 'fluffy gaming',
+	['fluffy gaming'] = { pos = 201, long = 'Fluffy Gaming', short = 'Fluffy' },
+	
+	['flush'] = 'flush esports',
+	['flushesports'] = 'flush esports',
+	['flush esports'] = { pos = 202, long = 'FLUSH ESPORTS', short = 'FLUSH' },
+	
+	['fm'] = 'fm esports',
+	['fm esports'] = { pos = 203, long = 'FM eSports', short = 'FM' },
+	
+        ['fnc'] = 'fnatic',
+	['fnatic'] = { pos = 204, long = 'Fnatic', short = 'FNC' },
+
+        ['fnc acad'] = 'fnatic academy',
+        ['fnatic academy'] = { pos = 204, long = 'Fnatic Academy', short = 'FNC Acad' },
+	
+	['fnatic.beta'] = 'fnatic beta',
+	['fnatic beta'] = { pos = 204, long = 'Fnatic.Beta', short = 'Fnatic.Beta' },
+	
+	['fnaticmix'] = 'fnatic mix',
+	['fnatic mix'] = { pos = 204, long = 'Fnatic MIX', short = 'FnaticMIX' },
+	
+	['ftw'] = 'for the win esports',
+	['for the win esports'] = { pos = 205, long = 'For The Win eSports', short = 'FTW' },
+	
+	['fcgt'] = 'forbidden city gaming team',
+	['forbidden city gaming team'] = { pos = 206, long = 'Forbidden City Gaming Team', short = 'FCGT' },
+	
+	['fbg'] = 'forty bus gaming',
+	['forty bus gaming'] = { pos = 207, long = 'Forty Bus Gaming', short = 'FBG' },
+	
+	['flc'] = 'four leaf clover',
+	['four leaf clover'] = { pos = 208, long = 'Four Leaf Clover', short = 'FLC' },
+	
+	['fx'] = 'frag executors',
+	['frag executors'] = { pos = 209, long = 'Frag eXecutors', short = 'Fx' },
+	
+	['fray'] = 'frenetic array',
+	['frenetic array'] = { pos = 210, long = 'Frenetic Array', short = 'fray' },
+	
+	['fr'] = 'frozenriders e-sports club',
+	['frozenriders'] = 'frozenriders e-sports club',
+	['frozenriders e-sports club'] = { pos = 211, long = 'Frozenriders e-Sports Club', short = 'fR' },
+	
+	['fl'] = 'full louis',
+	['full louis'] = { pos = 212, long = 'Full Louis', short = 'Full Louis' },
+	
+	['fureur'] = { pos = 213, long = 'Fureur', short = 'Fureur' },
+	
+	['fg'] = 'furious gaming',
+	['furious'] = 'furious gaming',
+	['furious gaming'] = { pos = 214, long = 'Furious Gaming', short = 'FG' },
+	
+	['fxo'] = 'fxopen e-sports',
+	['fxopen'] = 'fxopen e-sports',
+	['fxopen e-sports'] = { pos = 215, long = 'FXOpen e-Sports', short = 'FXO' },
+	
+	
+	-- G
+	['g4.dream'] = 'g4 e-sports club dream',
+	['g4 e-sports club dream'] = { pos = 216, long = 'G4 e-Sports Club Dream', short = 'G4.Dream' },
+	
+	['gamania bears'] = 'gamania',
+	['gamania'] = { pos = 217, long = 'Gamania Bears', short = 'Gamania' },
+	
+	['gmb'] = 'gambit gaming',
+	['gg'] = 'gambit gaming',
+	['gambit gaming'] = { pos = 218, long = 'Gambit Gaming', short = 'GMB' },
+	
+	['gtn'] = 'game thai nguyen',
+	['game thai nguyen'] = { pos = 219, long = 'Game Thai Nguyen', short = 'GTN' },
+	
+	['gbt'] = 'gameburg team',
+	['gameburg team'] = { pos = 220, long = 'Gameburg Team', short = 'GBT' },
+	
+	['ge'] = 'gameekstra',
+	['gameekstra'] = { pos = 221, long = 'GameEkstra', short = 'GE' },
+	
+	['gamefy'] = { pos = 222, long = 'Gamefy', short = 'Gamefy' },
+	
+	['gh'] = 'gamehoppers.eu',
+	['gamehoppers'] = 'gamehoppers.eu',
+	['gamehoppers.eu'] = { pos = 223, long = 'Gamehoppers.eu', short = 'gh' },
+	
+	['gamerhouse'] = { pos = 224, long = 'GamerHouse', short = 'GH' },
+	
+	['g2'] = 'gamers 2',
+	['gamers 2'] = { pos = 225, long = 'Gamers 2', short = 'G2' },
+	
+	['gms'] = 'gamesatis',
+	['gamesatis'] = { pos = 226, long = 'GameSatis', short = 'GMS' },
+	
+        ['gaming'] = 'gaming esports',
+	['gaming esports'] = { pos = 719, long = 'Gaming eSports', short = 'Gaming' },
+
+        ['gamtee'] = 'gamtee',
+	['gamtee'] = { pos = 777, long = 'Gamtee', short = 'Gamtee' },
+
+        ['gtf'] = 'gamtee fenghui',
+	['gamtee fenghui'] = { pos = 741, long = 'Gamtee Fenghui', short = 'GTF' },
+
+	['gg.eu'] = 'gaminggear.eu',
+	['gaminggear.eu'] = { pos = 227, long = 'GamingGear.eu', short = 'GG.EU' },
+	
+	['gs'] = 'gamingsniper',
+	['gamingsniper'] = { pos = 228, long = 'GamingSniper', short = 'GS' },
+	
+	['garena'] = { pos = 229, long = 'Garena', short = 'Garena' },
+	
+	['garenateam'] = 'garena team',
+	['garena team'] = { pos = 229, long = 'Garena Team', short = 'Garena' },
+	
+	['gbots'] = 'gbots esports club',
+	['gbots esports club'] = { pos = 230, long = 'gBots eSports Club', short = 'gBots' },
+	
+	['gt'] = 'georgia tech',
+	['georgia tech'] = { pos = 231, long = 'Georgia Teach', short = 'GT' },
+	
+	['gf'] = 'gf-gaming',
+	['gfgaming'] = 'gf-gaming',
+	['gf gaming'] = 'gf-gaming',
+	['gf-gaming'] = { pos = 232, long = 'GF-Gaming', short = 'GF' },
+	
+	['g.ia'] = { pos = 233, long = 'GIA', short = 'G.IA' },
+	
+	['gia'] = 'giants! gaming',
+        ['giants!'] = 'giants! gaming',
+	['giants'] = 'giants! gaming',
+	['giants! gaming'] = { pos = 234, long = 'GIANTS! Gaming', short = 'GIA' },
+	
+	['gfs'] = 'girlfriends',
+	['girlfriends'] = { pos = 235, long = 'Girlfriends', short = 'GFS' },
+	
+	['give'] = 'give it all',
+	['give it all'] = { pos = 236, long = 'GIVE IT ALL', short = 'give' },
+	
+	['gjr'] = { pos = 237, long = 'GJR', short = 'GJR' },
+	
+	['ggla'] = 'gold gaming la',
+	['gold gaming la'] = { pos = 238, long = 'Gold Gaming LA', short = 'ggLA' },
+	
+	['ggu'] = 'good game university',
+	['good game university'] = { pos = 239, long = 'Good Game University', short = 'GGU' },
+	
+	['gtm'] = 'good team multigaming',
+	['good team multigaming'] = { pos = 240, long = 'Good Team Multigaming', short = 'GTM' },
+	
+        ['gravity'] = 'gravity gaming',
+	['gravity gaming'] = { pos = 785, long = 'Gravity Gaming', short = 'Gravity' },
+
+	['gnr'] = 'grim nigh redemption',
+	['grim nigh redemption'] = { pos = 241, long = 'Grim Nigh Redemption', short = 'GNR' },
+	
+	['up'] = 'grow up gaming',
+	['grow up gaming'] = { pos = 242, long = 'Grow uP Gaming', short = 'uP' },
+	
+	['up1'] = 'grow up gaming 1',
+	['grow up gaming 1'] = { pos = 242, long = 'Grow uP Gaming 1', short = 'uP1' },
+	
+	['up2'] = 'grow up gaming 2',
+	['grow up gaming 2'] = { pos = 242, long = 'Grow uP Gaming 2', short = 'uP2' },
+	
+	['gsu'] = 'gsu gaming',
+	['gsu gaming'] = { pos = 243, long = 'GSU Gaming', short = 'GSU' },
+	
+	['gunwa'] = 'gunwaaa',
+	['gunwaaa'] = { pos = 244, long = 'Gunwa', short = 'Gunwa' },
+	
+	['guru'] = 'guru gaming',
+	['guru gaming'] = { pos = 245, long = 'Guru Gaming', short = 'guru' },
+	
+	
+	-- H
+	['h2k'] = 'h2k-gaming',
+	['h2k-gaming'] = { pos = 779, long = 'H2k-Gaming', short = 'H2k' },
+	
+	['hwl'] = 'haina wl',
+	['haina wl'] = { pos = 247, long = 'Haina WL', short = 'HWL' },
+	
+	['hangong'] = 'hangong clan',
+	['hangong clan'] = { pos = 248, long = 'HanGong Clan', short = 'HanGong' },
+	
+	['hd'] = 'hanoi dragons',
+	['hnd'] = 'hanoi dragons',
+	['hanoi dragons'] = { pos = 249, long = 'Hanoi Dragons', short = 'HND' },
+	
+	['hnfi'] = 'hanoi fate imba',
+	['hanoi fate imba'] = { pos = 250, long = 'Hanoi Fate Imba', short = 'HNFI' },
+	
+        ['hfl'] = 'hanoi full louis',
+	['hanoi full louis'] = { pos = 754, long = 'Hanoi Full Louis', short = 'HNF' },
+
+	['hnp'] = 'hanoi phoenix',
+	['hanoi phoenix'] = { pos = 251, long = 'Hanoi Phoenix', short = 'HNP' },
+	
+	['hnpf'] = 'hanoi pulsefire',
+	['hanoi pulsefire'] = { pos = 252, long = 'Hanoi PulseFire', short = 'HNPF' },
+	
+        ['hsr'] = 'hanoi skyred',
+        ['hanoi skyred'] = { pos = 740, long = 'Hanoi SkyRed', short = 'HSR' },
+
+	['hns'] = 'hanoi stars',
+	['hanoi stars'] = { pos = 253, long = 'Hanoi Stars', short = 'HNS' },
+	
+	['hnv'] = 'hanoi viking',
+
+	['hanoi viking'] = { pos = 737, long = 'Hanoi Viking', short = 'HNV' },
+
+        ['hcl'] = 'hcl gaming',
+	['hcl gaming'] = { pos = 254, long = 'HCL Gaming', short = 'HCL' },
+	
+	['hdys'] = { pos = 255, long = 'HDYS', short = 'HDYS' },
+	
+	['hsbg'] = 'headshotbg',
+	['headshotbg'] = { pos = 256, long = 'headshotBG', short = 'HSBG' },
+	
+	['hat'] = 'heavy artillery',
+	['heavy artillery'] = { pos = 257, long = 'Heavy Artillery', short = 'HAT' },
+	
+	['hb'] = 'heavy botlane',
+	['heavybotlane'] = 'heavy botlane',
+	['heavy botlane'] = { pos = 258, long = 'Heavy Botlane', short = 'HB' },
+	
+	['hc'] = &quot;heimerdinger's colossi&quot;,
+	['colossi'] = &quot;heimerdinger's colossi&quot;,
+	[&quot;heimerdinger's colossi&quot;] = { pos = 259, long = &quot;Heimerdinger's Colossi&quot;, short = 'HC' },
+	
+	['heroes'] = 'heroes team',
+	['heroes team'] = { pos = 260, long = 'Heroes Team', short = 'Heroes' },
+	
+	['hrg'] = 'high rollers gaming',
+	['high rollers gaming'] = { pos = 261, long = 'High Rollers Gaming', short = 'HRG' },
+	
+	['higo'] = { pos = 262, long = 'HiGo', short = 'higo' },
+	
+	['hka'] = 'hk attitude',
+	['hk attitude'] = { pos = 263, long = 'HK Attitude', short = 'HKA' },
+	
+	['hka.m'] = 'hk attitude mage',
+	['hka mage'] = 'hk attitude mage',
+	['hk attitude mage'] = { pos = 264, long = 'HK Attitude Mage', short = 'HKA.M' },
+	
+	['hka.p'] = 'hk attitude priest',
+	['hka priest'] = 'hk attitude priest',
+	['hk attitude priest'] = { pos = 265, long = 'HK Attitude Priest', short = 'HKA.P' },
+	
+	['hkegg'] = { pos = 266, long = 'HKEGG', short = 'HKEGG' },
+	
+	['hkegg melt.s'] = { pos = 266, long = 'HKEGG MeLT.S', short = 'HKEGG MeLT.S' },
+	
+	['hkegg term'] = 'hkegg terminator',
+	['hkegg terminator'] = { pos = 266, long = 'HKEGG Terminator', short = 'HKEGG Term' },
+	
+	['hjb'] = 'hod jung bei',
+	['hod jung bei'] = { pos = 267, long = 'Hod Jung Bei', short = 'HJB' },
+	
+        ['hol'] = 'hol thunder galaxy',
+	['hol thunder'] = 'hol thunder galaxy',
+	['hol thunder galaxy'] = { pos = 268, long = 'HoL Thunder Galaxy', short = 'HoL' },
+	
+	['hls'] = 'holy sheep',
+	['holy sheep'] = { pos = 269, long = 'Holy Sheep', short = 'HLS' },
+	
+	['hkc'] = 'hongkongcarries',
+	['hongkongcarries'] = { pos = 270, long = 'HongKongCarries', short = 'HKC' },
+	
+        ['hkes'] = 'hong kong esports',
+	['hong kong esports'] = { pos = 726, long = 'Hong Kong Esports', short = 'HKES' },
+
+	['hopeig'] = 'hopeinfinite',
+	['hopeeig'] = 'hopeinfinite',
+	['hopeinfinite'] = { pos = 271, long = 'HopeInFinite', short = 'HopEiG' },
+	
+        ['get'] = 'ge tigers',
+	['ge tigers'] = { pos = 768, long = 'GE Tigers', short = 'GET' },
+
+	['hwa'] = 'hwa gaming',
+	['hwa gaming'] = { pos = 272, long = 'HWA Gaming', short = 'HWA' },
+	
+	['hwa acad'] = 'hwa gaming academy',
+	['hwa gaming academy'] = { pos = 272, long = 'HWA Gaming Academy', short = 'HWA Acad' },
+	
+	['hwa babs'] = 'hwa gaming babs',
+	['hwa gaming babs'] = { pos = 272, long = 'HWA Gaming BaBs', short = 'HWA BaBs' },
+	
+	
+	-- I
+	['ibv'] = 'i am bronzev',
+	['i am bronzev'] = { pos = 273, long = 'I am BronzeV', short = 'IBv' },
+	
+	['icu'] = &quot;i'll carry u&quot;,
+	[&quot;i'll carry u&quot;] = { pos = 274, long = &quot;I'll Carry U&quot;, short = 'ICU' },
+	
+	['isu'] = 'i-shou university',
+	['i-shou university'] = { pos = 275, long = 'I-Shou University', short = 'ISU' },
+	
+	['iceland'] = { pos = 276, long = 'IceLanD', short = 'IceLanD' },
+	
+	['ildallions'] = 'ildal lions',
+	['ildal lions'] = { pos = 277, long = 'Ildal Lions', short = 'Ildal Lions' },
+	
+        ['ies'] = 'imp e-sports',
+	['imp e-sports'] = { pos = 784, long = 'IMP e-Sports', short = 'IES' },
+	
+        ['imba'] = 'imbalanced gaming',
+	['imbalanced gaming'] = { pos = 278, long = 'iMBalanced Gaming', short = 'iMBa' },
+	
+	['imperiumgamers'] = 'imperium gamers',
+	['imperium gamers'] = { pos = 279, long = 'Imperium Gamers', short = 'Imperium' },
+	
+	['imperiumgamers iv'] = 'imperium gamers iv',
+	['imperiumgamersiv'] = 'imperium gamers iv',
+	['imperium gamers iv'] = { pos = 279, long = 'Imperium Gamers IV', short = 'ImperiumIV' },
+	
+	['ipt'] = 'imperium pro team',
+	['imperium pro team'] = { pos = 280, long = 'Imperium Pro Team', short = 'IPT' },
+
+        ['ipt.b'] = 'imperium pro team blue',
+	['imperium pro team blue'] = { pos = 280, long = 'Imperium Pro Team Blue', short = 'IPT.B' },
+	
+	['imz.s'] = 'imz stars',
+	['imz stars'] = { pos = 281, long = 'iMz Stars', short = 'iMz.S' },
+	
+	['inc'] = 'incardia',
+	['incardia'] = { pos = 282, long = 'InCardia', short = 'InC' },
+	
+	['im'] = 'incredible miracle',
+	['incredible miracle'] = { pos = 283, long = 'Incredible Miracle', short = 'IM' },
+	
+	['im1'] = 'incredible miracle 1',
+	['im 1'] = 'incredible miracle 1',
+	['incredible miracle 1'] = { pos = 283, long = 'Incredible Miracle 1', short = 'IM 1' },
+	
+	['im2'] = 'incredible miracle 2',
+	['im 2'] = 'incredible miracle 2',
+	['incredible miracle 2'] = { pos = 283, long = 'Incredible Miracle 2', short = 'IM 2' },
+	
+	['im cm'] = 'incredible miracle cm',
+	['incredible miracle cm'] = { pos = 283, long = 'Incredible Miracle (Club Masters)', short = 'IM' },
+	
+	['inertia'] = 'inertia gaming',
+	['inertia gaming'] = { pos = 284, long = 'Inertia Gaming', short = 'Inertia' },
+	
+	['if'] = 'infamous-gaming',
+	['infamous-gaming'] = { pos = 285, long = 'inFamous-Gaming', short = 'iF' },
+	
+	['inferi'] = 'inferi e-sports club',
+	['inferi e-sports club'] = { pos = 286, long = 'Inferi e-Sports Club', short = 'Inferi' },
+	
+	['inf'] = 'inferno esports',
+	['inferno esports'] = { pos = 287, long = 'inFerno eSports', short = 'inF' },
+	
+	['infinite odds'] = 'infinite odds',
+	['infinite odds'] = { pos = 288, long = 'Infinite Odds', short = 'IO' },
+	
+        ['infinity'] = 'infinity',
+	['infinity'] = { pos = 792, long = 'Infinity', short = 'Infinity' },
+
+	['influxo'] = 'influxo gaming',
+	['influxo gaming'] = { pos = 289, long = 'Influxo Gaming', short = 'Influxo' },
+	
+	['infused acad'] = 'infused academy',
+	['infused academy'] = { pos = 290, long = 'Infused Academy', short = 'Infused Acad' },
+	
+	['itg'] = 'insert gaming core',
+	['insertgamingcore'] = 'insert gaming core',
+	['insert gaming core'] = { pos = 291, long = 'Insert Gaming Core', short = 'iTG' },
+	
+	['is'] = 'insidious gaming',
+	['insidiousgaming'] = 'insidious gaming',
+	['insidious gaming'] = { pos = 292, long = 'Insidious Gaming', short = 'iS' },
+	
+	['isd'] = 'insidious gaming demons',
+	['isg demons'] = 'insidious gaming demons',
+	['insidious gaming demons'] = { pos = 292, long = 'Insidious Gaming Demons', short = 'iSD' },
+	
+	['isev'] = 'insidious gaming evolution',
+	['isg evolution'] = 'insidious gaming evolution',
+	['insidiousgamingevolution'] = 'insidious gaming evolution',
+	['insidious gaming evolution'] = { pos = 292, long = 'Insidious Gaming Evolution', short = 'iSEV' },
+	
+	['ise'] = 'insidious gaming exile',
+	['isg exile'] = 'insidious gaming exile',
+	['insidiousgamingexile'] = 'insidious gaming exile',
+	['insidious gaming exile'] = { pos = 292, long = 'Insidious Gaming Exile', short = 'iSE' },
+	
+	['is.ktb'] = 'insidious gaming ktb',
+	['isg ktb'] = 'insidious gaming ktb',
+	['insidious gaming ktb'] = { pos = 292, long = 'Insidious Gaming KTB', short = 'iS.KTB' },
+	
+	['isl'] = 'insidious gaming legends',
+	['isg ls'] = 'insidious gaming legends',
+	['isg legends'] = 'insidious gaming legends',
+	['insidiousgaminglegends'] = 'insidious gaming legends',
+	['insidious gaming legends'] = { pos = 292, long = 'Insidious Gaming Legends', short = 'iSL' },
+	
+	['is.my'] = 'insidious gaming malaysia',
+	['isg malaysia'] = 'insidious gaming malaysia',
+	['insidious gaming malaysia'] = { pos = 292, long = 'Insidious Gaming Malaysia', short = 'iS.MY' },
+	
+	['iso'] = 'insidious gaming outlaw',
+	['isg outlaw'] = 'insidious gaming outlaw',
+	['insidiousgamingoutlaw'] = 'insidious gaming outlaw',
+	['insidious gaming outlaw'] = { pos = 292, long = 'Insidious Gaming Outlaw', short = 'iSO' },
+	
+	['isr'] = 'insidious gaming rebirth',
+	['isg rebirth'] = 'insidious gaming rebirth',
+	['insidiousgamingrebirth'] = 'insidious gaming rebirth',
+	['insidious gaming rebirth'] = { pos = 292, long = 'Insidious Gaming Rebirth', short = 'iSR' },
+	
+	['isa'] = 'insidious gaming redemption',
+	['isg redemption'] = 'insidious gaming redemption',
+	['insidious gaming redemption'] = { pos = 292, long = 'Insidious Gaming Redemption', short = 'iSA' },
+	
+	['insight'] = 'insight esports',
+	['insight esports'] = { pos = 293, long = 'Insight eSports', short = 'Insight' },
+	
+	['ipg'] = 'intellectual playground',
+	['intellectual playground'] = { pos = 294, long = 'Intellectual Playground', short = 'iPG' },
+
+        ['intz'] = 'intz e-sports',
+	['intz e-sports'] = { pos = 783, long = 'INTZ e-Sports', short = 'INTZ' },
+	
+	['ig'] = 'invictus gaming',
+	['invictus gaming'] = { pos = 295, long = 'Invictus Gaming', short = 'iG' },
+	
+	['ig2'] = 'invictus gaming young',
+	['ig 2'] = 'invictus gaming young',
+	['invictus gaming 2'] = 'invictus gaming young',
+	['ig y'] = 'invictus gaming young',
+	['invictus gaming y'] = 'invictus gaming young',
+	['invictus gaming young'] = { pos = 295, long = 'Invictus Gaming Young', short = 'iG Y' },
+	
+	['izg'] = 'inwza ginnim',
+	['inwza ginnim'] = { pos = 296, long = 'Inwza Ginnim', short = 'IZG' },
+	
+	['iplay'] = 'iplay esports',
+	['iplay esports'] = { pos = 297, long = 'iPLAY eSports', short = 'iPLAY' },
+	
+	['iquit'] = 'iquit-gaming',
+	['iquit-gaming'] = { pos = 298, long = 'iQuit-Gaming', short = 'iQuit' },
+	
+	['iquit gr'] = 'iquit-gaming greece',
+	['iquit-gaming greece'] = { pos = 298, long = 'iQuit-Gaming Greece', short = 'iQuit GR' },
+	
+	['isg'] = 'isurus gaming',
+	['isurus gaming'] = { pos = 299, long = 'Isurus Gaming', short = 'ISG' },
+	
+	['isg cl'] = 'isurus gaming chile',
+	['isg chile'] = 'isurus gaming chile',
+	['isurus gaming chile'] = { pos = 299, long = 'Isurus Gaming Chile', short = 'ISG CL' },
+	
+	['iwc'] = 'iwantcookie',
+	['iwantcookie'] = { pos = 300, long = 'IWantCookie', short = 'IWC' },
+	
+	
+	-- J
+        ['j2'] = 'j2 esports betrayal',
+	['j2 esports betrayal'] = { pos = 751, long = 'J2 eSports Betrayal', short = 'J2' },
+
+	['jks'] = 'jakarta scourge',
+	['jakartascourge'] = 'jakarta scourge',
+	['jakarta scourge'] = { pos = 301, long = 'Jakarta Scourge', short = 'JKS' },
+	
+        ['j2g'] = 'jakarta juggernauts',
+	['jakarta juggernauts'] = { pos = 734, long = 'Jakarta Juggernauts', short = 'J2G' },
+
+        ['jayob'] = 'jayob e-sports',
+ 	['jayob e-sports'] = { pos = 782, long = 'Jayob e-Sports', short = 'Jayob' },
+
+	['jinair'] = 'jin air green wings',
+	['jin air'] = 'jin air green wings',
+	['jin air greenwings'] = 'jin air green wings',
+	['jin air green wings'] = { pos = 302, long = 'Jin Air Green Wings', short = 'Jin Air' },
+	
+	['falcons'] = 'jin air green wings falcons',
+	['jag falcons'] = 'jin air green wings falcons',
+	['jagw falcons'] = 'jin air green wings falcons',
+	['jin air greenwings falcons'] = 'jin air green wings falcons',
+	['jin air green wings falcons'] = { pos = 302, long = 'Jin Air Green Wings Falcons', short = 'Falcons' },
+	
+	['jag stealths'] = 'jin air green wings stealths',
+	['jagw stealths'] = 'jin air green wings stealths',
+	['jin air greenwings stealths'] = 'jin air green wings stealths',
+	['stealths'] = 'jin air green wings stealths',
+	['jin air green wings stealths'] = { pos = 302, long = 'Jin Air Green Wings Stealths', short = 'Stealths' },
+	
+	['jk'] = 'jk club',
+	['jk club'] = { pos = 303, long = 'JK Club', short = 'JK' },
+	
+	['jjvs'] = 'juang jing vocational high school',
+	['juang jing vocational high school'] = { pos = 304, long = 'Juang Jing Vocational High School', short = 'JJVS' },
+	
+	['jmt'] = 'judgement',
+	['judgement'] = { pos = 305, long = 'Judgement', short = 'JMT' },
+	
+	
+	-- K
+	['k1ck'] = 'k1ck esports club',
+	['k1ck esports club'] = { pos = 306, long = 'K1ck eSports Club', short = 'k1ck' },
+	
+        ['kabum.b'] = 'kabum! black',
+	['kabum! black'] = { pos = 781, long = 'KaBuM! Black', short = 'KaBum.B' },
+
+	['kabum'] = 'kabum! e-sports',
+	['kabum! e-sports'] = { pos = 307, long = 'KaBuM! e-Sports', short = 'KaBuM' },
+	
+	['kuas'] = 'kaohsiung university of a.s.',
+	['kaohsiung university of as'] = 'kaohsiung university of a.s.',
+	['kaohsiung university of a.s.'] = { pos = 308, long = 'Kaohsiung University of A.S.', short = 'KUAS' },
+	
+	['klg'] = 'kaos latin gamers',
+	['kaos latin gamers'] = { pos = 309, long = 'Kaos Latin Gamers', short = 'KLG' },
+	
+	['karnage'] = 'karnage esports',
+	['karnage esports'] = { pos = 310, long = 'Karnage eSports', short = 'Karnage' },
+	
+	['k3'] = 'karont3 e-sports club',
+	['karont3'] = 'karont3 e-sports club',
+	['karont3 e-sports club'] = { pos = 311, long = 'Karont3 e-Sports Club', short = 'K3' },
+	
+	['keita'] = 'keita-gaming',
+	['keita-gaming'] = { pos = 312, long = 'Keita-Gaming', short = 'Keita' },
+	
+	['kero'] = { pos = 313, long = 'Kero', short = 'Kero' },
+	
+	['kstars'] = 'keyd stars',
+	['keyd stars'] = { pos = 314, long = 'Keyd Stars', short = 'kStars' },
+	
+	['keyd'] = 'keyd team',
+	['keyd team'] = { pos = 315, long = 'Keyd Team', short = 'Keyd' },
+	
+	['kmt'] = 'kiedyś miałem team',
+	['kiedys mialem team'] = 'kiedyś miałem team',
+	['kiedyś miałem team'] = { pos = 316, long = 'Kiedyś Miałem Team', short = 'KMT' },
+	
+	['ksg'] = 'kill steal gaming',
+	['kill steal gaming'] = { pos = 317, long = 'Kill Steal Gaming', short = 'KSG' },
+	
+	['kf'] = 'killerfish esport',
+	['killerfish esport'] = { pos = 318, long = 'KILLERFISH eSport', short = 'KF' },
+	
+	['kimchi'] = 'kimchi gaming',
+	['kimchi gaming'] = { pos = 319, long = 'Kimchi Gaming', short = 'Kimchi' },
+	
+	['kiyf'] = 'kiyf e-sports club',
+	['kiyf e-sports club'] = { pos = 320, long = 'KIYF e-Sports Club', short = 'KIYF' },
+	
+	['korea'] = { pos = 321, long = 'Korea', short = 'Korea' },
+	
+	['korea champions'] = 'kr champions',
+	['kr champions'] = { pos = 322, long = 'Korea Champions', short = 'KR Champions' },
+	
+	['kt'] = 'kt rolster',
+	['kt rolster'] = { pos = 323, long = 'KT Rolster', short = 'KT' },
+	
+	['kta'] = 'kt rolster a',
+	['kt rolster a'] = { pos = 323, long = 'KT Rolster A', short = 'KT A' },
+	
+	['kt arrows'] = 'kt rolster arrows',
+	['kt rolster arrows'] = { pos = 323, long = 'KT Rolster Arrows', short = 'KT Arrows' },
+	
+	['ktb'] = 'kt rolster b',
+	['kt rolster b'] = { pos = 323, long = 'KT Rolster B', short = 'KT B' },
+	
+	['kt bullets'] = 'kt rolster bullets',
+	['kt rolster bullets'] = { pos = 323, long = 'KT Rolster Bullets', short = 'KT Bullets' },
+	
+	['kthxbai'] = { pos = 324, long = 'KTHXBAI', short = 'KTHXBAI' },
+	
+	['klh'] = 'kuala lumpur hunters',
+	['kuala lumpur hunters'] = { pos = 325, long = 'Kuala Lumpur Hunters', short = 'KLH' },
+	
+	['kx.cash'] = { pos = 326, long = 'Kx.Cash', short = 'Kx.Cash' },
+	
+	['kx.happy'] = { pos = 327, long = 'Kx.Happy', short = 'Kx.Happy' },
+	
+	
+	-- L
+	['lc'] = 'leaguecraft gaming',
+	['leaguecraft'] = 'leaguecraft gaming',
+	['leaguecraft gaming'] = { pos = 328, long = 'LeagueCraft Gaming', short = 'LC' },
+	
+	['legacy'] = 'legacy esports',
+	['legacy esports'] = { pos = 714, long = 'Legacy eSports', short = 'Legacy' },
+	
+	['lmit'] = 'lee-ming institute of technology',
+	['lee-ming institute of technology'] = { pos = 329, long = 'Lee-Ming Institute of Technology', short = 'LMIT' },
+	
+	['ld'] = 'lemondogs',
+	['lemondogs'] = { pos = 330, long = 'Lemondogs', short = 'LD' },
+	
+	['ld arg'] = 'lemondogs argentina',
+	['lemondogs argentina'] = { pos = 330, long = 'Lemondogs Argentina', short = 'LD ARG' },
+	
+	['lgd'] = 'lgd gaming',
+	['lgd gaming'] = { pos = 331, long = 'LGD Gaming', short = 'LGD' },
+	
+	['lbear'] = 'little bear',
+	['little bear'] = { pos = 332, long = 'Little Bear', short = 'LBear' },
+	
+	['lw'] = 'little wraith',
+	['little wraith'] = { pos = 333, long = 'Little Wraith', short = 'LW' },
+	
+	['lmq tc'] = 'lmq tian ci',
+	['lmq'] = 'lmq tian ci',
+	['lmq tian ci'] = { pos = 334, long = 'LMQ', short = 'LMQ' },
+	
+	['log f'] = 'logitech g fighter',
+	['logitech g fighter'] = { pos = 713, long = 'Logitech G Fighter', short = 'log F' },
+
+        ['log s'] = 'logitech snipers',
+	['logitech snipers'] = { pos = 728, long = 'Logitech Snipers', short = 'log S' },
+	
+	['logix'] = { pos = 335, long = 'logiX', short = 'logiX' },
+	
+	['loladies'] = { pos = 336, long = 'LoLadies', short = 'LoLadies' },
+	
+	['ly'] = 'longying',
+	['longying'] = { pos = 337, long = 'LongYing', short = 'LY' },
+	
+	['mp5 lotus gaming'] = 'lotus gaming',
+	['lotus'] = 'lotus gaming',
+	['lotus gaming'] = { pos = 338, long = 'Lotus Gaming', short = 'Lotus' },
+	
+	['lll'] = 'lowlandlions',
+	['lowlandlions'] = { pos = 339, long = 'LowLandLions', short = 'LLL' },
+	
+	['ldays'] = 'lucky days',
+	['lucky days'] = { pos = 340, long = 'Lucky Days', short = 'LDays' },
+	
+	['lyon'] = 'lyon gaming',
+	['lyon gaming'] = { pos = 341, long = 'Lyon Gaming', short = 'Lyon' },
+	
+	['lytal'] = { pos = 342, long = 'Lytal', short = 'Lytal' },
+	
+	['lzh'] = 'lzuruha gaming',
+	['lzuruha gaming'] = { pos = 343, long = 'Lzuruha Gaming', short = 'LzH' },
+	
+	
+	-- M
+	['m3'] = 'm3 gaming',
+	['m3 gaming'] = { pos = 344, long = 'M3 Gaming', short = 'M3' },
+	
+	['machi'] = 'machi e-sports',
+	['machi e-sports'] = { pos = 345, long = 'Machi E-Sports', short = 'Machi' },
+
+        ['machi 17'] = 'machi 17',
+	['machi 17'] = { pos = 717, long = 'Machi 17', short = 'Machi 17' },
+
+        ['crew'] = 'machi crew',
+	['machi crew'] = { pos = 774, long = 'Machi Crew', short = 'Crew' },
+	
+	['madgods'] = 'mad gods gaming',
+	['mad gods'] = 'mad gods gaming',
+	['mad gods gaming'] = { pos = 346, long = 'Mad Gods Gaming', short = 'Mad Gods' },
+	
+	['mith'] = 'made in thailand e-sports',
+	['made in thailand'] = 'made in thailand e-sports',
+	['made in thailand e-sports'] = { pos = 347, long = 'Made in Thailand E-Sports', short = 'MiTH' },
+	
+	['mad'] = 'madtaiwan',
+	['madtaiwan'] = { pos = 348, long = 'MaDTaiwan', short = 'MaD' },
+	
+	['mle'] = 'manila eagles',
+	['manila eagles'] = { pos = 349, long = 'Manila Eagles', short = 'MLE' },
+	
+        ['m3'] = 'master3',
+	['master3'] = { pos = 776, long = 'Master3', short = 'Master3' },
+
+	['mtx'] = 'matrix gaming',
+	['matrix gaming'] = { pos = 350, long = 'Matrix Gaming', short = 'MTX' },
+	
+	['maxflo'] = 'maxfloplay',
+	['maxfloplay'] = { pos = 351, long = 'MaxFloPlay', short = 'MaxFlo' },
+	
+	['mxm'] = 'maximum e-sports club',
+	['maximum e-sports club'] = { pos = 352, long = 'MaximuM e-Sports Club', short = 'MxM' },
+	
+	['mig blaze'] = 'maximum impact gaming blaze',
+	['migblaze'] = 'maximum impact gaming blaze',
+	['maximum impact gaming blaze'] = { pos = 353, long = 'Maximum impact Gaming Blaze', short = 'MiG Blaze' },
+	
+	['mig blitz'] = 'maximum impact gaming blitz',
+	['migblitz'] = 'maximum impact gaming blitz',
+	['maximum impact gaming blitz'] = { pos = 353, long = 'Maximum impact Gaming Blitz', short = 'MiG Blitz' },
+	
+	['mig frost'] = 'maximum impact gaming frost',
+	['migfrost'] = 'maximum impact gaming frost',
+	['maximum impact gaming frost'] = { pos = 353, long = 'Maximum impact Gaming Frost', short = 'MiG Frost' },
+	
+	['mig wicked'] = 'maximum impact gaming wicked',
+	['migwicked'] = 'maximum impact gaming wicked',
+	['maximum impact gaming wicked'] = { pos = 353, long = 'Maximum impact Gaming Wicked', short = 'MiG Wicked' },
+	
+	['mcut'] = { pos = 354, long = 'MCUT', short = 'MCUT' },
+	
+	['md'] = 'md e-sports club',
+	['md e-sports club'] = { pos = 355, long = 'mD E-sports Club', short = 'mD' },
+	
+	['mp'] = 'meat playground',
+	['meat playground'] = { pos = 356, long = 'Meat Playground', short = 'MP' },
+	
+	['mym'] = 'meetyourmakers',
+	['meetyourmakers'] = { pos = 357, long = 'MeetYourMakers', short = 'MYM' },
+	
+        ['mc'] = 'meloncats',
+	['meloncats'] = { pos = 757, long = 'Meloncats', short = 'MC' },
+
+	['midas fio'] = { pos = 358, long = 'Midas FIO', short = 'Midas FIO' },
+
+        ['mse'] = 'midnight sun esports',
+	['midnight sun esports'] = { pos = 772, long = 'Midnight Sun Esports', short = 'MSE' },
+	
+	['m'] = 'millenium',
+	['mil'] = 'millenium',
+	['millenium'] = { pos = 359, long = 'Millenium', short = 'M' },
+
+        ['mil.s'] = 'millenium spirit',
+	['millenium spirit'] = { pos = 359, long = 'Millenium Spirit', short = 'Mil.S' },
+	
+	['mf'] = 'mindfreak esports',
+	['mindfreak esports'] = { pos = 360, long = 'Mindfreak eSports', short = 'MF' },
+	
+	['mineski'] = { pos = 361, long = 'Mineski', short = 'Mineski' },
+	
+	['mirrors'] = { pos = 362, long = 'Mirrors', short = 'Mirrors' },
+	
+	['mith fd'] = 'mith flashdive',
+	['mith flashdive'] = { pos = 363, long = 'MiTH Flashdive', short = 'MiTH FD' },
+	
+	['mkz'] = { pos = 364, long = 'MKZ', short = 'MKZ' },
+	
+	['mme dom'] = 'monomaniac dominatus',
+	['mme dominatus'] = 'monomaniac dominatus',
+	['monomaniac dominatus'] = { pos = 365, long = 'Monomaniac Dominatus', short = 'mMe Dom' },
+	
+	['mme'] = 'monomaniac esports',
+	['monomaniac'] = 'monomaniac esports',
+	['monomaniac esports'] = { pos = 365, long = 'Monomaniac eSports', short = 'mMe' },
+	
+	['mme evito'] = 'monomaniac evito',
+	['monomaniac evito'] = { pos = 365, long = 'Monomaniac Evito', short = 'mMe Evito' },
+	
+	['mme ferus'] = 'monomaniac ferus',
+	['monoferus'] = 'monomaniac ferus',
+	['mmeferus'] = 'monomaniac ferus',
+	['monomaniac ferus'] = { pos = 365, long = 'Monomaniac Ferus', short = 'mMe Ferus' },
+	
+	['mme imp'] = 'monomaniac imperium',
+	['mme imperium'] = 'monomaniac imperium',
+	['monomaniac imperium'] = { pos = 365, long = 'Monomaniac Imperium', short = 'mMe Imp' },
+	
+	['mme peri'] = 'monomaniac peritus',
+	['mme peritus'] = 'monomaniac peritus',
+	['monomaniac peritus'] = { pos = 365, long = 'Monomaniac Peritus', short = 'mMe Peri' },
+	
+	['mme ult'] = 'monomaniac ultimus',
+	['mme ultimus'] = 'monomaniac ultimus',
+	['monomaniac ultimus'] = { pos = 365, long = 'Monomaniac Peritus', short = 'mMe Peri' },
+	
+        ['mk'] = 'monstar kittenz',
+	['monstar kittenz'] = { pos = 747, long = 'Monstar Kittenz', short = 'MK' },
+
+	['me'] = 'monsteresports',
+	['monsteresports'] = { pos = 366, long = 'Monsteresports', short = 'mE' },
+	
+	['mtw'] = 'mortal teamwork',
+	['mtweu'] = 'mortal teamwork',
+	['mtw.eu'] = 'mortal teamwork',
+	['mortal teamwork'] = { pos = 367, long = 'mortal Teamwork', short = 'mTw' },
+	
+	['mtwal'] = { pos = 368, long = 'mTw - aL', short = 'mTw-aL' },
+	
+	['mtw na'] = 'mortal teamwork north america',
+	['mtwna'] = 'mortal teamwork north america',
+	['mtw north america'] = 'mortal teamwork north america',
+	['mortal teamwork north america'] = { pos = 367, long = 'mTw North America', short = 'mTw NA' },
+	
+	['m5'] = 'moscow five',
+	['moscow 5'] = 'moscow five',
+	['moscow five'] = { pos = 369, long = 'Moscow Five', short = 'M5' },
+	
+	['mouz'] = 'mousesports',
+	['mousesports'] = { pos = 370, long = 'mousesports', short = 'mouz' },
+	
+	['msi evogt'] = 'msi evolution gt',
+	['msi evolution gaming team'] = 'msi evolution gt',
+	['msi evolution gt'] = { pos = 371, long = 'MSI Evolution GT', short = 'MSI EvoGT' },
+	
+	['mtk'] = 'mtk esports',
+	['mtk esports'] = { pos = 372, long = 'MTK eSports', short = 'MTK' },
+	
+	['mvp'] = { pos = 373, long = 'MVP', short = 'MVP' },
+	
+	['mvp blue'] = { pos = 373, long = 'MVP Blue', short = 'MVP Blue' },
+	
+	['mvp o'] = 'mvp ozone',
+	['mvp ozone'] = { pos = 373, long = 'MVP Ozone', short = 'MVP O' },
+	
+	['mvp red'] = { pos = 373, long = 'MVP Red', short = 'MVP Red' },
+	
+	['mvp white'] = { pos = 373, long = 'MVP White', short = 'MVP White' },
+	
+	['myd'] = 'mydestiny',
+	['mydestiny'] = { pos = 374, long = 'myDestiny', short = 'myD' },
+	
+	['myi'] = 'myinsanity',
+	['myinsanity'] = { pos = 375, long = 'mYinsanity', short = 'mYi' },
+	
+	['myr'] = 'myrevenge',
+	['myrevenge'] = { pos = 376, long = 'myRevenge', short = 'myR' },
+	
+	['myr acad'] = 'myrevenge academy',
+	['myr academy'] = 'myrevenge academy',
+	['myrevenge academy'] = { pos = 376, long = 'myRevenge Academy', short = 'myR Acad' },
+	
+	['myr australia'] = 'myrevenge australia',
+	['myr au'] = 'myrevenge australia',
+	['myrevenge australia'] = { pos = 376, long = 'myRevenge Australia', short = 'myR AU' },
+	
+	['myr bulgaria'] = 'myrevenge bulgaria',
+	['myr bg'] = 'myrevenge bulgaria',
+	['myrevenge bulgaria'] = { pos = 376, long = 'myRevenge Bulgaria', short = 'myR BG' },
+	
+	['myr lithuania'] = 'myrevenge lithuania',
+	['myr lt'] = 'myrevenge lithuania',
+	['myrevenge lithuania'] = { pos = 376, long = 'myRevenge Lithuania', short = 'myR LT' },
+	
+	['myr romania'] = 'myrevenge romania',
+	['myr ro'] = 'myrevenge romania',
+	['myrevenge romania'] = { pos = 376, long = 'myRevenge Romania', short = 'myR RO' },
+	
+	['myr spain'] = 'myrevenge spain',
+	['myr es'] = 'myrevenge spain',
+	['myrevenge spain'] = { pos = 376, long = 'myRevenge Spain', short = 'myR ES' },
+	
+	['myrisk'] = { pos = 377, long = 'myRisk', short = 'myRisk' },
+	
+	['myg'] = 'mystery gaming',
+	['mystery gaming'] = { pos = 378, long = 'Mystery Gaming', short = 'MYG' },
+	
+	
+	-- N
+	['n!'] = 'n!faculty e-sports club',
+	['n!faculty'] = 'n!faculty e-sports club',
+	['n!faculty e-sports club'] = { pos = 379, long = 'n!faculty', short = 'n!' },
+	
+	['north america lcs'] = 'na lcs',
+	['na lcs'] = { pos = 380, long = 'North America LCS', short = 'NA LCS' },
+	
+        ['naga'] = 'naga esports',
+	['naga esports'] = { pos = 759, long = 'NAGA eSports', short = 'NAGA' },
+
+	['njbs'] = 'najin black sword',
+	['najin black sword'] = { pos = 381, long = 'NaJin Black Sword', short = 'NJBS' },
+	
+	['najin'] = 'najin e-mfire',
+	['najin e-mfire'] = { pos = 769, long = 'NaJin e-mFire', short = 'NaJin' },
+	
+	['njsh'] = 'najin shield',
+	['nj shd'] = 'najin shield',
+	['najinshield'] = 'najin shield',
+	['najin e-mfire shield'] = 'najin shield',
+	['najin shield'] = { pos = 383, long = 'NaJin Shield', short = 'NJ SHD' },
+	
+	['njsw'] = 'najin sword',
+	['nj swd'] = 'najin sword',
+	['najinsword'] = 'najin sword',
+	['najin e-mfire sword'] = 'najin sword',
+	['najin sword'] = { pos = 384, long = 'NaJin Sword', short = 'NJ SWD' },
+	
+	['njws'] = 'najin white shield',
+	['najin white shield'] = { pos = 385, long = 'NaJin White Shield', short = 'NJWS' },
+	
+	['nid'] = 'napkins in disguise',
+	['napkins in disguise'] = { long = 'Napkins in Disguise', short = 'NiD' },
+	
+	['nccu'] = 'national chengchi university',
+	['national chengchi university'] = { pos = 386, long = 'National Chengchi University', short = 'NCCU' },
+	
+	['nctu'] = 'national chiao tung university su',
+	['national chiao tung university su'] = { pos = 387, long = 'National Chiao Tung University', short = 'NCTU' },
+	
+	['ndhu'] = 'national dong hwa university',
+	['national dong hwa university'] = { pos = 388, long = 'National Dong Hwa University', short = 'NDHU' },
+	
+	['nfu'] = 'national formosa university',
+	['national formosa university'] = { pos = 389, long = 'National Formosa University', short = 'NFU' },
+	
+	['ntut'] = 'national taipei university of technology',
+	['national taipei university of technology'] = { pos = 390, long = 'National Taipei University of Technology', short = 'NTUT' },
+	
+	['ntou'] = 'national taiwan ocean university',
+	['national taiwan ocean university'] = { pos = 391, long = 'National Taiwan Ocean University', short = 'NTOU' },
+	
+	['tyai'] = 'national tao-yuan aiv high school',
+	['national tao-yuan aiv high school'] = { pos = 392, long = 'National Tao-yuan AIV High School', short = 'TYAI' },
+	
+	['nthu'] = 'national tsing hua university',
+	['national tsing hua university'] = { pos = 393, long = 'National Tsing Hua University', short = 'NTHU' },
+	
+	[&quot;na'vi&quot;] = 'natus vincere',
+	['navi'] = 'natus vincere',
+	['natus vincere'] = { pos = 394, long = 'Natus Vincere', short = &quot;Na'Vi&quot; },
+	
+	['neb'] = { pos = 395, long = 'NEB', short = 'NEB' },
+	
+	['nel'] = { pos = 396, long = 'NeL', short = 'NeL' },
+	
+	['neolution'] = 'neolution e-sport',
+	['neolution e-sport'] = { pos = 397, long = 'Neolution E-Sport', short = 'Neolution' },
+	
+	['neophyte'] = { pos = 398, long = 'nEophyte', short = 'nEophyte' },
+	
+	['netherlands'] = { pos = 399, long = 'Netherlands', short = 'NL' },
+	
+	['nec'] = 'never ending cycle',
+	['never ending cycle'] = { pos = 400, long = 'Never Ending Cycle', short = 'NEC' },
+	
+	['ngu'] = 'never give up',
+	['never give up'] = { pos = 789, long = 'Never Give Up', short = 'NGU' },
+	
+	['nwe'] = 'new world eclipse',
+	['new world eclipse'] = { pos = 402, long = 'New World Eclipse', short = 'NWE' },
+	
+	['nex'] = 'nex impetus',
+	['nexi'] = 'nex impetus',
+	['nex impetus'] = { pos = 403, long = 'Nex Impetus', short = 'neXi' },
+	
+	['next'] = 'nextplease! gaming',
+	['nextplease'] = 'nextplease! gaming',
+	['nextplease!'] = 'nextplease! gaming',
+	['nextplease! gaming'] = { pos = 404, long = 'neXtPlease! Gaming', short = 'neXt' },
+	
+	['nexus'] = 'nexus gaming',
+	['nexus gaming'] = { pos = 405, long = 'Nexus Gaming', short = 'Nexus' },
+	
+	['epow'] = 'nha trang e-power',
+	['e-power'] = 'nha trang e-power',
+	['nha trang e-power'] = { pos = 406, long = 'Nha Trang E-power', short = 'EPOW' },
+	
+	['nimby'] = 'nimby gaming',
+	['nimby gaming'] = { pos = 407, long = 'NIMBY Gaming', short = 'NIMBY' },
+	
+	['nip'] = 'ninjas in pyjamas',
+	['ninjasinpyjamas'] = 'ninjas in pyjamas',
+	['ninjas in pyjamas'] = { pos = 408, long = 'Ninjas in Pyjamas', short = 'NiP' },
+	
+	['ndg'] = 'no dice gaming',
+	['no dice gaming'] = { pos = 409, long = 'No Dice Gaming', short = 'NDG' },
+
+        ['ngl'] = 'no game no life',
+	['no game no life'] = { pos = 766, long = 'No Game No Life', short = 'NGL' },
+	
+	['nore'] = 'no remorse esports',
+	['no remorse esports'] = { pos = 410, long = 'No Remorse eSports', short = 'NoRe' },
+	
+	['na'] = &quot;noah's ark&quot;,
+	['noahs ark'] = &quot;noah's ark&quot;,
+	[&quot;noah's ark&quot;] = { pos = 411, long = &quot;Noah's Ark&quot;, short = 'NA' },
+	
+        ['ntr'] = 'noble truth',
+ 	['noble truth'] = { pos = 750, long = 'Noble Truth', short = 'NTR' },
+
+	['no brain gaming'] = 'nobrain',
+	['nobrain'] = { pos = 412, long = 'No Brain Gaming', short = 'NoBrain' },
+	
+	['ngs'] = 'nogamesense',
+	['nogamesense'] = { pos = 413, long = 'noGAMESENSE', short = 'nGS' },
+	
+	['nonhk'] = { pos = 414, long = 'NONHK', short = 'NONHK' },
+	
+	['ntl'] = 'nothing to lose',
+	['nothing to lose'] = { pos = 415, long = 'Nothing to Lose', short = 'NTL' },
+	
+	['nubreed'] = { pos = 416, long = 'nuBreed', short = 'nuBreed' },
+	
+	['nz'] = 'nyan zone',
+	['nyan zone'] = { pos = 417, long = 'Nyan Zone', short = 'NZ' },
+	
+	
+	-- O
+	['ocw'] = 'ocelote world',
+	['ocelote world'] = { pos = 418, long = 'Ocelote World', short = 'OCW' },
+	
+	['ow'] = 'oceloteworld',
+	['oceloteworld'] = { pos = 419, long = 'oceloteWorld', short = 'OW' },
+	
+	['tigers'] = 'okinawan tigers',
+	['okinawa tigers'] = 'okinawan tigers',
+	['okinawan tigers'] = { pos = 420, long = 'Okinawan Tigers', short = 'Tigers' },
+	
+	['odf'] = 'omelette du fromage',
+	['omelette du fromage'] = { pos = 421, long = 'Omelette du Fromage', short = 'ODF' },
+	
+	['omg'] = { pos = 422, long = 'OMG', short = 'OMG' },
+	
+	['orb'] = 'orbit gaming',
+	['orbit'] = 'orbit gaming',
+	['orbit gaming'] = { pos = 423, long = 'Orbit Gaming', short = 'oRb' },
+	
+	['og'] = 'ordinance gaming',
+	['ordinance'] = 'ordinance gaming',
+	['ordinance gaming'] = { pos = 424, long = 'Ordinance Gaming', short = 'OG' },
+	
+        ['origen'] = 'origen',
+	['origen'] = 'origen',
+	['origen'] = { pos = 761, long = 'Origen', short = 'Origen' },
+
+
+	['origine'] = 'origine online',
+	['origine-online'] = 'origine online',
+	['origine online'] = { pos = 425, long = 'Origine Online', short = 'Origine' },
+	
+	['overgame'] = 'overgame e-sports club',
+	['overgame e-sports club'] = { pos = 426, long = 'overGame e-Sports Club', short = 'overGame' },
+	
+	['over'] = 'overgaming',
+	['overgaming'] = { pos = 427, long = 'OverGaming', short = 'Over' },
+	
+	['ozone rp'] = 'ozone rampage',
+	['ozone rampage'] = { pos = 428, long = 'Ozone Rampage', short = 'Ozone RP' },
+	
+	
+	-- P
+	['pain'] = 'pain gaming',
+	['pain gaming'] = { pos = 429, long = 'paiN Gaming', short = 'paiN' },
+	
+	['paing'] = 'paingaming',
+	['paingaming'] = { pos = 430, long = 'PainGaming', short = 'PainG' },
+	
+    ['pchc'] = 'panda cub hugging club',
+        ['panda cub hugging club'] = { pos = 733, long = 'Panda Cub Hugging Club', short = 'PCHC' },
+
+        ['p.es'] = 'pacific esports',
+	['pacific esports'] = { pos = 752, long = 'Pacific eSports', short = 'P.es' },
+
+	['pandemic.a'] = 'pandemic gaming archangels',
+	['pandemic archangels'] = 'pandemic gaming archangels',
+	['pandemic gaming archangels'] = { pos = 431, long = 'Pandemic Gaming Archangels', short = 'Pandemic.A' },
+	
+	['pandemic.d'] = 'pandemic gaming demons',
+	['pandemic demons'] = 'pandemic gaming demons',
+	['pandemic gaming demons'] = { pos = 431, long = 'Pandemic Gaming Demons', short = 'Pandemic.D' },
+	
+	['panthers'] = 'panthers team',
+	['panthers team'] = { pos = 432, long = 'Panthers Team', short = 'Panthers' },
+	
+	['parabellum'] = 'parabellum esports',
+	['parabellum esports'] = { pos = 433, long = 'Parabellum Esports', short = 'Parabellum' },
+	
+	['pdg'] = 'paradox gaming',
+	['paradox'] = 'paradox gaming',
+	['paradox gaming'] = { pos = 434, long = 'Paradox Gaming', short = 'PDG' },
+	
+	['psw'] = 'passion shall win ares',
+	['psw ares'] = 'passion shall win ares',
+	['passion shall win'] = 'passion shall win ares',
+	['passion shall win ares'] = { pos = 435, long = 'PSW Ares', short = 'PSW Ares' },
+	
+	['pa'] = 'peachserver allstars',
+	['peach allstars'] = 'peachserver allstars',
+	['peachserver allstars'] = { pos = 436, long = 'PeachServer Allstars', short = 'PA' },
+	
+	['p'] = 'peculiar gaming',
+	['peculiar'] = 'peculiar gaming',
+	['peculiar gaming'] = { pos = 437, long = 'peculiar gaming', short = 'P' },
+	
+	['ppg'] = 'peesplay gaming',
+	['peesplay gaming'] = { pos = 438, long = 'PeesPlay Gaming', short = 'PPG' },
+	
+	['ppgt'] = 'peesplay gaming team',
+	['peesplay'] = 'peesplay gaming team',
+	['peesplay gaming team'] = { pos = 439, long = 'PeesPlay Gaming Team', short = 'PPgT' },
+	
+	['penta'] = 'penta sports',
+	['penta sports'] = { pos = 440, long = 'PENTA Sports', short = 'PENTA' },
+	
+	['pentakill.gr'] = { pos = 441, long = 'Pentakill.gr', short = 'Pentakill.gr' },
+	
+	['pg flux'] = 'perilous gaming flux',
+	['perilous gaming flux'] = { pos = 442, long = 'Perilous Gaming Flux', short = 'PG Flux' },
+	
+	['pg rift'] = 'perilous gaming rift',
+	['perilous gaming rift'] = { pos = 442, long = 'Perilous Gaming Rift', short = 'PG Rift' },
+	
+	['pg void'] = 'perilous gaming void',
+	['perilous gaming void'] = { pos = 442, long = 'Perilous Gaming Void', short = 'PG Void' },
+	
+	['pex'] = 'pineapple express',
+	['pineapple express'] = { pos = 443, long = 'Pineapple Express', short = 'PEX' },
+	
+	['pkm'] = 'pkmaster',
+	['pkmaster'] = { pos = 444, long = 'PKMaster', short = 'PKM' },
+	
+	['pkd'] = 'planetkey dynamics',
+	['planetkey'] = 'planetkey dynamics',
+	['planetkey dynamics'] = { pos = 445, long = 'Planetkey Dynamics', short = 'PkD' },
+	
+	['playart'] = 'playart gaming',
+	['playart gaming'] = { pos = 446, long = 'playArt Gaming', short = 'playArt' },
+	
+	['plaga'] = 'playground avenue',
+	['playground avenue'] = { pos = 447, long = 'Playground Avenue', short = 'PLAGA' },
+	
+	['ducks'] = 'playing ducks',
+	['playing ducks'] = { pos = 448, long = 'Playing Ducks', short = 'Ducks' },
+	
+	['ducks eu'] = 'playing ducks europe',
+	['playing ducks eu'] = 'playing ducks europe',
+	['playing ducks europe'] = { pos = 448, long = 'Playing Ducks Europe', short = 'Ducks EU' },
+	
+	['pe'] = 'positive energy',
+	['positive energy'] = { pos = 449, long = 'Positive Energy', short = 'PE' },
+	
+	['pf'] = 'power force',
+	['power force'] = { pos = 450, long = 'Power Force', short = 'PF' },
+	
+	['pride'] = 'pridefc',
+	['pridefc'] = { pos = 451, long = 'PrideFC', short = 'PrideFC' },
+	
+	['o.prime'] = 'prime optimus',
+	['optimus prime'] = 'prime optimus',
+	['prime.o'] = 'prime optimus',
+	['prime optimus'] = { pos = 452, long = 'Prime Optimus', short = 'Prime.O' },
+	
+	['prime.s'] = 'prime sentinel',
+	['s.prime'] = 'prime sentinel',
+	['sentinel prime'] = 'prime sentinel',
+	['prime sentinel'] = { pos = 452, long = 'Prime Sentinel', short = 'Prime.S' },
+	
+	['proa'] = 'proarmy gaming',
+	['proarmy gaming'] = { pos = 453, long = 'ProArmy Gaming', short = 'ProA' },
+	
+	['pulse'] = 'pulse esports',
+	['pulse esports'] = { pos = 454, long = 'Pulse Esports', short = 'Pulse' },
+	
+	['punchline'] = 'punchline esport club',
+	['punchline esport club'] = { pos = 455, long = 'PunchLine Esport Club', short = 'PunchLine' },
+	
+	['pvz'] = { pos = 456, long = 'PvZ', short = 'PvZ' },
+	
+	
+	-- Q
+	['quantic'] = 'quantic gaming',
+	['quantic gaming'] = { pos = 457, long = 'Quantic Gaming', short = 'Quantic' },
+
+        -- R
+	['rackgames'] = { pos = 458, long = 'Rackgames', short = 'Rackgames' },
+	
+	['rampage'] = { pos = 459, long = 'Rampage', short = 'Rampage' },
+	
+	['ranked'] = 'ranked gaming',
+	['ranked gaming'] = { pos = 460, long = 'Ranked Gaming', short = 'Ranked' },
+	
+	['rj'] = 'rascal jester',
+	['rascal jester'] = { pos = 461, long = 'Rascal Jester', short = 'RJ' },
+	
+	['rasta'] = 'rasta gaming',
+	['rasta gaming'] = { pos = 462, long = 'Rasta Gaming', short = 'Rasta' },
+	
+	['rawr'] = { pos = 463, long = 'RAWR', short = 'RAWR' },
+	
+	['rctic'] = 'rctic esports',
+	['rctic esports'] = { pos = 464, long = 'RCTIC eSports', short = 'RCTIC' },
+	
+	['rxg'] = 'reality check gaming',
+	['reality check gaming'] = { pos = 465, long = 'Reality Check Gaming', short = 'RXG' },
+	
+	['reality'] = 'reality.online',
+	['realityonline'] = 'reality.online',
+	['reality.online'] = { pos = 466, long = 'realitY.online', short = 'realitY' },
+	
+	['reason'] = 'reason gaming',
+	['reasongaming'] = 'reason gaming',
+	['reason gaming'] = { pos = 467, long = 'Reason Gaming', short = 'Reason' },
+	
+	['reda'] = 'red arrows',
+	['red arrow'] = 'red arrows',
+	['red arrows'] = { pos = 468, long = 'Red Arrows', short = 'RedA' },
+	
+	['reddit'] = 'reddit nation',
+	['reddit nation'] = { pos = 469, long = 'Reddit Nation', short = 'Reddit' },
+	
+	['regez'] = 'regez gaming',
+	['regez gaming'] = { pos = 470, long = 'Regez Gaming', short = 'Regez' },
+	
+	['res'] = 'renaissance e-sports',
+	['renaissance e-sports'] = { pos = 471, long = 'Renaissance E-Sports', short = 'RES' },
+	
+	['roh'] = 'renegades of hell',
+	['renegades of hell'] = { pos = 472, long = 'Renegades of Hell', short = 'RoH' },
+	
+	['roh eclipse'] = 'renegades of hell eclipse',
+	['renegades of hell eclipse'] = { pos = 472, long = 'Renegades of Hell Eclipse', short = 'RoH Eclipse' },
+	
+	['roh inner fire'] = 'renegades of hell inner fire',
+	['renegades of hell inner fire'] = { pos = 472, long = 'Renegades of Hell Inner Fire', short = 'RoH Inner Fire' },
+	
+	['roh phoenix'] = 'renegades of hell phoenix',
+	['renegades of hell phoenix'] = { pos = 472, long = 'Renegades of Hell Phoenix', short = 'RoH Phoenix' },
+	
+	['rgesc'] = 'revolt gentlemen e-sports club',
+	['revolt gentlemen'] = 'revolt gentlemen e-sports club',
+	['revolt gentlemen e-sports club'] = { pos = 473, long = 'Revolt Gentlemen E-Sports Club', short = 'RGESC' },
+	
+	['rgesc eune'] = 'revolt gentlemen e-sports club eune',
+	['revolt gentlemen eune'] = 'revolt gentlemen e-sports club eune',
+	['revolt gentlemen e-sports club eune'] = { pos = 473, long = 'Revolt Gentlemen E-Sports Club EUNE', short = 'RGESC EUNE' },
+	
+	['rgesc euw'] = 'revolt gentlemen e-sports club euw',
+	['revolt gentlemen euw'] = 'revolt gentlemen e-sports club euw',
+	['revolt gentlemen e-sports club euw'] = { pos = 473, long = 'Revolt Gentlemen E-Sports Club EUW', short = 'RGESC EUW' },
+	
+	['rflx'] = 'rflx gaming',
+	['rflx gaming'] = { pos = 474, long = 'RFLX Gaming', short = 'RFLX' },
+	
+	['onr'] = 'rising on gaming',
+	['rising on gaming'] = { pos = 475, long = 'Rising On Gaming', short = 'ONR' },
+	
+	['rstars'] = 'risingstars gaming',
+	['risingstars gaming'] = { pos = 476, long = 'RisingStars Gaming', short = 'Rstars' },
+	
+	['rma'] = 'rma e-sports',
+	['rma e-sports'] = { pos = 477, long = 'RMA e-Sports', short = 'RMA' },
+	
+	['ra'] = 'roaring agony',
+	['roaring agony'] = { pos = 478, long = 'Roaring Agony', short = 'RA' },
+	
+	['romg'] = { pos = 479, long = 'RoMg', short = 'RoMg' },
+	
+	['rnx'] = 'roughnex',
+	['roughnex'] = { pos = 480, long = 'RoughNeX', short = 'RNX' },
+	
+	['rnx acad'] = 'roughnex academy',
+	['rnx academy'] = 'roughnex academy',
+	['roughnex academy'] = { pos = 480, long = 'RoughNeX Academy', short = 'RNX Acad' },
+	
+	['rox'] = { pos = 481, long = 'RoX', short = 'RoX' },
+	
+	['royal club'] = 'royal club huang zu',
+	['royal'] = 'royal club huang zu',
+	['royal hz'] = 'royal club huang zu',
+	['royal club huang zu'] = { pos = 482, long = 'Royal Club', short = 'Royal' },
+	
+	['royal club 3'] = 'royal club summer',
+	['royal sm'] = 'royal club summer',
+	['royal club summer'] = { pos = 482, long = 'Royal Club Summer', short = 'Royal SM' },
+	
+	['royal club 2'] = 'royal club tian ci',
+	['royal2'] = 'royal club tian ci',
+	['royal tc'] = 'royal club tian ci',
+	['royal club tian ci'] = { pos = 483, long = 'Royal Club Tian Ci', short = 'Royal TC' },
+	
+	['rpe'] = 'royal paladin esports',
+	['royal paladin esports'] = { pos = 484, long = 'Royal Paladin eSports', short = 'RPE' },
+	
+	['rpe eclipse'] = 'royal paladin esports eclipse',
+	['royal paladin esports eclipse'] = { pos = 484, long = 'Royal Paladin eSports Eclipse', short = 'RPE Eclipse' },
+	
+	['rock solid'] = 'rs',
+	['rocksolid'] = 'rs',
+	['rs'] = { pos = 485, long = 'Rock Solid', short = 'RS' },
+	
+	['rtn'] = 'rtn gaming',
+	['rtn gaming'] = { pos = 486, long = 'RtN Gaming', short = 'RtN' },
+	
+	['russia'] = { pos = 487, long = 'Russia', short = 'Russia' },
+	
+	['rf'] = 'russian force',
+	['russian force'] = { pos = 715, long = 'Russian Force', short = 'RF' },
+	
+	['rg'] = 'ruthless gaming',
+	['ruthless gaming'] = { pos = 488, long = 'Ruthless Gaming', short = 'RG' },
+	
+	
+	-- S
+        ['sdb'] = 'saigon dai binh',
+	['saigon dai binh'] = { pos = 738, long = 'Saigon Dai Binh', short = 'SDB' },
+
+	['sf5'] = 'saigon fantastic five',
+	['fantastic five'] = 'saigon fantastic five',
+	['saigon fantastic five'] = { pos = 489, long = 'Saigon Fantastic Five', short = 'SF5' },
+	
+	['saj'] = 'saigon jokers',
+	['saigon jokers'] = { pos = 490, long = 'Saigon Jokers', short = 'SAJ' },
+	
+        ['sxg'] = 'saigon xgame',
+	['saigon xgame'] = { pos = 756, long = 'Saigon XGame', short = 'SXG' },
+
+	['sto'] = 'salade tomate oignon',
+	['salade tomate oignon'] = { pos = 491, long = 'Salade Tomate Oignon', short = 'STO' },
+	
+	['ssg'] = 'samsung galaxy',
+	['samsung galaxy'] = { pos = 492, long = 'Samsung Galaxy', short = 'SSG' },
+
+	['sg blue'] = 'samsung galaxy blue',
+	['samsung galaxy blue'] = { pos = 492, long = 'Samsung Galaxy Blue', short = 'SG Blue' },
+
+	['ssb'] = 'samsung galaxy blue',
+	['samsung galaxy blue'] = { pos = 492, long = 'Samsung Galaxy Blue', short = 'SSB' },
+
+	['sg ozone'] = 'samsung galaxy ozone',
+	['samsung galaxy ozone'] = { pos = 492, long = 'Samsung Galaxy Ozone', short = 'SG Ozone' },
+
+	['sg white'] = 'samsung galaxy white',
+	['samsung galaxy white'] = { pos = 492, long = 'Samsung Galaxy White', short = 'SG White' },
+	
+        ['ssw'] = 'samsung galaxy white',
+	['samsung galaxy white'] = { pos = 492, long = 'Samsung Galaxy White', short = 'SSW' },
+	
+        ['shrc'] = 'star horn royal club',
+        ['sh royal'] = 'star horn royal club',     
+	['star horn royal club'] = { pos = 185, long = 'Star Horn Royal Club', short = 'SHRC' },
+	
+	['satori'] = { pos = 493, long = 'Satori', short = 'Satori' },
+	
+	['sg hope'] = 'seagate hope',
+	['stx.h'] = 'seagate hope',
+	['seagate hope'] = { pos = 494, long = 'Seagate Hope', short = 'STX.H' },
+	
+	['spqr'] = 'senatus populusque romanus',
+	['senatus populusque romanus'] = { pos = 495, long = 'Senatus Populusque Romanus', short = 'SPQR' },
+	
+	['sql'] = 'sequential gaming',
+	['sequential'] = 'sequential gaming',
+	['sequential gaming'] = { pos = 496, long = 'Sequential Gaming', short = 'SQL' },
+	
+	['snx'] = 'seraphic nexus',
+	['seraphic nexus'] = { pos = 497, long = 'Seraphic Nexus', short = 'SNX' },
+	
+	['seven wars'] = 'seven wars e-sports',
+	['7wars'] = 'seven wars e-sports',
+	['7 wars'] = 'seven wars e-sports',
+	['seven wars e-sports'] = { pos = 498, long = 'Seven Wars e-Sports', short = '7w' },
+	
+	['seven wars lyon'] = { pos = 498, long = 'Seven Wars Lyon', short = '7w Lyon' },
+	
+	['shu'] = 'shih hsin university',
+	['shih hsin university'] = { pos = 499, long = 'Shih Hsin University', short = 'SHU' },
+	
+	['s4g'] = 'shop4gamers',
+	['shop4gamers'] = { pos = 500, long = 'Shop4Gamers', short = 'S4G' },
+	
+	['shot'] = 'shot esports club',
+	['shot esports club'] = { pos = 501, long = 'Shot eSports Club', short = 'Shot' },
+	
+	['shota'] = { pos = 502, long = 'Shota', short = 'Shota' },
+	
+	['sgs'] = 'singapore sentinels',
+	['singapore sentinels'] = { pos = 503, long = 'Singapore Sentinels', short = 'SGS' },
+	
+	['sns'] = 'sinners never sleep',
+	['sinnersneversleep'] = 'sinners never sleep',
+	['sinners never sleep'] = { pos = 504, long = 'Sinners Never Sleep', short = 'SNS' },
+	
+	['sjsk'] = { pos = 505, long = 'SJSK', short = 'SJSK' },
+	
+	['sk'] = 'sk gaming',
+	['sk gaming'] = { pos = 506, long = 'SK Gaming', short = 'SK' },
+	
+	['sk p'] = 'sk gaming prime',
+	['skp'] = 'sk gaming prime',
+	['sk prime'] = 'sk gaming prime',
+	['sk gaming prime'] = { pos = 794, long = 'SK Gaming Prime', short = 'SK Prime' },
+	
+	['skt'] = 'sk telecom t1',
+	['skt1'] = 'sk telecom t1',
+	['skt t1'] = 'sk telecom t1',
+	['skt t1'] = 'sk telecom t1',
+	['sk telecom t1'] = { pos = 507, long = 'SK Telecom T1', short = 'SKT T1' },
+	
+	['skt 2'] = 'sk telecom t1 2',
+	['skt1 2'] = 'sk telecom t1 2',
+	['skt t1 2'] = 'sk telecom t1 2',
+	['sk telecom t1 2'] = { pos = 507, long = 'SK Telecom T1 2', short = 'SKT T1 2' },
+	
+	['skt cm'] = 'sk telecom t1 club masters',
+	['skt1 cm'] = 'sk telecom t1 club masters',
+	['skt t1 cm'] = 'sk telecom t1 club masters',
+	['sk telecom t1 club masters'] = { pos = 507, long = 'SK Telecom T1 (Club Masters)', short = 'SKT T1' },
+	
+	['skt k'] = 'sk telecom t1 k',
+	['skt1 k'] = 'sk telecom t1 k',
+	['skt t1 k'] = 'sk telecom t1 k',
+	['sk telecom t1 k'] = { pos = 507, long = 'SK Telecom T1 K', short = 'SKT T1 K' },
+	
+	['skt s'] = 'sk telecom t1 s',
+	['skt1 s'] = 'sk telecom t1 s',
+	['skt t1 s'] = 'sk telecom t1 s',
+	['sk telecom t1 s'] = { pos = 507, long = 'SK Telecom T1 S', short = 'SKT T1 S' },
+	
+	['skulls'] = 'skulls club',
+	['skulls club'] = { pos = 508, long = 'Skulls Club', short = 'Skulls' },
+	
+	['skyline'] = { pos = 509, long = 'Skyline', short = 'Skyline' },
+
+        ['snogard'] = 'snogard dragons',
+	['snogard dragons'] = { pos = 510, long = 'SNOGARD Dragons', short = 'SNOGARD' },
+	
+	['sb'] = 'snowball',
+	['snowball'] = { pos = 511, long = 'Snowball', short = 'SB' },
+	
+	['scu'] = 'soochow university',
+	['soochow university'] = { pos = 512, long = 'Soochow University', short = 'SCU' },
+	
+	['spain'] = { pos = 513, long = 'Spain', short = 'Spain' },
+
+        ['sparta'] = 'sparta',
+        ['sparta'] = { pos = 753, long = 'Sparta', short = 'Sparta' },
+	
+	['spirit'] = 'spiritmoon',
+	['shbs'] = 'spiritmoon',
+	['spiritmoon'] = { pos = 514, long = 'Spiritmoon', short = 'Spirit' },
+	
+	['swag'] = 'spongebob swagpants',
+	['spongebobswagpants'] = 'spongebob swagpants',
+	['spongebob swagpants'] = { pos = 515, long = 'SpongeBob SwagPants', short = 'SWAG' },
+	
+	['sp'] = 'sports.power',
+	['sports.power'] = { pos = 516, long = 'Sports.Power', short = 'SP' },
+	
+	[&quot;st. john's&quot;] = &quot;st. john's university&quot;,
+	[&quot;st. john's university&quot;] = { pos = 517, long = &quot;St. John's University&quot;, short = &quot;St. John's&quot; },
+	
+	['spg'] = 'stand point gaming',
+	['stand point gaming'] = { pos = 518, long = 'Stand Point Gaming', short = 'SPG' },
+	
+	['starsboba'] = { pos = 519, long = 'StarsBoba', short = 'StarsBoba' },
+	
+	['st'] = 'startale',
+	['startale'] = { pos = 520, long = 'StarTale', short = 'ST' },
+	
+	['sswie'] = 'steelseries wie',
+	['steelseries wie'] = { pos = 521, long = 'SteelSeries WIE', short = 'SSWIE' },
+	
+	['sfto'] = 'stofftiere online',
+	['stofftiere online'] = { pos = 522, long = 'Stofftiere Online', short = 'SFTO' },
+	
+	['sgc'] = 'storm games clan',
+	['storm games clan'] = { pos = 523, long = 'Storm Games Clan', short = 'SGC' },
+
+        ['stm'] = 'team storm',
+	['team storm'] = { pos = 787, long = 'Team Storm', short = 'STM' },
+	
+	['smr'] = 'submarines',
+	['submarines'] = { pos = 524, long = 'Submarines', short = 'SMR' },
+	
+	['shc'] = 'supa hot crew xd',
+	['shc xd'] = 'supa hot crew xd',
+	['supa hot crew'] = 'supa hot crew xd',
+	['supa hot crew xd'] = { pos = 525, long = 'SUPA HOT CREW', short = 'SHC' },
+	
+	['ss'] = 'superstar',
+	['superstar'] = { pos = 526, long = 'SuperStar', short = 'SS' },
+	
+	['swiss'] = { pos = 527, long = 'Switzerland', short = 'Swiss' },
+	
+	['syphus'] = 'syphus gaming',
+	['syphus gaming'] = { pos = 528, long = 'Syphus Gaming', short = 'Syphus' },
+	
+	
+	-- T
+	['tmsh'] = 'ta-ming senior high school',
+	['ta-ming senior high school'] = { pos = 529, long = 'Ta-Ming Senior High School', short = 'TMSH' },
+	
+	['tpa'] = 'taipei assassins',
+	['taipei assassins'] = { pos = 530, long = 'Taipei Assassins', short = 'TPA' },
+	
+	['tps'] = 'taipei snipers',
+	['taipei snipers'] = { pos = 531, long = 'Taipei Snipers', short = 'TPS' },
+	
+	['tku'] = 'tamkang university',
+	['tamkang university'] = { pos = 532, long = 'Tamkang University', short = 'TKU' },
+	
+	['titan catipay'] = 'tc',
+	['tc'] = { pos = 533, long = 'Titan Catipay', short = 'TC' },
+	
+	['tcm'] = 'tcm-gaming',
+	['tcm gaming'] = 'tcm-gaming',
+	['tcm-gaming'] = { pos = 534, long = 'TCM-Gaming', short = 'TCM' },
+	
+	['t8'] = 'team 8',
+	['team 8'] = { pos = 780, long = 'Team 8', short = 'T8' },
+	
+	['acer'] = 'team acer',
+	['team acer'] = { pos = 536, long = 'Team Acer', short = 'Acer' },
+	
+	['acer pl'] = 'team acer poland',
+	['acerpl'] = 'team acer poland',
+	['acer.pl'] = 'team acer poland',
+	['team acer.pl'] = 'team acer poland',
+	['team acer poland'] = { pos = 536, long = 'Team Acer Poland', short = 'Acer PL' },
+	
+	['atn'] = 'team alternate',
+	['alternate'] = 'team alternate',
+	['team alternate'] = { pos = 537, long = 'Team ALTERNATE', short = 'aTn' },
+	
+	['taa'] = 'team an all',
+	['team an all'] = { pos = 538, long = 'Team An All', short = 'TAA' },
+	
+	['tap'] = 'team astral poke',
+	['team astral poke'] = { pos = 539, long = 'Team Astral Poke', short = 'TAP' },
+	
+	['aula'] = 'team aula',
+	['team aula'] = { pos = 540, long = 'Team Aula', short = 'Aula' },
+	
+	['black'] = 'team black',
+	['bacon lovers are crazy kool'] = 'team black',
+	['team black'] = { pos = 541, long = 'Team BLACK', short = 'BLACK' },
+	
+	['ca'] = 'team canada',
+	['team canada'] = { pos = 542, long = 'Team Canada', short = 'Can' },
+	
+	['c'] = 'team coast',
+	['coast'] = 'team coast',
+	['team coast'] = { pos = 543, long = 'Team Coast', short = 'C' },
+	
+	['crs'] = 'team curse',
+	['curse'] = 'team curse',
+	['curse gaming'] = 'team curse',
+	['team curse'] = { pos = 544, long = 'Team Curse', short = 'Crs' },
+	
+	['curse gaming europe'] = 'team curse europe',
+	['crs eu'] = 'team curse europe',
+	['curse gaming eu'] = 'team curse europe',
+	['curse eu'] = 'team curse europe',
+	['team curse eu'] = 'team curse europe',
+	['team curse europe'] = { pos = 544, long = 'Team Curse Europe', short = 'Crs EU' },
+	
+	['dark'] = 'team dark',
+	['team dark'] = { pos = 545, long = 'Team Dark', short = 'Dark' },
+
+        ['tdk'] = 'team dragon knights',
+	['team dragon knights'] = { pos = 791, long = 'Team Dragon Knights', short = 'TDK' },
+	
+	['decode'] = 'team decode',
+	['team decode'] = { pos = 546, long = 'Team Decode', short = 'Decode' },
+	
+	['teamd'] = 'team derpers',
+	['team derpers'] = { pos = 547, long = 'Team Derpers', short = 'TeamD' },
+	
+	['d'] = 'team dignitas',
+	['dig'] = 'team dignitas',
+	['dignitas'] = 'team dignitas',
+	['team dignitas'] = { pos = 548, long = 'Team Dignitas', short = 'd' },
+	
+	['d eu'] = 'team dignitas eu',
+	['dignitas eu'] = 'team dignitas eu',
+	['team dignitas eu'] = { pos = 548, long = 'Team Dignitas EU', short = 'd EU' },
+	
+	['d uk'] = 'team dignitas uk',
+	['dignitas uk'] = 'team dignitas uk',
+	['team dignitas uk'] = { pos = 548, long = 'Team Dignitas UK', short = 'd UK' },
+	
+	['dk'] = 'team dk',
+	['team dk'] = { pos = 549, long = 'Team DK', short = 'DK' },
+	
+	['td'] = 'team dynamic',
+	['teamdynamic'] = 'team dynamic',
+	['team dynamic'] = { pos = 550, long = 'Team Dynamic', short = 'TD' },
+	
+	['eos'] = 'team e.o.s. gaming',
+	['team eos gaming'] = 'team e.o.s. gaming',
+	['team e.o.s. gaming'] = { pos = 551, long = 'Team e.o.s. Gaming', short = 'eos' },
+	
+	['easyfix.it'] = 'team easyfix.it double ace',
+	['team easyfix.it'] = 'team easyfix.it double ace',
+	['team easyfix.it double ace'] = { pos = 552, long = 'Team EasyFix.it Double Ace', short = 'easyfix.it' },
+	
+	['empire'] = 'team empire',
+	['team empire'] = { pos = 553, long = 'Team Empire', short = 'Empire' },
+	
+	['teamephix'] = 'team ephix',
+	['team ephix'] = { pos = 554, long = 'Team ephix', short = 'ephix' },
+	
+	['tevo'] = 'team evolution',
+	['team evolution'] = { pos = 164, long = 'Team Evolution', short = 'TEVO' },
+	
+	['exile5 eclipse'] = 'team exile5 eclipse',
+	['x5 eclipse'] = 'team exile5 eclipse',
+	['team exile5 eclipse'] = { pos = 556, long = 'Team Exile5 Eclipse', short = 'x5 Eclipse' },
+	
+	['extensive'] = 'team extensive!',
+	['extensive!'] = 'team extensive!',
+	['team extensive'] = 'team extensive!',
+	['team extensive!'] = { pos = 557, long = 'Team eXtensive!', short = 'eXtensive!' },
+	
+        ['tfr'] = 'team fat rabbit',
+	['team fat rabbit'] = { pos = 760, long = 'Team Fat Rabbit', short = 'TFR' },
+
+	['fear'] = 'team fear',
+	['team fear'] = { pos = 558, long = 'Team FeaR', short = 'FeaR' },
+	
+	['tfd'] = 'team fodorans',
+	['team fodorans'] = { pos = 559, long = 'Team FoDorans', short = 'TFD' },
+	
+	['tfa'] = 'team forever alone',
+	['team forever alone'] = { pos = 560, long = 'Team Forever Alone', short = 'TFA' },
+	
+	['fz'] = 'team fragzone',
+	['fragzone'] = 'team fragzone',
+	['team fragzone'] = { pos = 561, long = 'Team FragZone', short = 'FZ' },
+
+        ['fsn'] = 'team fusion gaming',
+	['team fusion gaming'] = { pos = 727, long = 'Team Fusion Gaming', short = 'FSN' },
+	
+	['gamed!de'] = 'team gamed.de',
+	['gamed.de'] = 'team gamed.de',
+	['team gamed!de'] = 'team gamed.de',
+	['team gamed.de'] = { pos = 562, long = 'Team GAMED.DE', short = 'gamed!de' },
+	
+	['ger'] = 'team germany',
+	['team germany'] = { pos = 563, long = 'Team Germany', short = 'Ger' },
+	
+	['tgf'] = 'team green forest',
+	['team green forest'] = { pos = 564, long = 'Team Green Forest', short = 'TGF' },
+	
+	['hegemony'] = 'team hegemony',
+	['team hegemony'] = { pos = 565, long = 'Team Hegemony', short = 'Hegemony' },
+
+        ['thl'] = 'teamhopeless',
+	['teamhopeless'] = { pos = 1, long = 'TeamHopeLess', short = 'THL' },
+	
+	['hunters'] = 'team hunters',
+	['team hunters'] = { pos = 566, long = 'Team Hunters', short = 'Hunters' },
+	
+	['immunity'] = 'team immunity',
+	['team immunity'] = { pos = 567, long = 'Team Immunity', short = 'Immunity' },
+	
+	['ifin'] = 'team infinite',
+	['team infinite'] = { pos = 568, long = 'Team Infinite', short = 'iFin' },
+	
+	['tif'] = 'team infinity',
+	['teaminfinity'] = 'team infinity',
+	['team infinity'] = { pos = 569, long = 'Team Infinity', short = 'TIF' },
+	
+	['tif.beta'] = 'team infinity.beta',
+	['teaminfinity.beta'] = 'team infinity.beta',
+	['team infinity.beta'] = { pos = 569, long = 'Team Infinity.Beta', short = 'TIF.Beta' },
+	
+	['teaminfused'] = 'team infused',
+	['team infused'] = { pos = 570, long = 'Team Infused', short = 'Infused' },
+	
+	['king'] = 'team king',
+	['team king'] = { pos = 778, long = 'Team King', short = 'King' },
+	
+	['ldlc'] = 'team ldlc',
+	['team ldlc'] = { pos = 572, long = 'Team LDLC', short = 'LDLC' },
+	
+	['tlg'] = 'team legend god',
+	['team legend god'] = { pos = 573, long = 'Team Legend God', short = 'TLG' },
+	
+	['lgn'] = 'team legion',
+	['team legion'] = { pos = 574, long = 'Team Legion', short = 'LgN' },
+	
+	['lh'] = 'team lh',
+	['team lh'] = { pos = 575, long = 'Team LH', short = 'LH' },
+	
+	['liquid'] = 'team liquid',
+	['team liquid'] = { pos = 576, long = 'Team Liquid', short = 'Liquid' },
+
+        ['tl acad'] = 'team liquid academy',
+	['team liquid academy'] = { pos = 576, long = 'Team Liquid Academy', short = 'TL Acad' },
+	
+	['livemore'] = 'team livemore',
+	['lm'] = 'team livemore',
+	['team lm'] = 'team livemore',
+	['team livemore'] = { pos = 577, long = 'Team Livemore', short = 'LM' },
+	
+	['tlc'] = 'team lol cave',
+	['team lol cave'] = { pos = 578, long = 'Team LoL Cave', short = 'TLC' },
+	
+	['lol pro'] = 'team lolpro',
+	['lolpro'] = 'team lolpro',
+	['team lol pro'] = 'team lolpro',
+	['team lolpro'] = { pos = 579, long = 'Team LoLPro', short = 'LoLPro' },
+	
+	['mit'] = 'team made in italy',
+	['team made in italy'] = { pos = 580, long = 'Team MADE in ITALTY', short = 'MiT' },
+	
+	['tmsk'] = 'team megashock',
+	['team megashock'] = { pos = 581, long = 'Team MegashocK', short = 'TMsK' },
+	
+	['mtl'] = 'team mistral',
+	['mistral'] = 'team mistral',
+	['team mistral'] = { pos = 582, long = 'Team Mistral', short = 'mTL' },
+	
+	['mrn'] = 'team mrn',
+	['team mrn'] = { pos = 583, long = 'Team MRN', short = 'MRN' },
+	
+	['nb'] = 'team nb',
+	['team nb'] = { pos = 584, long = 'Team NB', short = 'NB' },
+	
+        ['tne'] = 'team nevo',
+	['nevo'] = 'team nevo',
+	['team nevo'] = { pos = 796, long = 'Team Nevo', short = 'TNE' },
+
+	['nv'] = 'team nv',
+	['team nv'] = { pos = 585, long = 'Team Nv', short = 'Nv' },
+	
+	['op'] = 'team op',
+	['team op'] = { pos = 586, long = 'Team OP', short = 'OP' },
+	
+	['top'] = 'team over power',
+	['team over power'] = { pos = 587, long = 'Team Over Power', short = 'TOP' },
+	
+	['ozoneblade'] = 'team ozone blade',
+	['ozone blade'] = 'team ozone blade',
+	['team ozone blade'] = { pos = 588, long = 'Team Ozone Blade', short = 'Ozone Blade' },
+	
+	['ozone cm'] = 'team ozone cutie monsters',
+	['ozone cutie monsters'] = 'team ozone cutie monsters',
+	['team ozone cm'] = 'team ozone cutie monsters',
+	['team ozone cutie monsters'] = { pos = 588, long = 'Team Ozone Cutie Monsters', short = 'Ozone CM' },
+	
+	['ozone'] = 'team ozone taiwan',
+	['ozone tw'] = 'team ozone taiwan',
+	['team ozone taiwan'] = { pos = 588, long = 'Team Ozone Taiwan', short = 'Ozone TW' },
+	
+	['ozone xenon'] = 'team ozone xenon',
+	['xenon'] = 'team ozone xenon',
+	['team ozone xenon'] = { pos = 588, long = 'Team Ozone Xenon', short = 'Ozone Xenon' },
+	
+	['pcfc'] = 'team pacific',
+	['pacific'] = 'team pacific',
+	['team pacific'] = { pos = 589, long = 'Team Pacific', short = 'PCFC' },
+	
+	['phoenix'] = 'team phoenix',
+	['team phoenix'] = { pos = 590, long = 'Team Phoenix', short = 'Phoenix' },
+	
+	['prop'] = 'team property',
+	['team property'] = { pos = 591, long = 'Team Property', short = 'prOp' },
+	
+	['tq'] = 'team quetzal',
+	['team quetzal'] = { pos = 592, long = 'Team Quetzal', short = 'Quetzal' },
+	
+	['ray'] = 'team ray',
+	['team ray'] = { pos = 593, long = 'Team Ray', short = 'Ray' },
+	
+	['refuse'] = 'team refuse',
+	['team refuse'] = { pos = 594, long = 'Team Refuse', short = 'Refuse' },
+	
+	['replika'] = 'team replika',
+	['team replika'] = { pos = 595, long = 'Team Replika', short = 'Replika' },
+	
+	['rm'] = 'team rm',
+	['team rm'] = { pos = 596, long = 'Team RM', short = 'RM' },
+	
+	['roc'] = 'team roccat',
+	['roccat'] = { pos = 597, long = 'Team ROCCAT', short = 'ROC' },
+	
+        ['tr'] = 'team rock',
+        ['rock'] = 'team rock',
+	['team rock'] = { pos = 793, long = 'Team Rock', short = 'Rock' },
+
+        ['tsl'] = 'team salsalol',
+	['team salsalol'] = { pos = 720, long = 'Team SalsaLoL', short = 'TSL' },
+
+	['secret'] = 'team secret',
+	['team secret'] = { pos = 598, long = 'Team Secret', short = 'Secret' },
+	
+	['sforge'] = 'team server-forge',
+	['team server-forge'] = { pos = 599, long = 'Team Server-Forge', short = 'sForge' },
+	
+	['snake'] = 'team snake',
+	['team snake'] = { pos = 600, long = 'Team Snake', short = 'Snake' },
+	
+	['team solo mebdi'] = { pos = 601, long = 'Team Solo Mebdi', short = 'TSMeb' },
+	
+	['tsm'] = 'team solomid',
+	['tsm snapdragon'] = 'team solomid',
+	['team solomid'] = { pos = 602, long = 'Team SoloMid', short = 'TSM' },
+	
+	['tsm evo'] = 'team solomid evo',
+	['team solomid evo'] = { pos = 602, long = 'Team SoloMid Evo', short = 'TSM Evo' },
+	
+	['sl'] = 'team speedlink',
+	['team speedlink'] = { pos = 603, long = 'Team SPEEDLINK', short = 'SL' },
+	
+	['ts'] = 'team summon',
+	['team summon'] = { pos = 604, long = 'Team Summon', short = 'TS' },
+	
+	['sypher'] = 'team sypher',
+	['team sypher'] = { pos = 605, long = 'Team Sypher', short = 'Sypher' },
+	
+	['team tempest'] = { pos = 606, long = 'Team Tempest', short = 'Tempest2' },
+	
+        ['tip'] = 'team impulse',
+	['team impulse'] = { pos = 765, long = 'Team Impulse', short = 'TIP' },
+
+	['teamtheorygaming'] = 'team theory gaming',
+	['team theory gaming'] = { pos = 607, long = 'Team Theory Gaming', short = 'Theory' },
+	
+	['thermaltake'] = 'team thermaltake',
+	['team thermaltake'] = { pos = 608, long = 'Team Thermaltake', short = 'Tt' },
+	
+	['tdtv'] = 'team towerdivetv',
+	['team towerdivetv'] = { pos = 609, long = 'Team TowerDiveTV', short = 'TDTV' },
+	
+	['tt'] = 'team turquality',
+	['turquality'] = 'team turquality',
+	['team turquality'] = { pos = 610, long = 'Team Turquality', short = 'TT' },
+	
+	['tt blue'] = 'team turquality blue',
+	['turquality blue'] = 'team turquality blue',
+	['team turquality blue'] = { pos = 610, long = 'Team Turquality BLUE', short = 'TT BLUE' },
+	
+	['tt red'] = 'team turquality red',
+	['turquality red'] = 'team turquality red',
+	['team turquality red'] = { pos = 611, long = 'Team Turquality RED', short = 'TT RED' },
+	
+	['tuv'] = 'team ultra vires',
+	['team ultra vires'] = { pos = 612, long = 'Team Ultra Vires', short = 'TUV' },
+	
+	['usa'] = 'team usa',
+	['team usa'] = { pos = 613, long = 'Team USA', short = 'USA' },
+	
+	['vex'] = 'team vex',
+	['team vex'] = { pos = 614, long = 'Team VEX', short = 'VEX' },
+	
+	['vgr'] = 'team vgr',
+	['team vgr'] = { pos = 615, long = 'Team VGR', short = 'VGR' },
+	
+	['v'] = 'team vulcun',
+	['vulcun'] = 'team vulcun',
+	['team vulcun'] = { pos = 616, long = 'Team Vulcun', short = 'V' },
+	
+	['we'] = 'team we',
+	['team we'] = { pos = 617, long = 'Team WE', short = 'WE' },
+	
+	['we.a'] = 'team we academy',
+	['we acad'] = 'team we academy',
+	['team we academy'] = { pos = 743, long = 'Team WE Academy', short = 'WE Acad' },
+	
+	['we.irocks'] = 'team we.i-rocks',
+	['team we.i-rocks'] = { pos = 617, long = 'Team WE.i-Rocks', short = 'WE.iRocks' },
+	
+	['winfakt'] = 'team winfakt',
+	['team winfakt'] = { pos = 618, long = 'Team WinFakt', short = 'WinFakt' },
+	
+	['teamz'] = 'team z',
+	['team z'] = { pos = 619, long = 'Team Z', short = 'Team Z' },
+	
+	['teamkr'] = { pos = 620, long = 'teamKR eSport Club', short = 'teamKR' },
+	
+	['tpb'] = 'teampassby',
+	['teampassby'] = { pos = 621, long = 'TeamPassBy', short = 'TPB' },
+	
+	['teamwod'] = 'teamwod.de',
+	['teamwod.de'] = { pos = 622, long = 'teamwod.de', short = 'teamwod.de' },
+	
+	['10cat'] = 'teehomemecat10tua',
+	['teehomemecat10tua'] = { pos = 623, long = 'TEEHOMEMECAT10TUA', short = '10CAT' },
+	
+	['tempest'] = { pos = 624, long = 'Tempest', short = 'Tempest' },
+	
+	['tera'] = 'tera-gaming',
+	['tera-gaming'] = { pos = 625, long = 'Tera-Gaming', short = 'Tera' },
+	
+	['tyl'] = 'test your limits',
+	['testyourlimits'] = 'test your limits',
+	['test your limits'] = { pos = 626, long = 'Test Your Limits', short = 'TYL' },
+	
+	['fusion'] = 'that fusion',
+	['that fusion'] = { pos = 627, long = 'That Fusion', short = 'Fusion' },
+	
+	['tbc'] = 'the brunch club',
+	['the brunch club'] = { pos = 628, long = 'The Brunch Club', short = 'TBC' },
+	
+	['esc5'] = 'the escape five',
+	['the escape five'] = { pos = 629, long = 'The Escape Five', short = 'ESC5' },
+	
+	['tfs'] = 'the fox sound',
+	['thefoxsound'] = 'the fox sound',
+	['the fox sound'] = { pos = 630, long = 'The Fox Sound', short = 'TFS' },
+
+        ['trs'] = 'the right stuff',
+        ['therightstuff'] = 'the right stuff',
+        ['the right stuff'] = { pos = 443, long = 'The Right Stuff', short = 'TRS' },
+	
+	['gentlemensguild'] = &quot;the gentlemen's guild&quot;,
+	['gentlemens guild'] = &quot;the gentlemen's guild&quot;,
+	['tgg'] = &quot;the gentlemen's guild&quot;,
+	[&quot;the gentlemen's guild&quot;] = { pos = 631, long = &quot;The Gentlemen's Guild&quot;, short = 'TGG' },
+	
+	['tlr'] = 'the last resistance',
+	['the last resistance'] = { pos = 632, long = 'The Last Resistance', short = 'TLR' },
+	
+	['tle'] = 'the limited edition',
+	['the limited edition'] = { pos = 633, long = 'The Limited Edition', short = 'TLE' },
+	
+	['red'] = 'the red',
+	['the red'] = { pos = 634, long = 'The RED', short = 'RED' },
+	
+	['tsb'] = 'the salad bar',
+	['the salad bar'] = { pos = 635, long = 'The Salad Bar', short = 'TSB' },
+	
+	['twz'] = 'the walking zed',
+	['walkingzed'] = 'the walking zed',
+	['the walking zed'] = { pos = 636, long = 'The Walking Zed', short = 'twz' },
+	
+	['ttd'] = 'tick trick and duck',
+	['tick trick and duck'] = { pos = 637, long = 'Tick Trick and Duck', short = 'TTD' },
+	
+	['tg'] = 'tico gamers',
+	['tico'] = 'tico gamers',
+	['tico gamers'] = { pos = 638, long = 'Tico Gamers', short = 'tG' },
+	
+	['t-out'] = 'time-out',
+	['time-out'] = { pos = 639, long = 'Time-Out', short = 'T-Out' },
+	
+	['tint'] = 'tint gaming',
+	['tint gaming'] = { pos = 640, long = 'TINT Gaming', short = 'TINT' },
+	
+	['titans'] = 'titans esports',
+	['titans esports'] = { pos = 641, long = 'TITANS ESPORTS', short = 'TITANS' },
+	
+	['tm.e'] = 'tm.endless',
+	['tm.endless'] = { pos = 642, long = 'TM.Endless', short = 'TM.E' },
+	
+	['tm origin'] = 'tmorigin',
+	['tmorigin'] = { pos = 643, long = 'TM.Origin', short = 'TM.Origin' },
+	
+	['tmt'] = { pos = 644, long = 'TMT', short = 'TMT' },
+	
+	['tnp eu'] = 'tnp gaming eu',
+	['tnp gaming eu'] = { pos = 645, long = 'TNP Gaming EU', short = 'TNP EU' },
+	
+	['tbd'] = 'to be determined',
+	['to be determined'] = { pos = 646, long = 'To Be Determined', short = 'TBD' },
+	
+	['tongfu'] = { pos = 647, long = 'TongFu', short = 'TongFu' },
+	
+	['top lane'] = 'top lane gaming',
+	['top lane gaming'] = { pos = 648, long = 'Top Lane Gaming', short = 'Top Lane' },
+	
+	['tkn'] = 'toukon',
+	['toukon'] = { pos = 649, long = 'Toukon', short = 'TKN' },
+	
+	['toushi'] = { pos = 650, long = 'Toushi', short = 'Toushi' },
+	
+	['tricked a'] = 'tricked academy',
+	['tricked acad'] = 'tricked academy',
+	['tricked academy'] = { pos = 651, long = 'Tricked Academy', short = 'Tricked A' },
+	
+	['tricked'] = 'tricked esport',
+	['tricked esport'] = { pos = 651, long = 'Tricked eSport', short = 'Tricked' },
+	
+	['tnb'] = 'trudniej juz nie bedzie',
+	['trudniej juz nie bedzie'] = 'trudniej juz nie bedzie',
+	['trudniej juz nie bedzie'] = { pos = 652, long = 'Trudniej Juz Nie Bedzie', short = 'TNB' },
+	
+	['tt dragons'] = { pos = 653, long = 'Tt Dragons', short = 'TtDragons' },
+	
+	['tt tw'] = 'tt dragons taiwan',
+	['tt dragons tw'] = 'tt dragons taiwan',
+	['tt dragons taiwan'] = { pos = 653, long = 'Tt Dragons Taiwan', short = 'TtDragons' },
+	
+	['tnu'] = 'tungnan university',
+	['tungnan university'] = { pos = 654, long = 'Tungnan University', short = 'TNU' },
+	
+	['tcu'] = 'tzu chi university',
+	['tzu chi university'] = { pos = 655, long = 'Tzu Chi University', short = 'TCU' },
+	
+	
+	-- U
+	['urq'] = 'u rage quit',
+	['u rage quit'] = { pos = 656, long = 'U Rage QuiT', short = 'URQ' },
+	
+	['uc irvine'] = 'uci',
+	['uci'] = { pos = 657, long = 'UC Irvine', short = 'UCI' },
+	
+	['uc san diego'] = 'ucsd',
+	['ucsd'] = { pos = 658, long = 'UC San Diego', short = 'UCSD' },
+	
+	['uin.h'] = 'uin hawks',
+	['uin hawks'] = { pos = 659, long = 'UIN Hawks', short = 'UIN.H' },
+	
+	['urr'] = &quot;uncle ruckus' revenge&quot;,
+	[&quot;uncle ruckus' revenge&quot;] = { pos = 660, long = &quot;Uncle Ruckus' Revenge&quot;, short = 'URR' },
+	
+	['ur'] = 'under rated gaming',
+	['under rated gaming'] = { pos = 661, long = 'Under Rated Gaming', short = 'UR' },
+	
+	['uol'] = 'unicorns of love',
+	['unicorns of love'] = { pos = 662, long = 'Unicorns of Love', short = 'UoL' },
+	
+	['unite'] = 'unite gaming',
+	['unite gaming'] = 'unite gaming',
+	['unite gaming'] = { pos = 663, long = 'UNiTE Gaming', short = 'UNiTE' },
+	
+	['united'] = 'team united',
+	['team united'] = { pos = 555, long = 'Team UNITED', short = 'UNITED' },
+	
+	['us'] = 'universal soldiers',
+	['universal soldiers'] = { pos = 664, long = 'Universal Soldiers', short = 'uS' },
+	
+	['uox sg'] = 'unorthodox singapore',
+	['unorthodox singapore'] = { pos = 665, long = 'Unorthodox Singapore', short = 'UoX SG' },
+	
+	['unr'] = 'unrestricted esports',
+	['unrestricted'] = 'unrestricted esports',
+	['unrestricted esports'] = { pos = 666, long = 'unRestricted eSports', short = 'unR' },
+	
+	['uag'] = 'urumqi ag',
+	['urumqi ag'] = { pos = 667, long = 'Urumqi AG', short = 'UAG' },
+	
+	['ut austin'] = 'ut',
+	['ut'] = { pos = 668, long = 'UT Austin', short = 'UT' },
+	
+	
+	-- V
+	['v8'] = 'v8 esports',
+	['v8 esports'] = { pos = 669, long = 'v8 eSports', short = 'v8' },
+	
+	['ves'] = 'velocity esports',
+	['velocity'] = 'velocity esports',
+	['velocity esports'] = { pos = 670, long = 'Velocity eSports', short = 'VES' },
+	
+	['vdt'] = 'verdict gaming',
+	['verdict'] = 'verdict gaming',
+	['verdict gaming'] = { pos = 671, long = 'VerdicT Gaming', short = 'VdT' },
+	
+	['ve'] = 'vici esports',
+	['vici esports'] = { pos = 672, long = 'Vici Esports', short = 'VE' },
+	
+	['vg'] = 'vici gaming',
+	['vici gaming'] = { pos = 673, long = 'Vici Gaming', short = 'VG' },
+	
+        ['vsg'] = 'vici stand gaming',
+	['vici stand gaming'] = { pos = 742, long = 'Vici Stand Gaming', short = 'VSG' },
+
+      	['vination'] = 'vination esports',
+	['vination esports'] = { pos = 674, long = 'Vination eSports', short = 'vination' },
+	
+	['vti'] = 'vince te ipsum',
+	['vince te ipsum'] = { pos = 675, long = 'Vince Te Ipsum', short = 'vTi' },
+	
+	['vti ignis'] = 'vince te ipsum ignis',
+	['vince te ipsum ignis'] = { pos = 675, long = 'vTi Ignis', short = 'vTi Ignis' },
+	
+	['vti nox'] = 'vince te ipsum nox',
+	['vince te ipsum nox'] = { pos = 675, long = 'vTi Nox', short = 'vTi Nox' },
+	
+	['lions'] = 'virtual lions',
+	['virtual lions'] = { pos = 676, long = 'Virtual LIONS', short = 'LIONS' },
+	
+	['vtg1'] = 'virtual throne gaming 1',
+	['vtg 1'] = 'virtual throne gaming 1',
+	['virtual throne gaming 1'] = { pos = 677, long = 'Virtual Throne Gaming 1', short = 'VTG 1' },
+	
+	['vtg2'] = 'virtual throne gaming 2',
+	['vtg 2'] = 'virtual throne gaming 2',
+	['virtual throne gaming 2'] = { pos = 677, long = 'Virtual Throne Gaming 2', short = 'VTG 2' },
+	
+	['vtg.m'] = 'virtual throne gaming monsters',
+	['vtg monsters'] = 'virtual throne gaming monsters',
+	['virtual throne gaming monsters'] = { pos = 677, long = 'VTG Monsters', short = 'VTG.M' },
+	
+	['vtg.r'] = 'virtual throne gaming raon',
+	['vtg raon'] = 'virtual throne gaming raon',
+	['virtual throne gaming raon'] = { pos = 677, long = 'VTG Raon', short = 'VTG.R' },
+	
+	['vl'] = 'virtus legion',
+	['virtus legion'] = { pos = 678, long = 'Virtus Legion', short = 'VL' },
+	
+        ['vp'] = 'virtus.pro',
+	['virtus.pro'] = { pos = 723, long = 'Virtus.pro', short = 'VP' },
+
+	['vcg'] = 'viscosity gaming',
+	['viscosity gaming'] = { pos = 679, long = 'Viscosity Gaming', short = 'VCG' },
+	
+	['vye'] = 'visualize your enmity',
+	['visualize your enmity'] = { pos = 680, long = 'Visualize Your Enmity', short = 'VYE' },
+	
+	['vvv'] = 'vvv gaming',
+	['vvv gaming'] = { pos = 681, long = 'vVv Gaming', short = 'vVv' },
+	
+	['vvv br'] = 'vvv gaming brasil',
+	['vvv gaming.br'] = 'vvv gaming brasil',
+	['vvv gaming brasil'] = { pos = 681, long = 'vVv Gaming Brasil', short = 'vVv BR' },
+	
+	['vvv red'] = 'vvv gaming red',
+	['vvv gaming red'] = { pos = 681, long = 'vVv Gaming Red', short = 'vVv Red' },
+	
+	['vvv white'] = 'vvv gaming white',
+	['vvv gaming white'] = { pos = 681, long = 'vVv Gaming White', short = 'vVv White' },
+	
+	
+	-- W
+	['wargods'] = { pos = 725, long = 'Wargods', short = 'Wargods' },
+	
+	['spider'] = 'wayi spider taiwan',
+	['spider tw'] = 'wayi spider taiwan',
+	['wayi spider'] = 'wayi spider taiwan',
+	['wayi spider taiwan'] = { pos = 683, long = 'Wayi Spider', short = 'Spider' },
+	
+	['spider cn'] = 'wayi spider china',
+	['spider china'] = 'wayi spider china',
+	['wayi spider china'] = { pos = 683, long = 'Wayi Spider China', short = 'Spider' },
+	
+	['wg'] = 'wazabi gaming',
+	['wazabi gaming'] = { pos = 684, long = 'Wazabi Gaming', short = 'WG' },
+	
+	['weesports'] = { pos = 685, long = 'weeSports', short = 'weeSports' },
+	
+	['ww'] = 'western wolves',
+	['western wolves'] = { pos = 686, long = 'Western Wolves', short = 'wW' },
+	
+	['wf'] = 'wild fire e-sports club',
+	['wild fire'] = 'wild fire e-sports club',
+	['wild fire e-sports club'] = { pos = 687, long = 'Wild Fire e-Sports Club', short = 'WF' },
+	
+	['wild'] = 'wild multigaming',
+	['wild multigaming'] = { pos = 688, long = 'WiLD MultiGaming', short = 'WiLD' },
+	
+	['ws'] = 'wildskill gaming',
+	['wildskill'] = 'wildskill gaming',
+	['wildskill gaming'] = { pos = 689, long = 'WildSkill Gaming', short = 'wS' },
+	
+	['woa'] = 'wings of aurora',
+	['wings of aurora'] = { pos = 690, long = 'Wings of Aurora', short = 'WOA' },
+	
+	['woa 2'] = 'wings of aurora 2',
+	['wings of aurora 2'] = { pos = 690, long = 'Wings of Aurora 2', short = 'WOA 2' },
+	
+	['woa 3'] = 'wings of aurora 3',
+	['wings of aurora 3'] = { pos = 690, long = 'Wings of Aurora 3', short = 'WOA 3' },
+	
+        ['wfx'] = 'winterfox',
+	['winterfox'] = { pos = 770, long = 'Winterfox', short = 'WFX' },
+
+	['wizards'] = 'wizards e-sports club',
+	['wizards e-sports club'] = { pos = 691, long = 'Wizards e-Sports Club', short = 'Wizards' },
+	
+	['wss'] = 'world series',
+	['world series'] = { pos = 692, long = 'WORLD SERIES', short = 'WSS' },
+
+        ['wSystem'] = 'wSystem',
+	['wSystem'] = { pos = 721, long = 'wSystem', short = 'wSystem' },
+	
+	
+	-- X
+	['x6'] = 'x6tence',
+	['x6tence'] = { pos = 418, long = 'x6tence', short = 'x6' },
+	
+	['xd'] = { pos = 693, long = 'XD', short = 'XD' },
+	
+	['xd.gg'] = 'xdg gaming',
+	['xdg'] = 'xdg gaming',
+	['xdg gaming'] = { pos = 616, long = 'XDG Gaming', short = 'XDG' },
+	
+	['xenics blast'] = { pos = 694, long = 'Xenics Blast', short = 'Blast' },
+	
+	['storm'] = 'xenics storm',
+	['xenics storm'] = { pos = 695, long = 'Xenics Storm', short = 'Storm' },
+	
+	['xenics-op'] = 'xenics-op united',
+	['xenics-op united'] = { pos = 696, long = 'Xenics-OP United', short = 'Xenics-OP' },
+	
+	['nxg'] = 'xgame',
+	['netxgame'] = 'xgame',
+	['xgame'] = { pos = 697, long = 'XGame', short = 'XGame' },
+	
+	['xp'] = 'xperience esports club',
+	['xperience esports club'] = { pos = 698, long = 'xPerience eSports Club', short = 'xP' },
+	
+	
+	-- Y
+	['yso'] = 'y so e-sports',
+	['y so'] = 'y so e-sports',
+	['y so e-sports'] = { pos = 699, long = 'y so E-Sports', short = 'y so' },
+	
+	['yoe.fw'] = 'yoe flash wolves',
+	['flash wolves'] = 'yoe flash wolves',
+	['yoe flash wolves'] = { pos = 700, long = 'yoe Flash Wolves', short = 'yoe.FW' },
+	
+	['yoe.fw j'] = 'yoe flash wolves junior',
+	['yoe.fw junior'] = 'yoe flash wolves junior',
+	['yoe flash wolves junior'] = { pos = 700, long = 'yoe Flash Wolves Junior', short = 'yoe.FW J' },
+	
+	['yoe ironmen'] = 'yoe.im',
+	['yoe.im'] = { pos = 701, long = 'yoe IRONMEN', short = 'yoe.IM' },
+	
+	['ycsm'] = 'youcantstopme',
+	['youcantstopme'] = { pos = 702, long = 'YouCantStopMe', short = 'YCSM' },
+	
+	['yg'] = 'young glory',
+	['young glory'] = { pos = 703, long = 'Young Glory', short = 'YG' },
+	
+	['yssc'] = 'your soul shall chuffer',
+	['your soul shall chuffer'] = { pos = 704, long = 'Your Soul Shall Chuffer', short = 'YSSC' },
+	
+	['ycvs'] = 'yu chang vs high school',
+	['yu chang vs high school'] = { pos = 705, long = 'Yu Chang VS High School', short = 'YCVS' },
+	
+	
+	-- Z
+        ['zen'] = 'zenith esports',
+	['zenith esports'] = { pos = 745, long = 'Zenith eSports', short = 'ZEN' },
+
+
+	['zoo'] = 'zenith of origin',
+	['zenith of origin'] = { pos = 706, long = 'Zenith of Origin', short = 'Zoo' },
+	
+	['zoo 1'] = 'zenith of origin 1',
+	['zenith of origin 1'] = { pos = 706, long = 'Zenith of Origin 1', short = 'Zoo 1' },
+	
+	['zoo 2'] = 'zenith of origin 2',
+	['zenith of origin 2'] = { pos = 706, long = 'Zenith of Origin 2', short = 'Zoo 2' },
+	
+	['zone'] = 'zone esports',
+	['zone esports'] = { pos = 707, long = 'Zone eSports', short = 'Zone' },
+	
+        ['269'] = 'zotac 269',
+	['zotac 269'] = { pos = 729, long = 'Zotac 269', short = '269' },
+
+        ['zdc'] = 'zotac dclub',
+	['zotac dclub'] = { pos = 755, long = 'Zotac DClub', short = 'ZDC' },
+
+	['zstar'] = { pos = 708, long = 'Zstar', short = 'Zstar' },
+	
+	
+	-- ASIAN SIGNS
+	['姊姊'] = '就說�?�?好�?�愛',
+	['�?�?'] = '就說�?�?好�?�愛',
+	['就說姊姊好�?�愛'] = '就說�?�?好�?�愛',
+	['就說�?�?好�?�愛'] = { pos = 709, long = '就說姊姊好�?�愛', short = '姊姊' },
+	
+	['巅峰势力'] = { pos = 710, long = '巅峰势力', short = '巅峰势力' },
+	
+	['饭团'] = { pos = 711, long = '饭团', short = '饭团' },
+}</rev></revisions></page></pages></query></api>
