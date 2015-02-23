@@ -6,6 +6,8 @@ import java.io.*;
 import java.text.*;
 import java.net.*;
 import java.io.File;
+import java.awt.image.*;
+import javax.imageio.*;
 
 public class Tools {
 	/**
@@ -47,19 +49,23 @@ public class Tools {
 
 	public static ArrayList<String> getCacheFile(String file) {
 		ArrayList<String> tokens = new ArrayList<String>();
+		BufferedReader reader;
+		FileReader freader;
 		String line;
 		try {
-			FileReader freader = new FileReader(new File(file));
-			BufferedReader reader = new BufferedReader(freader);
+			freader = new FileReader(new File(file));
+			reader = new BufferedReader(freader);
 			while ((line = reader.readLine()) != null) {
 				tokens.add(line);
 			}
+			freader.close();
 			reader.close();
 		} catch (FileNotFoundException f) {
 			//
 		} catch (IOException i) {
 			//
 		}
+		
 		return tokens;
 	}
 
@@ -92,6 +98,17 @@ public class Tools {
 			System.out.println("IOException: " + e);
 		}
 		return tokens;
+	}
+	
+	public static BufferedImage loadImage() {
+		BufferedImage img = null;
+		try {
+			img = ImageIO.read(new File("TeamSprite.png"));
+			return img;
+		} catch (IOException e) {
+			System.out.println(e);
+		}
+		return img;
 	}
 
 	public static Map<String, Team> teamDict() {

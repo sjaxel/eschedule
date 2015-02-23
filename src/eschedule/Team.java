@@ -1,6 +1,7 @@
 package eschedule;
 
 import java.util.*;
+import java.awt.image.*;
 
 /**
  * Class for storing information about a team.
@@ -11,8 +12,9 @@ import java.util.*;
 public class Team {
 	private String name;
 	private String shortname;
-	private int sprite;
-
+	private int spritepos;
+	private BufferedImage img;
+	
 	public Team(String shortname, String name) {
 		this.name = name;
 		this.shortname = shortname;
@@ -37,8 +39,17 @@ public class Team {
 		shortname = sname;
 	}
 
-	public void setSprite(int i) {
-		sprite = i;
+	public void setSpritePos(int i) {
+		spritepos = i;
+	}
+	
+	public BufferedImage getSprite() {
+		if (img == null) {
+			img = SpriteGet.getSprite(spritepos);
+			return img;
+		} else {
+			return img;
+		}
 	}
 
 	public boolean isValid() {

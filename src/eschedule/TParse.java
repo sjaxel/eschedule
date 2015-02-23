@@ -161,6 +161,9 @@ public class TParse {
 				String s = SParse.getValue(scanner.next(), "post");
 				String substring = s.trim().substring(1, s.length() - 1);
 				t.setShortName(substring);
+			} else if (scanner.hasNext(".*pos.*")) {
+				String s = SParse.getValue(scanner.next(), "post");
+				t.setSpritePos(Integer.parseInt(s));
 			} else {
 				scanner.next();
 			}

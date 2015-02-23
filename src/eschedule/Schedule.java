@@ -25,6 +25,10 @@ public class Schedule {
 		}
 		return getMatches;
 	}
+	
+	public List<Match> getMatch() {
+		return matches;
+	}
 
 	public int getSize() {
 		return matches.size();
