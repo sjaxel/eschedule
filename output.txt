@@ -61,7 +61,7 @@
 !height=&quot;150&quot; width=&quot;150&quot; align=&quot;center&quot; valign=&quot;top&quot;|
 {{TeamImage|Elements}}
 |-
-|'''{{player|Wickd|flag=dk}}'''
+|'''{{player|kev1n|flag=de}}'''
 |-
 |'''{{player|Shook|flag=nl}}'''
 |-
@@ -69,7 +69,7 @@
 |-
 |'''{{player|Rekkles|flag=se}}'''
 |-
-|'''{{player|Nyph|flag=de}}'''
+|'''{{player|Krepo|flag=be}}'''
 |}
 {{box|break}}
 
@@ -99,7 +99,7 @@
 |-
 |'''{{player|Diamondprox|flag=ru}}'''
 |-
-|'''{{player|niQ|flag=pl}}'''
+|'''{{player|Betsy|flag=se}}'''
 |-
 |'''{{player|P1noy|flag=dk}}'''
 |-
@@ -138,7 +138,7 @@
 |-
 |'''{{player|Hjärnan|flag=se}}'''
 |-
-|'''{{player|Voidle|flag=ee}}'''
+|'''{{player|kaSing|flag=uk}}'''
 |}
 {{box|break}}
 
@@ -147,7 +147,7 @@
 !height=&quot;150&quot; width=&quot;150&quot; align=&quot;center&quot; valign=&quot;top&quot;|
 {{TeamImage|MeetYourMakers}}'''
 |-
-|'''{{player|Mimer|flag=se}}'''
+|'''{{player|Jwaow|flag=se}}'''
 |-
 |'''{{player|H0R0|flag=kr}}'''
 |-
@@ -216,119 +216,119 @@
 ==Results==
 {{Box2|start|padding=1em}}
 {{GroupTableStart| Season Rankings |width=320px}}
-{{LCSTableSlot|team=sk              |place=1|wins=8|losses=2|bg=|pbg=up}}
-{{LCSTableSlot|team=fnatic          |place=2|wins=7|losses=3|bg=|pbg=up}}
-{{LCSTableSlot|team=cw              |place=3|wins=6|losses=4|bg=|pbg=up}}
-{{LCSTableSlot|team=h2k             |place=3|wins=6|losses=4|bg=|pbg=up}}
-{{LCSTableSlot|team=uol             |place=5|wins=5|losses=5|bg=|pbg=up}}
-{{LCSTableSlot|team=gg              |place=5|wins=5|losses=5|bg=|pbg=up}}
-{{LCSTableSlot|team=elements        |place=7|wins=4|losses=6|bg=|pbg=up}}
-{{LCSTableSlot|team=roccat          |place=7|wins=4|losses=6|bg=|pbg=up}}
-{{LCSTableSlot|team=giants!         |place=7|wins=4|losses=6|bg=|pbg=up}}
-{{LCSTableSlot|team=mym             |place=10|wins=1|losses=9|bg=|pbg=down}}
+{{LCSTableSlot|team=sk              |place=1|wins=12|losses=3|bg=|pbg=sf}}
+{{LCSTableSlot|team=fnc             |place=2|wins=11|losses=5|bg=|pbg=sf}}
+{{LCSTableSlot|team=h2k             |place=2|wins=11|losses=5|bg=|pbg=qf}}
+{{LCSTableSlot|team=gg              |place=4|wins=9|losses=7|bg=|pbg=qf}}
+{{LCSTableSlot|team=uol             |place=4|wins=9|losses=7|bg=|pbg=qf}}
+{{LCSTableSlot|team=cw              |place=6|wins=7|losses=9|bg=|pbg=qf}}
+{{LCSTableSlot|team=elements        |place=7|wins=6|losses=10|bg=|pbg=lcs}}
+{{LCSTableSlot|team=roccat          |place=7|wins=6|losses=10|bg=|pbg=promo}}
+{{LCSTableSlot|team=giants!         |place=9|wins=4|losses=12|bg=|pbg=promo}}
+{{LCSTableSlot|team=mym             |place=9|wins=4|losses=12|bg=|pbg=cs}}
 {{GroupTableEnd}}
 {{Box|break|padding=1em}}
 {{Crossbox
 |team1=cw
-   |t1t2score=0 - 1|t1t2winner=2&lt;!--elements--&gt;
-   |t1t3score=1 - 0|t1t3winner=1&lt;!--fnatic--&gt;
-   |t1t4score=1 - 0|t1t4winner=1&lt;!--gg--&gt;
+   |t1t2score=1 - 1|t1t2winner=draw&lt;!--elements--&gt;
+   |t1t3score=1 - 1|t1t3winner=draw&lt;!--fnatic--&gt;
+   |t1t4score=1 - 1|t1t4winner=draw&lt;!--gg--&gt;
    |t1t5score=0 - 1|t1t5winner=2&lt;!--giants!--&gt;
-   |t1t6score=1 - 0|t1t6winner=1&lt;!--h2k--&gt;
+   |t1t6score=1 - 1|t1t6winner=draw&lt;!--h2k--&gt;
    |t1t7score=1 - 1|t1t7winner=draw&lt;!--mym--&gt;
    |t1t8score=1 - 0|t1t8winner=1&lt;!--roccat--&gt;
-   |t1t9score=0 - 1|t1t9winner=2&lt;!--sk--&gt;
-   |t1t10score=1 - 0|t1t10winner=1&lt;!--uol--&gt;
+   |t1t9score=0 - 2|t1t9winner=2&lt;!--sk--&gt;
+   |t1t10score=1 - 1|t1t10winner=draw&lt;!--uol--&gt;
 |team2=elements
-   |t2t1score=1 - 0|t2t1winner=1&lt;!--cw--&gt;
+   |t2t1score=1 - 1|t2t1winner=draw&lt;!--cw--&gt;
    |t2t3score=0 - 1|t2t3winner=2&lt;!--fnatic--&gt;
-   |t2t4score=0 - 1|t2t4winner=2&lt;!--gg--&gt;
+   |t2t4score=0 - 2|t2t4winner=2&lt;!--gg--&gt;
    |t2t5score=0 - 1|t2t5winner=2&lt;!--giants!--&gt;
-   |t2t6score=0 - 1|t2t6winner=2&lt;!--h2k--&gt;
-   |t2t7score=1 - 0|t2t7winner=1&lt;!--mym--&gt;
+   |t2t6score=1 - 1|t2t6winner=draw&lt;!--h2k--&gt;
+   |t2t7score=2 - 0|t2t7winner=1&lt;!--mym--&gt;
    |t2t8score=1 - 1|t2t8winner=draw&lt;!--roccat--&gt;
-   |t2t9score=0 - 1|t2t9winner=2&lt;!--sk--&gt;
-   |t2t10score=1 - 0|t2t10winner=1&lt;!--uol--&gt;
+   |t2t9score=0 - 2|t2t9winner=2&lt;!--sk--&gt;
+   |t2t10score=1 - 1|t2t10winner=draw&lt;!--uol--&gt;
 |team3=fnatic
-   |t3t1score=0 - 1|t3t1winner=2&lt;!--cw--&gt;
+   |t3t1score=1 - 1|t3t1winner=draw&lt;!--cw--&gt;
    |t3t2score=1 - 0|t3t2winner=1&lt;!--elements--&gt;
    |t3t4score=1 - 1|t3t4winner=draw&lt;!--gg--&gt;
-   |t3t5score=1 - 0|t3t5winner=1&lt;!--giants!--&gt;
+   |t3t5score=2 - 0|t3t5winner=1&lt;!--giants!--&gt;
    |t3t6score=1 - 0|t3t6winner=1&lt;!--h2k--&gt;
-   |t3t7score=1 - 0|t3t7winner=1&lt;!--mym--&gt;
-   |t3t8score=1 - 0|t3t8winner=1&lt;!--roccat--&gt;
-   |t3t9score=1 - 0|t3t9winner=1&lt;!--sk--&gt;
-   |t3t10score=0 - 1|t3t10winner=2&lt;!--uol--&gt;
+   |t3t7score=2 - 0|t3t7winner=1&lt;!--mym--&gt;
+   |t3t8score=2 - 0|t3t8winner=1&lt;!--roccat--&gt;
+   |t3t9score=1 - 1|t3t9winner=draw&lt;!--sk--&gt;
+   |t3t10score=0 - 2|t3t10winner=2&lt;!--uol--&gt;
 |team4=gg
-   |t4t1score=0 - 1|t4t1winner=2&lt;!--cw--&gt;
-   |t4t2score=1 - 0|t4t2winner=1&lt;!--elements--&gt;
+   |t4t1score=1 - 1|t4t1winner=draw&lt;!--cw--&gt;
+   |t4t2score=2 - 0|t4t2winner=1&lt;!--elements--&gt;
    |t4t3score=1 - 1|t4t3winner=draw&lt;!--fnatic--&gt;
-   |t4t5score=1 - 0|t4t5winner=1&lt;!--giants!--&gt;
-   |t4t6score=1 - 0|t4t6winner=1&lt;!--h2k--&gt;
-   |t4t7score=1 - 0|t4t7winner=1&lt;!--mym--&gt;
-   |t4t8score=0 - 1|t4t8winner=2&lt;!--roccat--&gt;
+   |t4t5score=2 - 0|t4t5winner=1&lt;!--giants!--&gt;
+   |t4t6score=1 - 1|t4t6winner=draw&lt;!--h2k--&gt;
+   |t4t7score=1 - 1|t4t7winner=draw&lt;!--mym--&gt;
+   |t4t8score=1 - 1|t4t8winner=draw&lt;!--roccat--&gt;
    |t4t9score=0 - 1|t4t9winner=2&lt;!--sk--&gt;
    |t4t10score=0 - 1|t4t10winner=2&lt;!--uol--&gt;
 |team5=giants!
    |t5t1score=1 - 0|t5t1winner=1&lt;!--cw--&gt;
    |t5t2score=1 - 0|t5t2winner=1&lt;!--elements--&gt;
-   |t5t3score=0 - 1|t5t3winner=2&lt;!--fnatic--&gt;
-   |t5t4score=0 - 1|t5t4winner=2&lt;!--gg--&gt;
-   |t5t6score=0 - 1|t5t6winner=2&lt;!--h2k--&gt;
-   |t5t7score=1 - 0|t5t7winner=1&lt;!--mym--&gt;
-   |t5t8score=0 - 1|t5t8winner=2&lt;!--roccat--&gt;
-   |t5t9score=0 - 1|t5t9winner=2&lt;!--sk--&gt;
+   |t5t3score=0 - 2|t5t3winner=2&lt;!--fnatic--&gt;
+   |t5t4score=0 - 2|t5t4winner=2&lt;!--gg--&gt;
+   |t5t6score=0 - 2|t5t6winner=2&lt;!--h2k--&gt;
+   |t5t7score=1 - 1|t5t7winner=draw&lt;!--mym--&gt;
+   |t5t8score=0 - 2|t5t8winner=2&lt;!--roccat--&gt;
+   |t5t9score=0 - 2|t5t9winner=2&lt;!--sk--&gt;
    |t5t10score=1 - 1|t5t10winner=draw&lt;!--uol--&gt;
 |team6=h2k
-   |t6t1score=0 - 1|t6t1winner=2&lt;!--cw--&gt;
-   |t6t2score=1 - 0|t6t2winner=1&lt;!--elements--&gt;
+   |t6t1score=1 - 1|t6t1winner=draw&lt;!--cw--&gt;
+   |t6t2score=1 - 1|t6t2winner=draw&lt;!--elements--&gt;
    |t6t3score=0 - 1|t6t3winner=2&lt;!--fnatic--&gt;
-   |t6t4score=0 - 1|t6t4winner=2&lt;!--gg--&gt;
-   |t6t5score=1 - 0|t6t5winner=1&lt;!--giants!--&gt;
-   |t6t7score=1 - 0|t6t7winner=1&lt;!--mym--&gt;
-   |t6t8score=1 - 0|t6t8winner=1&lt;!--roccat--&gt;
+   |t6t4score=1 - 1|t6t4winner=draw&lt;!--gg--&gt;
+   |t6t5score=2 - 0|t6t5winner=1&lt;!--giants!--&gt;
+   |t6t7score=2 - 0|t6t7winner=1&lt;!--mym--&gt;
+   |t6t8score=2 - 0|t6t8winner=1&lt;!--roccat--&gt;
    |t6t9score=1 - 1|t6t9winner=draw&lt;!--sk--&gt;
    |t6t10score=1 - 0|t6t10winner=1&lt;!--uol--&gt;
 |team7=mym
    |t7t1score=1 - 1|t7t1winner=draw&lt;!--cw--&gt;
-   |t7t2score=0 - 1|t7t2winner=2&lt;!--elements--&gt;
-   |t7t3score=0 - 1|t7t3winner=2&lt;!--fnatic--&gt;
-   |t7t4score=0 - 1|t7t4winner=2&lt;!--gg--&gt;
-   |t7t5score=0 - 1|t7t5winner=2&lt;!--giants!--&gt;
-   |t7t6score=0 - 1|t7t6winner=2&lt;!--h2k--&gt;
+   |t7t2score=0 - 2|t7t2winner=2&lt;!--elements--&gt;
+   |t7t3score=0 - 2|t7t3winner=2&lt;!--fnatic--&gt;
+   |t7t4score=1 - 1|t7t4winner=draw&lt;!--gg--&gt;
+   |t7t5score=1 - 1|t7t5winner=draw&lt;!--giants!--&gt;
+   |t7t6score=0 - 2|t7t6winner=2&lt;!--h2k--&gt;
    |t7t8score=0 - 1|t7t8winner=2&lt;!--roccat--&gt;
    |t7t9score=0 - 1|t7t9winner=2&lt;!--sk--&gt;
-   |t7t10score=0 - 1|t7t10winner=2&lt;!--uol--&gt;
+   |t7t10score=1 - 1|t7t10winner=draw&lt;!--uol--&gt;
 |team8=roccat
    |t8t1score=0 - 1|t8t1winner=2&lt;!--cw--&gt;
    |t8t2score=1 - 1|t8t2winner=draw&lt;!--elements--&gt;
-   |t8t3score=0 - 1|t8t3winner=2&lt;!--fnatic--&gt;
-   |t8t4score=1 - 0|t8t4winner=1&lt;!--gg--&gt;
-   |t8t5score=1 - 0|t8t5winner=1&lt;!--giants!--&gt;
-   |t8t6score=0 - 1|t8t6winner=2&lt;!--h2k--&gt;
+   |t8t3score=0 - 2|t8t3winner=2&lt;!--fnatic--&gt;
+   |t8t4score=1 - 1|t8t4winner=draw&lt;!--gg--&gt;
+   |t8t5score=2 - 0|t8t5winner=1&lt;!--giants!--&gt;
+   |t8t6score=0 - 2|t8t6winner=2&lt;!--h2k--&gt;
    |t8t7score=1 - 0|t8t7winner=1&lt;!--mym--&gt;
-   |t8t9score=0 - 1|t8t9winner=2&lt;!--sk--&gt;
-   |t8t10score=0 - 1|t8t10winner=2&lt;!--uol--&gt;
+   |t8t9score=0 - 2|t8t9winner=2&lt;!--sk--&gt;
+   |t8t10score=1 - 1|t8t10winner=draw&lt;!--uol--&gt;
 |team9=sk
-   |t9t1score=1 - 0|t9t1winner=1&lt;!--cw--&gt;
-   |t9t2score=1 - 0|t9t2winner=1&lt;!--elements--&gt;
-   |t9t3score=0 - 1|t9t3winner=2&lt;!--fnatic--&gt;
+   |t9t1score=2 - 0|t9t1winner=1&lt;!--cw--&gt;
+   |t9t2score=2 - 0|t9t2winner=1&lt;!--elements--&gt;
+   |t9t3score=1 - 1|t9t3winner=draw&lt;!--fnatic--&gt;
    |t9t4score=1 - 0|t9t4winner=1&lt;!--gg--&gt;
-   |t9t5score=1 - 0|t9t5winner=1&lt;!--giants!--&gt;
+   |t9t5score=2 - 0|t9t5winner=1&lt;!--giants!--&gt;
    |t9t6score=1 - 1|t9t6winner=draw&lt;!--h2k--&gt;
    |t9t7score=1 - 0 |t9t7winner=1&lt;!--mym--&gt;
-   |t9t8score=1 - 0|t9t8winner=1&lt;!--roccat--&gt;
-   |t9t10score=1 - 0|t9t10winner=1&lt;!--uol--&gt;
+   |t9t8score=2 - 0|t9t8winner=1&lt;!--roccat--&gt;
+   |t9t10score=1 - 1|t9t10winner=draw&lt;!--uol--&gt;
 |team10=uol
-   |t10t1score=0 - 1|t10t1winner=2&lt;!--cw--&gt;
-   |t10t2score=0 - 1|t10t2winner=2&lt;!--elements--&gt;
-   |t10t3score=1 - 0|t10t3winner=1&lt;!--fnatic--&gt;
+   |t10t1score=1 - 1|t10t1winner=draw&lt;!--cw--&gt;
+   |t10t2score=1 - 1|t10t2winner=draw&lt;!--elements--&gt;
+   |t10t3score=2 - 0|t10t3winner=1&lt;!--fnatic--&gt;
    |t10t4score=1 - 0|t10t4winner=1&lt;!--gg--&gt;
    |t10t5score=1 - 1|t10t5winner=draw&lt;!--giants!--&gt;
    |t10t6score=0 - 1|t10t6winner=2&lt;!--h2k--&gt;
-   |t10t7score=1 - 0|t10t7winner=1&lt;!--mym--&gt;
-   |t10t8score=1 - 0|t10t8winner=1&lt;!--roccat--&gt;
-   |t10t9score=0 - 1|t10t9winner=2&lt;!--sk--&gt;
+   |t10t7score=1 - 1|t10t7winner=draw&lt;!--uol--&gt;
+   |t10t8score=1 - 1|t10t8winner=draw&lt;!--roccat--&gt;
+   |t10t9score=1 - 1|t10t9winner=draw&lt;!--sk--&gt;
 }}
 {{Box2|end}}
 :''For detailed picks &amp; bans [[2015 EU LCS Spring/Scoreboards|Click Here]]''
@@ -340,33 +340,55 @@
 Patch=
 {|class=&quot;prettytable&quot;
 |align=&quot;center&quot; width=&quot;150px&quot;|'''Patch'''
-|align=&quot;center&quot; colspan=&quot;2&quot; bgcolor=&quot;#CFC&quot;|'''[[v5.1|5.1]]'''
-|align=&quot;center&quot; colspan=&quot;2&quot; bgcolor=&quot;#FFFF99&quot;|'''[[v5.2|5.2]]'''
-|align=&quot;center&quot; colspan=&quot;1&quot; bgcolor=&quot;#CFC&quot;|'''[[v5.3|5.3]]'''
-|align=&quot;center&quot; width=&quot;50px&quot;|
-|align=&quot;center&quot; width=&quot;50px&quot;|
-|align=&quot;center&quot; width=&quot;50px&quot;|
-|align=&quot;center&quot; width=&quot;50px&quot;|
+|align=&quot;center&quot; colspan=&quot;4&quot; |'''[[v5.1|5.1]]'''
+|align=&quot;center&quot; colspan=&quot;4&quot; |'''[[v5.2|5.2]]'''
+|align=&quot;center&quot; colspan=&quot;4&quot; |'''[[v5.3|5.3]]'''
+|align=&quot;center&quot; colspan=&quot;2&quot; |'''[[v5.4|5.4]]'''
+|align=&quot;center&quot; colspan=&quot;2&quot; |'''[[v5.5|5.5]]'''
+|align=&quot;center&quot; colspan=&quot;2&quot; |'''[[v5.x|5.x]]'''
 |-
 |align=&quot;center&quot; width=&quot;150px&quot;|'''Week'''
-|align=&quot;center&quot; width=&quot;50px&quot;|'''1'''
-|align=&quot;center&quot; width=&quot;50px&quot;|'''2'''
-|align=&quot;center&quot; width=&quot;auto&quot;|'''3'''
-|align=&quot;center&quot; width=&quot;50px&quot;|'''4'''
-|align=&quot;center&quot; width=&quot;50px&quot;|'''5'''
-|align=&quot;center&quot; width=&quot;50px&quot;|
-|align=&quot;center&quot; width=&quot;50px&quot;|
-|align=&quot;center&quot; width=&quot;50px&quot;|
-|align=&quot;center&quot; width=&quot;50px&quot;|
+|align=&quot;center&quot; colspan=&quot;2&quot;|'''1'''
+|align=&quot;center&quot; colspan=&quot;2&quot;|'''2'''
+|align=&quot;center&quot; colspan=&quot;2&quot;|'''3'''
+|align=&quot;center&quot; colspan=&quot;2&quot;|'''4'''
+|align=&quot;center&quot; colspan=&quot;2&quot;|'''5'''
+|align=&quot;center&quot; colspan=&quot;2&quot;|'''6'''
+|align=&quot;center&quot; colspan=&quot;2&quot;|'''7'''
+|align=&quot;center&quot; colspan=&quot;2&quot;|'''8'''
+|align=&quot;center&quot; colspan=&quot;2&quot;|'''9'''
+|-
+|align=&quot;center&quot; width=&quot;150px&quot;|'''Day'''
+|align=&quot;center&quot; width=&quot;30px&quot;|'''1'''
+|align=&quot;center&quot; width=&quot;30px&quot;|'''2'''
+|align=&quot;center&quot; width=&quot;auto&quot;|'''1'''
+|align=&quot;center&quot; width=&quot;30px&quot;|'''2'''
+|align=&quot;center&quot; width=&quot;30px&quot;|'''1'''
+|align=&quot;center&quot; width=&quot;30px&quot;|'''2'''
+|align=&quot;center&quot; width=&quot;30px&quot;|'''1'''
+|align=&quot;center&quot; width=&quot;30px&quot;|'''2'''
+|align=&quot;center&quot; width=&quot;30px&quot;|'''1'''
+|align=&quot;center&quot; width=&quot;30px&quot;|'''2'''
+|align=&quot;center&quot; width=&quot;30px&quot;|'''1'''
+|align=&quot;center&quot; width=&quot;30px&quot;|'''2'''
+|align=&quot;center&quot; width=&quot;30px&quot;|'''1'''
+|align=&quot;center&quot; width=&quot;30px&quot;|'''2'''
+|align=&quot;center&quot; width=&quot;30px&quot;|'''1'''
+|align=&quot;center&quot; width=&quot;auto&quot;|'''2'''
+|align=&quot;center&quot; width=&quot;30px&quot;|'''1'''
+|align=&quot;center&quot; width=&quot;30px&quot;|'''2'''
 |-
 |align=&quot;center&quot; width=&quot;150px&quot;|'''Disabled Champion/s'''
-|align=&quot;center&quot; width=&quot;50px&quot;|{{ci|notext=1|Maokai|size=30}}
-|align=&quot;center&quot; width=&quot;50px&quot;|'''---'''
-|align=&quot;center&quot; width=&quot;auto&quot;|{{ci|notext=1|Tristana|size=30}} {{ci|notext=1|Fizz|size=30}}'''&lt;sup&gt;&lt;/sup&gt;'''
+|align=&quot;center&quot; colspan=&quot;2&quot;|{{ci|notext=1|Maokai|size=30}}
+|align=&quot;center&quot; colspan=&quot;2&quot;|[[File:None.png]]
+|align=&quot;center&quot; colspan=&quot;2&quot;|{{ci|notext=1|Tristana|size=30}} {{ci|notext=1|Fizz|size=30}}
+|align=&quot;center&quot; width=&quot;50px&quot;|[[File:None.png]]
 |align=&quot;center&quot; width=&quot;50px&quot;|{{ci|notext=1|Fizz|size=30}}
-|align=&quot;center&quot; width=&quot;50px&quot;|'''---'''
-|align=&quot;center&quot; width=&quot;50px&quot;|
-|align=&quot;center&quot; width=&quot;50px&quot;|
+|align=&quot;center&quot; colspan=&quot;2&quot;|[[File:None.png]]
+|align=&quot;center&quot; colspan=&quot;2&quot;|[[File:None.png]]
+|align=&quot;center&quot; colspan=&quot;2&quot;|{{ci|notext=1|Veigar|size=30}} {{ci|notext=1|Zilean|size=30}}
+|align=&quot;center&quot; width=&quot;50px&quot;|{{ci|notext=1|Bard|size=30}}
+|align=&quot;center&quot; width=&quot;auto&quot;|{{ci|notext=1|Bard|size=30}} {{ci|notext=1|Viktor|size=30}}
 |align=&quot;center&quot; width=&quot;50px&quot;|
 |align=&quot;center&quot; width=&quot;50px&quot;|
 |-
@@ -431,283 +453,43 @@ Week 2=
 
 ==Matches==
 &lt;tabber&gt;
-Week 5=
-{{box|start|padding=2em}}
-{{MatchList|title=Feb 19th |width=265px
-|hide=false
-|match1={{MatchMaps
-|team1=roccat
-|team2=cw
-|winner=2
-|map1win=2
-}}
-
-|match2={{MatchMaps
-|team1=elements
-|team2=giants!
-|winner=2
-|map1win=2
-}}
-
-|match3={{MatchMaps
-|team1=fnatic
-|team2=sk
-|winner=1
-|map1win=1
-}}
-
-|match4={{MatchMaps
-|team1=mym
-|team2=gg
-|winner=2
-|map1win=2
-}}
-
-|match5={{MatchMaps
-|team1=uol
-|team2=h2k
-|winner=2
-|map1win=2
-}}
-}}
-{{box|break|padding=2em}}
-
-{{MatchList|title=Feb 20th |width=265px
-|hide=false
-|match1={{MatchMaps
-|team1=fnatic
-|team2=gg
-|winner=2
-|map1win=2
-}}
-
-|match2={{MatchMaps
-|team1=roccat
-|team2=elements
-|winner=1
-|map1win=1
-}}
-
-|match3={{MatchMaps
-|team1=cw
-|team2=mym
-|winner=1
-|map1win=1
-}}
-
-|match4={{MatchMaps
-|team1=giants!
-|team2=uol
-|winner=1
-|map1win=1
-}}
-
-|match5={{MatchMaps
-|team1=sk
-|team2=h2k
-|winner=2
-|map1win=2
-}}
-}}
-{{box|end}}
-|-|
-Week 6=
-{{box|start|padding=2em}}
-{{MatchList|title=Feb 26th |width=265px
-|hide=false
-|match1={{MatchMaps
-|team1=giants!
-|team2=fnatic
-|winner=
-|map1win=
-}}
-
-|match2={{MatchMaps
-|team1=uol
-|team2=sk
-|winner=
-|map1win=
-}}
-
-|match3={{MatchMaps
-|team1=roccat
-|team2=h2k
-|winner=
-|map1win=
-}}
-
-|match4={{MatchMaps
-|team1=elements
-|team2=mym
-|winner=
-|map1win=
-}}
-
-|match5={{MatchMaps
-|team1=gg
-|team2=cw
-|winner=
-|map1win=
-}}
-}}
-{{box|break|padding=2em}}
-
-{{MatchList|title=Feb 27th |width=265px
-|hide=false
-|match1={{MatchMaps
-|team1=h2k
-|team2=giants!
-|winner=
-|map1win=
-}}
-
-|match2={{MatchMaps
-|team1=fnatic
-|team2=cw
-|winner=
-|map1win=
-}}
-
-|match3={{MatchMaps
-|team1=sk
-|team2=elements
-|winner=
-|map1win=
-}}
-
-|match4={{MatchMaps
-|team1=gg
-|team2=roccat
-|winner=
-|map1win=
-}}
-
-|match5={{MatchMaps
-|team1=uol
-|team2=mym
-|winner=
-|map1win=
-}}
-}}
-{{box|end}}
-|-|
-Week 7=
-{{box|start|padding=2em}}
-{{MatchList|title=Mar 5th |width=265px
-|hide=false
-|match1={{MatchMaps
-|team1=mym
-|team2=giants!
-|winner=
-|map1win=
-}}
-
-|match2={{MatchMaps
-|team1=h2k
-|team2=gg
-|winner=
-|map1win=
-}}
-
-|match3={{MatchMaps
-|team1=cw
-|team2=elements
-|winner=
-|map1win=
-}}
-
-|match4={{MatchMaps
-|team1=sk
-|team2=fnatic
-|winner=
-|map1win=
-}}
-
-|match5={{MatchMaps
-|team1=roccat
-|team2=uol
-|winner=
-|map1win=
-}}
-}}
-{{box|break|padding=2em}}
-
-{{MatchList|title=Mar 6th |width=265px
-|hide=false
-|match1={{MatchMaps
-|team1=roccat
-|team2=sk
-|winner=
-|map1win=
-}}
-
-|match2={{MatchMaps
-|team1=elements
-|team2=uol
-|winner=
-|map1win=
-}}
-
-|match3={{MatchMaps
-|team1=fnatic
-|team2=mym
-|winner=
-|map1win=
-}}
-
-|match4={{MatchMaps
-|team1=h2k
-|team2=cw
-|winner=
-|map1win=
-}}
-
-|match5={{MatchMaps
-|team1=gg
-|team2=giants!
-|winner=
-|map1win=
-}}
-}}
-{{box|end}}
-|-|
 Week 8=
 {{box|start|padding=2em}}
 {{MatchList|title=Mar 19th |width=265px
 |hide=false
 |match1={{MatchMaps
-|team1=elements
-|team2=h2k
-|winner=
-|map1win=
+|team1=gmb
+|team2=mym
+|winner=2
+|map1win=2
 }}
 
 |match2={{MatchMaps
-|team1=cw
-|team2=uol
-|winner=
-|map1win=
+|team1=roccat
+|team2=fnc
+|winner=2
+|map1win=2
 }}
 
 |match3={{MatchMaps
-|team1=roccat
-|team2=fnatic
-|winner=
-|map1win=
+|team1=cw
+|team2=uol
+|winner=2
+|map1win=2
 }}
 
 |match4={{MatchMaps
-|team1=gg
-|team2=mym
-|winner=
-|map1win=
+|team1=el
+|team2=h2k
+|winner=1
+|map1win=1
 }}
 
 |match5={{MatchMaps
 |team1=giants!
 |team2=sk
-|winner=
-|map1win=
+|winner=2
+|map1win=2
 }}
 }}
 {{box|break|padding=2em}}
@@ -717,36 +499,36 @@ Week 8=
 |match1={{MatchMaps
 |team1=mym
 |team2=h2k
-|winner=
-|map1win=
+|winner=2
+|map1win=2
 }}
 
 |match2={{MatchMaps
-|team1=giants!
-|team2=roccat
-|winner=
-|map1win=
+|team1=uol
+|team2=fnc
+|winner=1
+|map1win=1
 }}
 
 |match3={{MatchMaps
-|team1=elements
-|team2=gg
-|winner=
-|map1win=
+|team1=sk
+|team2=cw
+|winner=1
+|map1win=1
 }}
 
 |match4={{MatchMaps
-|team1=sk
-|team2=cw
-|winner=
-|map1win=
+|team1=gia
+|team2=roccat
+|winner=2
+|map1win=2
 }}
 
 |match5={{MatchMaps
-|team1=uol
-|team2=fnatic
-|winner=
-|map1win=
+|team1=el
+|team2=gmb
+|winner=2
+|map1win=2
 }}
 }}
 {{box|end}}
@@ -1150,6 +932,247 @@ Week 4=
 }}
 }}
 {{box|end}}
+|-|
+Week 5=
+{{box|start|padding=2em}}
+{{MatchList|title=Feb 19th |width=265px
+|hide=false
+|match1={{MatchMaps
+|team1=roccat
+|team2=cw
+|winner=2
+|map1win=2
+}}
+
+|match2={{MatchMaps
+|team1=elements
+|team2=giants!
+|winner=2
+|map1win=2
+}}
+
+|match3={{MatchMaps
+|team1=fnatic
+|team2=sk
+|winner=1
+|map1win=1
+}}
+
+|match4={{MatchMaps
+|team1=mym
+|team2=gg
+|winner=2
+|map1win=2
+}}
+
+|match5={{MatchMaps
+|team1=uol
+|team2=h2k
+|winner=2
+|map1win=2
+}}
+}}
+{{box|break|padding=2em}}
+
+{{MatchList|title=Feb 20th |width=265px
+|hide=false
+|match1={{MatchMaps
+|team1=fnatic
+|team2=gg
+|winner=2
+|map1win=2
+}}
+
+|match2={{MatchMaps
+|team1=roccat
+|team2=elements
+|winner=1
+|map1win=1
+}}
+
+|match3={{MatchMaps
+|team1=cw
+|team2=mym
+|winner=1
+|map1win=1
+}}
+
+|match4={{MatchMaps
+|team1=giants!
+|team2=uol
+|winner=1
+|map1win=1
+}}
+
+|match5={{MatchMaps
+|team1=sk
+|team2=h2k
+|winner=2
+|map1win=2
+}}
+}}
+{{box|end}}
+|-|
+Week 6=
+{{box|start|padding=2em}}
+{{MatchList|title=Feb 26th |width=265px
+|hide=false
+|match1={{MatchMaps
+|team1=giants!
+|team2=fnatic
+|winner=2
+|map1win=2
+}}
+
+|match2={{MatchMaps
+|team1=uol
+|team2=sk
+|winner=1
+|map1win=1
+}}
+
+|match3={{MatchMaps
+|team1=roccat
+|team2=h2k
+|winner=2
+|map1win=2
+}}
+
+|match4={{MatchMaps
+|team1=elements
+|team2=mym
+|winner=1
+|map1win=1
+}}
+
+|match5={{MatchMaps
+|team1=gg
+|team2=cw
+|winner=1
+|map1win=1
+}}
+}}
+{{box|break|padding=2em}}
+
+{{MatchList|title=Feb 27th |width=265px
+|hide=false
+|match1={{MatchMaps
+|team1=h2k
+|team2=giants!
+|winner=1
+|map1win=1
+}}
+
+|match2={{MatchMaps
+|team1=fnatic
+|team2=cw
+|winner=1
+|map1win=1
+}}
+
+|match3={{MatchMaps
+|team1=sk
+|team2=elements
+|winner=1
+|map1win=1
+}}
+
+|match4={{MatchMaps
+|team1=gg
+|team2=roccat
+|winner=1
+|map1win=1
+}}
+
+|match5={{MatchMaps
+|team1=uol
+|team2=mym
+|winner=2
+|map1win=2
+}}
+}}
+{{box|end}}
+
+|-|
+Week 7=
+{{box|start|padding=2em}}
+{{MatchList|title=Mar 5th |width=265px
+|hide=false
+|match1={{MatchMaps
+|team1=mym
+|team2=giants!
+|winner=1
+|map1win=1
+}}
+
+|match2={{MatchMaps
+|team1=h2k
+|team2=gg
+|winner=1
+|map1win=1
+}}
+
+|match3={{MatchMaps
+|team1=cw
+|team2=elements
+|winner=1
+|map1win=1
+}}
+
+|match4={{MatchMaps
+|team1=sk
+|team2=fnatic
+|winner=1
+|map1win=1
+}}
+
+|match5={{MatchMaps
+|team1=roccat
+|team2=uol
+|winner=1
+|map1win=1
+}}
+}}
+{{box|break|padding=2em}}
+
+{{MatchList|title=Mar 6th |width=265px
+|hide=false
+|match1={{MatchMaps
+|team1=roccat
+|team2=sk
+|winner=2
+|map1win=2
+}}
+
+|match2={{MatchMaps
+|team1=elements
+|team2=uol
+|winner=2
+|map1win=2
+}}
+
+|match3={{MatchMaps
+|team1=fnatic
+|team2=mym
+|winner=1
+|map1win=1
+}}
+
+|match4={{MatchMaps
+|team1=h2k
+|team2=cw
+|winner=1
+|map1win=1
+}}
+
+|match5={{MatchMaps
+|team1=gg
+|team2=giants!
+|winner=1
+|map1win=1
+}}
+}}
+{{box|end}}
 &lt;/tabber&gt;
 
 ==Weekly MVP &amp; OP Players==
@@ -1187,22 +1210,22 @@ Weekly MVP=
 | [[File:PowerOfEvil.jpg|30px]] [[PowerOfEvil]]
 |-
 | align=&quot;center&quot; | '''5th'''
-| align=&quot;center&quot; | 13.33 
-| align=&quot;center&quot; |{{ci|notext=1|Nidalee}} {{ci|notext=1|Rek'Sai}}
+| align=&quot;center&quot; | 13.3 
+| align=&quot;center&quot; | {{ci|notext=1|Nidalee}} {{ci|notext=1|Rek'Sai}}
 | align=&quot;center&quot; | {{team|gmb|notext=1|small=1}}
 | [[File:S3_Diamondprox.jpg|30px]] [[Diamondprox]]
 |-
 | align=&quot;center&quot; | '''6th'''
-| align=&quot;center&quot; | 
-| align=&quot;center&quot; |
-| align=&quot;center&quot; | {{team||notext=1|small=1}}
-| [[]]
+| align=&quot;center&quot; | 7.6
+| align=&quot;center&quot; | {{ci|notext=1|Maokai}}
+| align=&quot;center&quot; | {{team|h2k|notext=1|small=1}}
+| [[File:Nbu0lx.jpg|30px]] [[Odoamne]]
 |-
 | align=&quot;center&quot; | '''7th'''
-| align=&quot;center&quot; | 
-| align=&quot;center&quot; |
-| align=&quot;center&quot; | {{team||notext=1|small=1}}
-| [[]]
+| align=&quot;center&quot; | 5.6
+| align=&quot;center&quot; | {{ci|notext=1|LeBlanc}} {{ci|notext=1|Orianna}}
+| align=&quot;center&quot; | {{team|sk|notext=1|small=1}}
+| [[File:Watdefox.jpg|30px]] [[Fox]]
 |-
 | align=&quot;center&quot; | '''8th'''
 | align=&quot;center&quot; | 
@@ -1501,7 +1524,7 @@ OP 5 - W5=
 |-
 |align=&quot;center&quot;| '''Mid'''
 |align=&quot;center&quot;| {{team|gg|notext=1|size=50}}
-|align=&quot;left&quot;  | [[File:Gambit150.png|50px]] [[Betsy]]
+|align=&quot;left&quot;  | [[File:Betsy.jpg|50px]] [[Betsy]]
 |align=&quot;center&quot;| {{ci|Ezreal|notext=1|size=40}} {{ci|Ahri|notext=1|size=40}}
 |align=&quot;center&quot;|'''10'''
 |align=&quot;center&quot;|'''0'''
@@ -1519,8 +1542,122 @@ OP 5 - W5=
 |}
 |-|
 OP 5 - W6=
+{| class=&quot;prettytable&quot;
+| align=&quot;center&quot; colspan=&quot;8&quot;|'''OP Players - Week 6'''
+|-
+!width=60px|'''Role'''
+!width=25px|'''Team'''
+!width=auto;|'''Player'''
+!width=auto;|'''Champions Used'''
+!width=50px|'''Kills'''
+!width=50px|'''Deaths'''
+!width=50px|'''Assists'''
+!width=50px|'''KDA'''
+|-
+|align=&quot;center&quot;| '''Support'''
+|align=&quot;center&quot;| {{team|fnc|notext=1|size=50}}
+|align=&quot;left&quot;  | [[File:FNC_Yellowstar_2014_WCS.jpg|50px]] [[YellOwStaR]]
+|align=&quot;center&quot;| {{ci|Alistar|notext=1|size=40}}
+|align=&quot;center&quot;|'''0'''
+|align=&quot;center&quot;|'''2'''
+|align=&quot;center&quot;|'''26'''
+|align=&quot;center&quot;| '''13'''
+|-
+|align=&quot;center&quot;| '''Mid'''
+|align=&quot;center&quot;| {{team|h2k|notext=1|size=50}}
+|align=&quot;left&quot;  | [[File:Ktryu.jpg|50px]] [[Ryu]]
+|align=&quot;center&quot;| {{ci|Ahri|notext=1|size=40}} {{ci|Kassadin|notext=1|size=40}} 
+|align=&quot;center&quot;|'''16'''
+|align=&quot;center&quot;|'''5'''
+|align=&quot;center&quot;|'''10'''
+|align=&quot;center&quot;| '''5.2'''
+|-
+|align=&quot;center&quot;| '''Mid'''
+|align=&quot;center&quot;| {{team|fnc|notext=1|size=50}}
+|align=&quot;left&quot;  | [[File:H2KFebiven.jpg|50px]] [[Febiven]]
+|align=&quot;center&quot;| {{ci|Kassadin|notext=1|size=40}} {{ci|Ezreal|notext=1|size=40}}
+|align=&quot;center&quot;|'''12'''
+|align=&quot;center&quot;|'''2'''
+|align=&quot;center&quot;|'''13'''
+|align=&quot;center&quot;| '''12.5'''
+|-
+|align=&quot;center&quot;| '''Top'''
+|align=&quot;center&quot;| {{team|h2k|notext=1|size=50}}
+|align=&quot;left&quot;  | [[File:Nbu0lx.jpg|50px]] [[Odoamne]]
+|align=&quot;center&quot;| {{ci|Maokai|notext=1|size=40}}
+|align=&quot;center&quot;|'''6'''
+|align=&quot;center&quot;|'''5'''
+|align=&quot;center&quot;|'''32'''
+|align=&quot;center&quot;| '''7.6'''
+|-
+|align=&quot;center&quot;| '''Jungle'''
+|align=&quot;center&quot;| {{team|gmb|notext=1|size=50}}
+|align=&quot;left&quot;  | [[File:Cabochard.jpg|50px]] [[Cabochard]]
+|align=&quot;center&quot;| {{ci|Kennen|notext=1|size=40}} {{ci|Morgana|notext=1|size=40}}
+|align=&quot;center&quot;|'''7'''
+|align=&quot;center&quot;|'''3'''
+|align=&quot;center&quot;|'''14'''
+|align=&quot;center&quot;| '''7'''
+|}
 |-|
 OP 5 - W7=
+{| class=&quot;prettytable&quot;
+| align=&quot;center&quot; colspan=&quot;8&quot;|'''OP Players - Week 7'''
+|-
+!width=60px|'''Role'''
+!width=25px|'''Team'''
+!width=auto;|'''Player'''
+!width=auto;|'''Champions Used'''
+!width=50px|'''Kills'''
+!width=50px|'''Deaths'''
+!width=50px|'''Assists'''
+!width=50px|'''KDA'''
+|-
+|align=&quot;center&quot;| '''Mid'''
+|align=&quot;center&quot;| {{team|sk|notext=1|size=50}}
+|align=&quot;left&quot;  | [[File:Watdefox.jpg|50px]] [[Fox]]
+|align=&quot;center&quot;| {{ci|LeBlanc|notext=1|size=40}} {{ci|Orianna|notext=1|size=40}}
+|align=&quot;center&quot;|'''17'''
+|align=&quot;center&quot;|'''5'''
+|align=&quot;center&quot;|'''11'''
+|align=&quot;center&quot;| '''5.6'''
+|-
+|align=&quot;center&quot;| '''AD Carry'''
+|align=&quot;center&quot;| {{team|cw|notext=1|size=50}}
+|align=&quot;left&quot;  | [[File:NiP_Freeze.jpg|50px]] [[Freeze]]
+|align=&quot;center&quot;| {{ci|Kalista|notext=1|size=40}} {{ci|Graves|notext=1|size=40}} 
+|align=&quot;center&quot;|'''7'''
+|align=&quot;center&quot;|'''5'''
+|align=&quot;center&quot;|'''12'''
+|align=&quot;center&quot;| '''3.8'''
+|-
+|align=&quot;center&quot;| '''Mid'''
+|align=&quot;center&quot;| {{team|el|notext=1|size=50}}
+|align=&quot;left&quot;  | [[File:AFroggen2014Spring.jpg|50px]] [[Froggen]]
+|align=&quot;center&quot;| {{ci|Orianna|notext=1|size=40}} {{ci|Zed|notext=1|size=40}}
+|align=&quot;center&quot;|'''10'''
+|align=&quot;center&quot;|'''6'''
+|align=&quot;center&quot;|'''10'''
+|align=&quot;center&quot;| '''3.3'''
+|-
+|align=&quot;center&quot;| '''AD Carry'''
+|align=&quot;center&quot;| {{team|sk|notext=1|size=50}}
+|align=&quot;left&quot;  | [[File:CW_FORG1VEN.jpg|50px]] [[FORG1VEN]]
+|align=&quot;center&quot;| {{ci|Graves|notext=1|size=40}}
+|align=&quot;center&quot;|'''6'''
+|align=&quot;center&quot;|'''2'''
+|align=&quot;center&quot;|'''12'''
+|align=&quot;center&quot;| '''9'''
+|-
+|align=&quot;center&quot;| '''Support'''
+|align=&quot;center&quot;| {{team|h2k|notext=1|size=50}}
+|align=&quot;left&quot;  | [[File:D_Yerrow.jpg|50px]] [[kaSing]]
+|align=&quot;center&quot;| {{ci|Morgana|notext=1|size=40}} {{ci|Annie|notext=1|size=40}}
+|align=&quot;center&quot;|'''4'''
+|align=&quot;center&quot;|'''2'''
+|align=&quot;center&quot;|'''19'''
+|align=&quot;center&quot;| '''11.5'''
+|}
 |-|
 OP 5 - W8=
 |-|
@@ -1565,53 +1702,17 @@ Highlights=
 &lt;tabber&gt;
 Round Robin=
 {{#tag:tabber
-|Week 5=
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=roccat |team2=cw |t1score=0 |t2score=1 |winner=2 |date=2015-02-19 |CET=18:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=FTl7F7IEWC4 |analysis1=http://www.youtube.com/watch?v=KQPHhrdzC90 |start=1|title=Week 5  |customwidth=290 |hide=false}}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=elements |team2=giants! |t1score=0 |t2score=1 |winner=2 |date=2015-02-19 |CET=19:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=gcjqmZ4pz8k |analysis1=http://www.youtube.com/watch?v=SY1OAEVpbPY }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=fnatic |team2=sk |t1score=1 |t2score=0 |winner=1 |date=2015-02-19 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=e2Hz2Tuipws |analysis1=http://www.youtube.com/watch?v=QF1mPyiGLpg }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=mym |team2=gg |t1score=0 |t2score=1 |winner=2 |date=2015-02-19 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=LT7mINdK_ac |analysis1=http://www.youtube.com/watch?v=xCYvWCZ9PBw }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=uol |team2=h2k |t1score=0 |t2score=1 |winner=2 |date=2015-02-19 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=nSFl7_yFei4 |analysis1=http://www.youtube.com/watch?v=gOh4V092vX4}}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=fnatic |team2=gg |t1score=0 |t2score=1 |winner=2 |date=2015-02-20 |CET=18:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=G_uNhEoSah0 |analysis1=http://www.youtube.com/watch?v=cDwGVHVvaNE }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=roccat |team2=elements |t1score=1 |t2score=0 |winner=1 |date=2015-02-20 |CET=19:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=b_wxbgnRxpU |analysis1=http://www.youtube.com/watch?v=fuZn0bi0yfo }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=cw |team2=mym |t1score=1 |t2score=0 |winner=1 |date=2015-02-20 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=aqBho6ISYJM |analysis1=http://www.youtube.com/watch?v=xKCwrsRoAnA }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=giants! |team2=uol |t1score=1 |t2score=0 |winner=1 |date=2015-02-20 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=GQNQOMQ_1Qc |analysis1=http://www.youtube.com/watch?v=I3uMMzUAvIY }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=sk |team2=h2k |t1score=0 |t2score=1 |winner=2 |date=2015-02-20 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=https://www.youtube.com/watch?v=LfBLUyr7m_M |end=1}}
-{{!}}-{{!}}
-Week 6=
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=giants! |team2=fnatic |t1score= |t2score= |winner= |date=2015-02-26 |CET=18:00 |dst=no|shownname=2015 EU LCS Spring |stream= |vod1= |start=1|title=Week 6  |customwidth=290 |hide=false}}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=uol |team2=sk |t1score= |t2score= |winner= |date=2015-02-26 |CET=19:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=roccat |team2=h2k |t1score= |t2score= |winner= |date=2015-02-26 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=elements |team2=mym |t1score= |t2score= |winner= |date=2015-02-26 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=gg |team2=cw |t1score= |t2score= |winner= |date=2015-02-26 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=h2k |team2=giants! |t1score= |t2score= |winner= |date=2015-02-27 |CET=18:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=fnatic |team2=cw |t1score= |t2score= |winner= |date=2015-02-27 |CET=19:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=sk |team2=elements |t1score= |t2score= |winner= |date=2015-02-27 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=gg |team2=roccat |t1score= |t2score= |winner= |date=2015-02-27 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=uol |team2=mym |t1score= |t2score= |winner= |date=2015-02-27 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1= |end=1}}
-{{!}}-{{!}}
-Week 7=
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR|team1=mym |team2=giants! |t1score= |t2score= |winner= |date=2015-03-05 |CET=18:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1= |start=1|title=Week 7  |customwidth=290 |hide=false}}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=h2k |team2=gg |t1score= |t2score= |winner= |date=2015-03-05 |CET=19:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=cw |team2=elements |t1score= |t2score= |winner= |date=2015-03-05 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=sk |team2=fnatic |t1score= |t2score= |winner= |date=2015-03-05 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=roccat |team2=uol |t1score= |t2score= |winner= |date=2015-03-05 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=roccat |team2=sk |t1score= |t2score= |winner= |date=2015-03-06 |CET=18:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=elements |team2=uol |t1score= |t2score= |winner= |date=2015-03-06 |CET=19:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=fnatic |team2=mym |t1score= |t2score= |winner= |date=2015-03-06 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=h2k |team2=cw |t1score= |t2score= |winner= |date=2015-03-06 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=gg |team2=giants! |t1score= |t2score= |winner= |date=2015-03-06 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1= |end=1}}
-{{!}}-{{!}}
-Week 8=
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=elements |team2=h2k |t1score= |t2score= |winner= |date=2015-03-19 |CET=18:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1= |start=1|title=Week 8  |customwidth=290 |hide=false}}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=cw |team2=uol |t1score= |t2score= |winner= |date=2015-03-19 |CET=19:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=roccat |team2=fnatic |t1score= |t2score= |winner= |date=2015-03-19 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=gg |team2=mym |t1score= |t2score= |winner= |date=2015-03-19 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=giants! |team2=sk |t1score= |t2score= |winner= |date=2015-03-19 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=mym |team2=h2k |t1score= |t2score= |winner= |date=2015-03-20 |CET=18:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=giants! |team2=roccat |t1score= |t2score= |winner= |date=2015-03-20 |CET=19:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=elements |team2=gg |t1score= |t2score= |winner= |date=2015-03-20 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=sk |team2=cw |t1score= |t2score= |winner= |date=2015-03-20 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
-{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=uol |team2=fnatic |t1score= |t2score= |winner= |date=2015-03-20 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1= |end=1}}
+|Week 8=
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=gmb|team2=mym|t1score=0 |t2score=1 |winner=2 |date=2015-03-19 |CET=18:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=3eUHXnZLG9k |analysis1=http://www.youtube.com/watch?v=quNpf_7PcK0 |start=1|title=Week 8  |customwidth=290 |hide=false}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=roccat|team2=fnc|t1score=0 |t2score=1 |winner=2 |date=2015-03-19 |CET=19:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=kREGvsAddw0 |analysis1=http://www.youtube.com/watch?v=eR-zd-rbWe4 }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=cw |team2=uol|t1score=0 |t2score=1 |winner=2 |date=2015-03-19 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=gNTbA4UqH28 |analysis1=http://www.youtube.com/watch?v=l5cffMhQfaI }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=el |team2=h2k|t1score=1 |t2score=0 |winner=1 |date=2015-03-19 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=HB6Hn-0kAAY |analysis1=http://www.youtube.com/watch?v=Suz7OkJtjxM }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=gia|team2=sk|t1score=0 |t2score=1 |winner=2 |date=2015-03-19 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=xSkzPCB912A |analysis1=http://www.youtube.com/watch?v=y-lJ_iIpuzQ }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=mym |team2=h2k|t1score=0 |t2score=1 |winner=2 |date=2015-03-20 |CET=18:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=o6yTLQP-qnA |analysis1=http://www.youtube.com/watch?v=e5eOp46AwQo }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=uol|team2=fnc|t1score=1 |t2score=0 |winner=1 |date=2015-03-20 |CET=19:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=LqgZADsNevo |analysis1=http://www.youtube.com/watch?v=L513fss8uAU }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=sk |team2=cw |t1score=1 |t2score=0 |winner=1 |date=2015-03-20 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=fCPB2GfgCFU  }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=gia|team2=roccat|t1score=0 |t2score=1 |winner=2 |date=2015-03-20 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=timUzMv9wj8 }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=el|team2=gmb|t1score= |t2score= |winner= |date=2015-03-20 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1= |end=1}}
 {{!}}-{{!}}
 Week 9=
 {{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=h2k |team2=fnatic |t1score= |t2score= |winner= |date=2015-03-26 |CET=18:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1= |start=1|title=Week 9  |customwidth=290 |hide=false}}
@@ -1672,6 +1773,43 @@ Week 4=
 {{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=gg |team2=elements |t1score=1 |t2score=0 |winner=1 |date=2015-02-13 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=bct2IqrUzCk |analysis1=http://www.youtube.com/watch?v=_KcSEi3Uaew }}
 {{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=cw |team2=fnatic |t1score=1 |t2score=0 |winner=1 |date=2015-02-13 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=xVXjmSJfKKQ  }}
 {{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=mym |team2=uol |t1score=0 |t2score=1 |winner=2 |date=2015-02-13 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=2ptB8rin6Ys |end=1}}
+{{!}}-{{!}}
+Week 5=
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=roccat |team2=cw |t1score=0 |t2score=1 |winner=2 |date=2015-02-19 |CET=18:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=FTl7F7IEWC4 |analysis1=http://www.youtube.com/watch?v=KQPHhrdzC90 |start=1|title=Week 5  |customwidth=290 |hide=false}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=elements |team2=giants! |t1score=0 |t2score=1 |winner=2 |date=2015-02-19 |CET=19:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=gcjqmZ4pz8k |analysis1=http://www.youtube.com/watch?v=SY1OAEVpbPY }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=fnatic |team2=sk |t1score=1 |t2score=0 |winner=1 |date=2015-02-19 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=e2Hz2Tuipws |analysis1=http://www.youtube.com/watch?v=QF1mPyiGLpg }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=mym |team2=gg |t1score=0 |t2score=1 |winner=2 |date=2015-02-19 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=LT7mINdK_ac |analysis1=http://www.youtube.com/watch?v=xCYvWCZ9PBw }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=uol |team2=h2k |t1score=0 |t2score=1 |winner=2 |date=2015-02-19 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=nSFl7_yFei4 |analysis1=http://www.youtube.com/watch?v=gOh4V092vX4}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=fnatic |team2=gg |t1score=0 |t2score=1 |winner=2 |date=2015-02-20 |CET=18:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=G_uNhEoSah0 |analysis1=http://www.youtube.com/watch?v=cDwGVHVvaNE }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=roccat |team2=elements |t1score=1 |t2score=0 |winner=1 |date=2015-02-20 |CET=19:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=b_wxbgnRxpU |analysis1=http://www.youtube.com/watch?v=fuZn0bi0yfo }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=cw |team2=mym |t1score=1 |t2score=0 |winner=1 |date=2015-02-20 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=aqBho6ISYJM |analysis1=http://www.youtube.com/watch?v=xKCwrsRoAnA }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=giants! |team2=uol |t1score=1 |t2score=0 |winner=1 |date=2015-02-20 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=GQNQOMQ_1Qc |analysis1=http://www.youtube.com/watch?v=I3uMMzUAvIY }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=sk |team2=h2k |t1score=0 |t2score=1 |winner=2 |date=2015-02-20 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=LfBLUyr7m_M |end=1}}
+{{!}}-{{!}}
+Week 6=
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=giants! |team2=fnatic |t1score=0 |t2score=1 |winner=2 |date=2015-02-26 |CET=18:00 |dst=no|shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=QhPzpVPmzv4 |analysis1=http://www.youtube.com/watch?v=RC-zldC5V9w |start=1|title=Week 6  |customwidth=290 |hide=false}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=uol |team2=sk |t1score=1 |t2score=0 |winner=1 |date=2015-02-26 |CET=19:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=1G3xtlUqn2A |analysis1=http://www.youtube.com/watch?v=FjKqxWzjpXU }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=roccat |team2=h2k |t1score=0 |t2score=1 |winner=2 |date=2015-02-26 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=yPsJg1HL6aQ |analysis1=http://www.youtube.com/watch?v=bAc4A44p5x8 }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=elements |team2=mym |t1score=1 |t2score=0 |winner=1 |date=2015-02-26 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=fM3B88UCrSM |analysis1= }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=gg |team2=cw |t1score=1 |t2score=0 |winner=1 |date=2015-02-26 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=-gzthLkwr2k |analysis1= }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=h2k |team2=giants! |t1score= |t2score= |winner= |date=2015-02-27 |CET=18:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=peJkrnJYNFQ |analysis1=http://www.youtube.com/watch?v=e_01SuYYrHY }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=fnatic |team2=cw |t1score=1 |t2score=0 |winner=1 |date=2015-02-27 |CET=19:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=sk |team2=elements |t1score=1 |t2score=0 |winner=1 |date=2015-02-27 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=8_Xzkq1Vp2Q |analysis1=http://www.youtube.com/watch?v=qRtp8M9qyeI }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=gg |team2=roccat |t1score=1 |t2score=0 |winner=1 |date=2015-02-27 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=  }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=uol |team2=mym |t1score=0 |t2score=1 |winner=2 |date=2015-02-27 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1= |end=1}}
+{{!}}-{{!}}
+
+Week 7=
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR|team1=mym |team2=giants! |t1score=1 |t2score=0 |winner=1 |date=2015-03-05 |CET=18:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=dDqHWGntN3g |analysis1=http://www.youtube.com/watch?v=iIw_wvHEkbo |start=1|title=Week 7  |customwidth=290 |hide=false}}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=h2k |team2=gg |t1score=1 |t2score=0 |winner=1 |date=2015-03-05 |CET=19:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=muNVMOWaYBE |analysis1=http://www.youtube.com/watch?v=d44dj_j5Hno }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=cw |team2=elements |t1score=1 |t2score=0 |winner=1 |date=2015-03-05 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=Pn40k0QYHyc |analysis1=http://www.youtube.com/watch?v=Qxi6CJeKz9s }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=sk |team2=fnatic |t1score=1 |t2score=0 |winner=1 |date=2015-03-05 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=x9xbzMlcHl4 |analysis1=http://www.youtube.com/watch?v=953RuyHLxOY }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=roccat |team2=uol |t1score=1 |t2score=0 |winner=1 |date=2015-03-05 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=cRDFoJMXgac |analysis1=http://www.youtube.com/watch?v=P1GVx8_GT00 }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=roccat |team2=sk |t1score=0 |t2score=1 |winner=2 |date=2015-03-06 |CET=18:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=GjdjclSxyJQ |analysis1=http://www.youtube.com/watch?v=x29WqISFYpQ }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=elements |team2=uol |t1score=0 |t2score=1 |winner=2 |date=2015-03-06 |CET=19:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=2tBp_fJYwwU |analysis1=http://www.youtube.com/watch?v=vvVC9r9TheM }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=fnatic |team2=mym |t1score=1 |t2score=0 |winner=1 |date=2015-03-06 |CET=20:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=nbtNH2IPLEg |analysis1=http://www.youtube.com/watch?v=ROJ9yCiIcZI }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=h2k |team2=cw |t1score= |t2score= |winner= |date=2015-03-06 |CET=21:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=PYEW01AxSzs |analysis1=http://www.youtube.com/watch?v=UpD231EfS8c }}
+{{GameSchedule4 |nosemantics={{{1|false}}} |round=RR |team1=gg |team2=giants! |t1score=1 |t2score=0 |winner=1 |date=2015-03-06 |CET=22:00 |dst=no |shownname=2015 EU LCS Spring |stream= |vod1=http://www.youtube.com/watch?v=E7iG6fkUDc0 |analysis1=|end=1}}
 }}
 &lt;/tabber&gt;
 

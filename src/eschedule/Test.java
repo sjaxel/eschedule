@@ -2,9 +2,11 @@ package eschedule;
 
 import java.text.*;
 import java.util.*;
-import javax.swing.*;
 import java.io.IOException;
 import java.net.MalformedURLException;
+
+import com.mongodb.MongoException;
+import com.mongodb.MongoTimeoutException;
 
 public class Test {
 
@@ -20,10 +22,21 @@ public class Test {
 		//testCache = Tools.getCacheFile("Test");
 		SParse parse = new SParse(s1, testList1, testList2);
 		s1.sort(); s1.unSpoil();
-		s1.showWeeks(new int[] {5,6,7});
-		SView frame = new SView(s1);
-		frame.addMatches();
-		frame.display();
+		MongoWrite writer = new MongoWrite("localhost", 27017);
+		try {
+			writer.insert("schedule15s", s1.getDBO());
+		} catch (MongoTimeoutException e) {
+			System.out.println(e);
+		} catch (MongoException e) { 
+			System.out.println(e);
+		} finally {
+			writer.close();
+			System.out.println("MongoClient closed");
+		}
+		//s1.showWeeks(new int[] {5,6,7});
+		//SView frame = new SView(s1);
+		//frame.addMatches();
+		//frame.display();
 
 
 	}

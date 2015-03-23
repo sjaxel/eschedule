@@ -2,6 +2,9 @@ package eschedule;
 
 import java.util.*;
 
+import com.mongodb.BasicDBObject;
+import com.mongodb.DBCollection;
+
 import eschedule.Match.Status;
 
 public class Schedule {
@@ -77,5 +80,13 @@ public class Schedule {
 		}
 		return str;
 
+	}
+	
+	public BasicDBObject[] getDBO(){
+		BasicDBObject[] doc = new BasicDBObject[matches.size()];
+		for (int i = 0; i < matches.size(); i++) {
+			doc[i] = matches.get(i).getBDO();
+		}
+		return doc;
 	}
 }

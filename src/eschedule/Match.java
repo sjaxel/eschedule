@@ -3,6 +3,8 @@ package eschedule;
 import java.util.*;
 import java.net.*;
 
+import com.mongodb.BasicDBObject;
+
 public class Match implements Comparable<Match> {
 	private static int id = 1;
 
@@ -21,6 +23,21 @@ public class Match implements Comparable<Match> {
 	private String league;
 	private URL vod;
 
+	public BasicDBObject getBDO(){
+		BasicDBObject doc = new BasicDBObject();
+		doc.append("time", time.getTime());
+		doc.append("week", time.getWeek());
+		doc.append("team1", t1.getBDO());
+		doc.append("team2", t2.getBDO());
+		doc.append("t1score", t1score);
+		doc.append("t2score", t2score);
+		if (winner != null)
+			doc.append("winner", winner.getBDO());
+		doc.append("league", league);
+		doc.append("vodURL", vod);
+		return doc;
+	}
+	
 	/**
 	 * Constructor for the Match-class. Creates an empty match with current time
 	 * as and Status.SPOILERS as default.
@@ -56,6 +73,7 @@ public class Match implements Comparable<Match> {
 	public Date getTime() {
 		return time.getTime();
 	}
+	
 
 	public void initDate(Date date) {
 		time = (ECalendar) Tools.getCal();

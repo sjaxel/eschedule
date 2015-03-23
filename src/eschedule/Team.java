@@ -3,6 +3,8 @@ package eschedule;
 import java.util.*;
 import java.awt.image.*;
 
+import com.mongodb.BasicDBObject;
+
 /**
  * Class for storing information about a team.
  * 
@@ -19,7 +21,7 @@ public class Team {
 		this.name = name;
 		this.shortname = shortname;
 	}
-
+	
 	public Team() {
 	}
 
@@ -62,4 +64,13 @@ public class Team {
 	public String toString() {
 		return shortname;
 	}
+	
+	public BasicDBObject getBDO(){
+		BasicDBObject doc = new BasicDBObject();
+		doc.append("name", name);
+		doc.append("shortname", shortname);
+		doc.append("spritepos", spritepos);
+		return doc;
+	}
+	
 }
